@@ -1766,6 +1766,11 @@
         <desc>L'explorateur Dirk Pitt se lance dans l'aventure de sa vie, à la recherche d'un cuirassé perdu pendant la guerre civile dans les déserts d'Afrique de l'Ouest, tout en aidant un médecin poursuivi par un dictateur impitoyable.</desc>
         <icon src="https://images.pluto.tv/series/691627e06e0067f40d9abd7b/tile_1763059681879.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260607081657 +0000" stop="20260607100057 +0000">
+        <title>Le Sorcier et le Serpent blanc</title>
+        <desc>Un herboriste tombe amoureux d'un serpent vieux de cent ans déguisé sous les traits d'une femme. C'est alors qu'un sorcier découvre la supercherie et se bat pour sauver l'âme du vieil homme.</desc>
+        <icon src="https://images.pluto.tv/series/5ffc4971ac600d00143ac002/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed6d569d2d4000864a976" start="20260607023700 +0000" stop="20260607041700 +0000">
         <title>Louis la Brocante: Louis et la belle soyeuse</title>
         <desc>Louis est amoureux de la belle Paloma, qu'il a rencontrée dans un centre équestre.</desc>
@@ -1995,6 +2000,11 @@
         <title>Lucky Girl</title>
         <desc>Ashley est la fille la plus chanceuse de Manhattan, elle a tout pour elle. Mais lors d’une rencontre romantique avec Jake, qui lui est plutôt la personne la moins chanceuse, elle réalise que sa chance a changé de main.</desc>
         <icon src="https://images.pluto.tv/series/606eda735426cf001a3a89fd/tile_1779492962830.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260607080524 +0000" stop="20260607100324 +0000">
+        <title>Bye Bye Love</title>
+        <desc>New York, 1963. Une chroniqueuse, dont le nouveau roman qui rejette l’amour est couronné de succès, tombe sous le charme d’un journaliste tombeur de ces dames qui décide de la séduire…</desc>
+        <icon src="https://images.pluto.tv/series/606d73c4a224c9001bb9470c/tile_1779493322228.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="60afae68a7fc50000737186d" start="20260607035800 +0000" stop="20260607042500 +0000">
         <title>Les années fac: L'air du large</title>
@@ -6673,6 +6683,11 @@ LAW CONTRE DOFLAMINGO !</title>
         <title>Boomerang</title>
         <desc>Marcus Graham, responsable d'une agence de publicités, est le célibataire par excellence, chaque fois une nouvelle fille à son bras. Voici qu'arrive Jacqueline, sa nouvelle chef et Graham se retrouve éconduit pour la première fois de sa vie !</desc>
         <icon src="https://images.pluto.tv/series/64e474df445a8a00133a8834/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260607123447 +0000" stop="20260607140900 +0000">
+        <title>Burn</title>
+        <desc>Melinda, jeune employée d'une station service, est fatiguée de vivre dans l'ombre de Sheila. Quand le jeune Billy vient braquer l'établissement, Melinda profite de l'occasion pour se mettre du côté de l'agresseur et inverser le rapport de force.</desc>
+        <icon src="https://images.pluto.tv/series/6871177e8eef10068fbddb19/tile_1768265642304.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260607071419 +0000" stop="20260607090619 +0000">
         <title>Roustabout</title>
@@ -11664,6 +11679,11 @@ LA PLUS PUISSANTE ATTAQUE DE LUCY !</title>
         <desc>Le réalisateur italien Franco Zeffirelli a stupéfait les spectateurs en distribuant les rôles des célèbres amants Roméo et Juliette à deux inconnus. Mais ce pari a porté ses fruits puisque le film a remporté un franc succès.</desc>
         <icon src="https://images.pluto.tv/series/661e26326bc941001395d6a7/tile_1779839281515.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260607171748 +0000" stop="20260607193848 +0000">
+        <title>Les aiguilleurs</title>
+        <desc>Nourris de caféine et de machisme, une rivalité naît entre Nick et Russell, deux contrôleurs aériens à l’esprit de compétition affûté, et où le gagnant pourrait bien avoir tout à perdre.</desc>
+        <icon src="https://images.pluto.tv/series/607004a333e416001a4043a6/tile_1779486842606.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260607114357 +0000" stop="20260607132457 +0000">
         <title>The Librarian: The Curse of the Judas Chalice</title>
         <desc>Flynn Carson passe quelques jours à La Nouvelle-Orléans. Il y fait la connaissance de Simone Renoir, une chanteuse française qui lui dit être en possession d'une clé donnant accès à une coupe capable de ressusciter les vampires.</desc>
@@ -12228,6 +12248,11 @@ LA PLUS PUISSANTE ATTAQUE DE LUCY !</title>
         <title>Macho Callaghan se déchaîne</title>
         <desc>Un lieutenant des Gardes Fédéraux part à la recherche des hommes qui ont tué son ami et infiltre le gang dirigé par Butch Cassidy pour l'anéantir.</desc>
         <icon src="https://images.pluto.tv/series/68daa1c5393a03f3e3ea1809/tile_1759184584170.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260607165802 +0000" stop="20260607182137 +0000">
+        <title>Black Spurs</title>
+        <desc>1880, Kansas. Un homme habile dans le maniement du revolver découvre qu'il est plus rentable de toucher des primes en pourchassant des hors-la-loi plutôt que de travailler dans un ranch. Mais sa fiancée n'approuve pas sa nouvelle vie aventureuse.</desc>
+        <icon src="https://images.pluto.tv/series/66192ef12fd04d00130c92fb/tile_1779910922068.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="662a622b5e2370000800f392" start="20260607105543 +0000" stop="20260607122443 +0000">
         <title>Faites Entrer L'accuse</title>
@@ -24931,25 +24956,45 @@ LE SAUVEUR DE DRESSROSA !</title>
         <desc>Swift precisam confiar um no outro e em suas habilidades de navegação enquanto resgatam dois gansos perdidos na neblina. // Swift parte para um resgate enquanto a cantoria alta e excessiva de Rod faz com que ele fique preso em um desmoronamento.</desc>
         <icon src="https://images.pluto.tv/series/6a04e416488e575cff515103/tile_1780807752887.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260607200000 +0000" stop="20260608010700 +0000">
-        <title>FailArmy</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607195700 +0000" stop="20260607202800 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Packing for laughs! From amusement parks to road trips, Fail Army reveals vacations gone hilariously wrong!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260608010700 +0000" stop="20260608013800 +0000">
-        <title>FailArmy Now</title>
-        <desc>What do Couples, Cats, and Machines have in common? They're all in this episode of FAILARMY NOW.</desc>
-        <icon src="https://images.pluto.tv/series/68dbb902e466f791b5fb54de/tile_1759230230391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607202800 +0000" stop="20260607205900 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>The more, the merrier; from parents to pets, these travel fails will leave you laughing all the way home.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260608013800 +0000" stop="20260608021000 +0000">
-        <title>FailArmy Now</title>
-        <desc>A Canadian Superhero; a mountain-biker gang; janky furniture.</desc>
-        <icon src="https://images.pluto.tv/series/68dbb902e466f791b5fb54de/tile_1759230230391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607205900 +0000" stop="20260607213000 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Dive deep, soar high, or stay grounded-adventure fails await in every element, across the globe!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260608021000 +0000" stop="20260608024200 +0000">
-        <title>FailArmy Now</title>
-        <desc>A look at what flaming hot peppers, rhythmless dancers and horses have in common.</desc>
-        <icon src="https://images.pluto.tv/series/68dbb902e466f791b5fb54de/tile_1759230230391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607213000 +0000" stop="20260607220100 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Travel chaos erupts with foodie fails, nightlife mishaps, and hilarious moments from around the globe!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607220100 +0000" stop="20260607223200 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Beaches, deserts, mountains, and cities beware, fails do not discriminate across any terrain around the globe!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607223200 +0000" stop="20260607230300 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>From parades to parties, chaos erupts as festive fails take center stage in celebrations around the globe!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607230300 +0000" stop="20260607233400 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Brace for impact; from rainy season wipeouts to summer meltdowns, weather fails strike tourists worldwide!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260607233400 +0000" stop="20260608000500 +0000">
+        <title>Around the World in 80 Fails</title>
+        <desc>Fails know no borders! From America to Africa, tourists take tumbles across continents!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb911e466f791b5fb7960/tile_1759230247474.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260607190800 +0000" stop="20260607222300 +0000">
         <title>WPT: Alpha 8: Florida</title>
@@ -29981,6 +30026,11 @@ L'INJECTION SHOT DE LAW !</title>
         <title>1986 FIFA World Cup</title>
         <desc>Des moments légendaires aux matchs inoubliables, en passant par les histoires captivantes qui se cachent derrière les exploits des plus grandes stars, FIFA+ vous offre une expérience footballistique unique et immersive</desc>
         <icon src="https://images.pluto.tv/series/67b36b7b96446070bd3ce007/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20260608044600 +0000" stop="20260608050700 +0000">
+        <title>Nation's Eleven</title>
+        <desc>Des moments légendaires aux matchs inoubliables, en passant par les histoires captivantes qui se cachent derrière les exploits des plus grandes stars, FIFA+ vous offre une expérience footballistique unique et immersive</desc>
+        <icon src="https://images.pluto.tv/series/6920c64d779bf41d1dae4b6b/tile_1763756299760.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20260608000000 +0000" stop="20260608010000 +0000">
         <title>Top stories from CNN</title>
