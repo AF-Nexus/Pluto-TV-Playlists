@@ -6636,6 +6636,11 @@
         <desc>El astrofísico americano David Sumner (Hoffman) se traslada a vivir al pueblo de su mujer, en Gran Bretaña.</desc>
         <icon src="https://images.pluto.tv/series/673f4280e07f280013031791/tile_1769192281973.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="60cc807324d60a0007708dc8" start="20260610234929 +0000" stop="20260611015229 +0000">
+        <title>Regreso a Montauk</title>
+        <desc>El escritor Max Zorn regresa a Nueva York para la promoción de su última novela, donde le espera su joven esposa Clara, quien lleva meses trabajando allí.</desc>
+        <icon src="https://images.pluto.tv/series/60d18638d2de2a0013003674/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="60d356a534f63f000850cdd7" start="20260610190140 +0000" stop="20260610200240 +0000">
         <title>Top Gear: Temporada 9, Episodio 5</title>
         <desc>Los muchachos se vuelven rurales mientras aprovechan un grupo de tractores de alta tecnología.</desc>
@@ -14853,30 +14858,25 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Un niño nacido en Almansa transformó al equipo de fútbol de Chamartín en el más laureado.</desc>
         <icon src="https://images.pluto.tv/series/6615039d1ed2fc0013a39900/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260610233000 +0000" stop="20260610233600 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260610210100 +0000" stop="20260610233600 +0000">
+        <title>1998 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between Argentina and England played at Stade Geoffroy Guichard, Saint-Étienne on Tuesday, June 30, 1998.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b9196446070bd3d05ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260610233600 +0000" stop="20260611000100 +0000">
         <title>Queen of WE</title>
         <desc>WE League champions INAC Kobe and Empress Cup winners Urawa clash at the National Stadium.</desc>
         <icon src="https://images.pluto.tv/series/67bf5e0e9bb6bb612106dd1a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611000100 +0000" stop="20260611051100 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260611000100 +0000" stop="20260611023800 +0000">
+        <title>1998 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between Brazil and Netherlands played at Stade Vélodrome.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b9196446070bd3d05ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611051100 +0000" stop="20260611070500 +0000">
-        <title>2002 FIFA World Cup</title>
-        <desc>Watch the full match replay from the match between England and Brazil played at Shizuoka Stadium ECOPA, Shizuoka on Friday, 21 June 2002.</desc>
-        <icon src="https://images.pluto.tv/series/67b36b6b96446070bd3cc2db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611070500 +0000" stop="20260611073100 +0000">
-        <title>FIFA World Cup™ Extra Time Thrillers</title>
-        <desc>Relive two matches that needed more than 90 minutes to crown a winner.</desc>
-        <icon src="https://images.pluto.tv/series/67b36b9c96446070bd3d1aff/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260611023800 +0000" stop="20260611043000 +0000">
+        <title>1998 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between the Netherlands and Argentina played at Stade Vélodrome, Marseille on Saturday, July 4, 1998.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b9196446070bd3d05ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45c0de7f5e80008b82005" start="20260610230000 +0000" stop="20260611000000 +0000">
         <title>Top stories from CNN</title>
@@ -19698,10 +19698,15 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <desc>Partidos históricos del primer equipo del Real Madrid de fútbol y baloncesto.</desc>
         <icon src="https://images.pluto.tv/series/6615039e1ed2fc0013a399cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611033000 +0000" stop="20260611051100 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260611023800 +0000" stop="20260611043000 +0000">
+        <title>1998 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between the Netherlands and Argentina played at Stade Vélodrome, Marseille on Saturday, July 4, 1998.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b9196446070bd3d05ec/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c29f80cd4630008f1547c" start="20260611043000 +0000" stop="20260611051100 +0000">
+        <title>The Greatest Game</title>
+        <desc>The FIFA eWorld Cup 2019 semifinal is considered one of the best FIFA games ever.</desc>
+        <icon src="https://images.pluto.tv/series/67c20f8bd37970ebe6bf80b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260611051100 +0000" stop="20260611070500 +0000">
         <title>2002 FIFA World Cup</title>
@@ -19712,16 +19717,6 @@ Cuatro hombres son detenidos fumando marihuana y bebiendo alcohol en la vía pú
         <title>FIFA World Cup™ Extra Time Thrillers</title>
         <desc>Relive two matches that needed more than 90 minutes to crown a winner.</desc>
         <icon src="https://images.pluto.tv/series/67b36b9c96446070bd3d1aff/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611073100 +0000" stop="20260611092400 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
-    </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611092400 +0000" stop="20260611102400 +0000">
-        <title>The Long Walk</title>
-        <desc>The first episode of the series traces the history of the penalty shootout from its first appearance.</desc>
-        <icon src="https://images.pluto.tv/series/67b36be796446070bd3db3f9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45c0de7f5e80008b82005" start="20260611030000 +0000" stop="20260611040000 +0000">
         <title>Top stories from CNN</title>
@@ -29510,10 +29505,10 @@ sobrevivir a las duras condiciones.</desc>
         <desc>La mejor cobertura de los partidos de fútbol de la Liga Española de Primera División.</desc>
         <icon src="https://images.pluto.tv/series/661503a01ed2fc0013a39c61/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c29f80cd4630008f1547c" start="20260611113000 +0000" stop="20260611121700 +0000">
-        <title>FIFA+</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/660c29f80cd4630008f1547c/featuredImage_1750064806182.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="660c29f80cd4630008f1547c" start="20260611102400 +0000" stop="20260611121700 +0000">
+        <title>2002 FIFA World Cup</title>
+        <desc>Watch the full match replay from the match between Germany and USA played at Munsu Football Stadium, Ulsan on Friday, 21 June 2002.</desc>
+        <icon src="https://images.pluto.tv/series/67db14ad89ba442cd933b221/tile_1761034336498.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="660c29f80cd4630008f1547c" start="20260611121700 +0000" stop="20260611124500 +0000">
         <title>FIFA World Cup™ Matches That Astonished the World</title>
