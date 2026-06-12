@@ -5692,9 +5692,9 @@ pèlerinage.</desc>
         <icon src="https://images.pluto.tv/series/6a1820301718969e36806cd3/tile_1779966001831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613043521 +0000" stop="20260613052616 +0000">
-        <title>Dead Still</title>
-        <desc>L'appareil photographique de Blennerhasset a disparu. Convaincu que Conall Molloy le lui a volé, il part à sa recherche dans le quartier mal famé de Dublin.</desc>
-        <icon src="https://images.pluto.tv/series/6a1820301718969e36806cd3/tile_1779966001831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <title>Pluto TV Polar</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613052616 +0000" stop="20260613062326 +0000">
         <title>Dead Still</title>
@@ -6651,50 +6651,10 @@ pèlerinage.</desc>
         <desc>Tag, Gabriel, Tarik, Eloïse et Nordine jouent avec passion au foot de rue. Ils décident d'en organiser la première Coupe du monde, en dépit des difficultés.</desc>
         <icon src="https://images.pluto.tv/series/652770a8a61c2a001bded469/tile_1776241801471.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613015815 +0000" stop="20260613022815 +0000">
+    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613020000 +0000" stop="20260613060000 +0000">
         <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613022815 +0000" stop="20260613025815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613025815 +0000" stop="20260613032815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613032815 +0000" stop="20260613035815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613035815 +0000" stop="20260613042815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613042815 +0000" stop="20260613045815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613045815 +0000" stop="20260613052815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613052815 +0000" stop="20260613055815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613055815 +0000" stop="20260613062815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6a1ecc3d7120a26f0dcf89e7/featuredImage_1780993168334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="5f8ece1a89d79800072510e6" start="20260613014648 +0000" stop="20260613032348 +0000">
         <title>Avengers Grimm: Time Wars</title>
@@ -16692,6 +16652,11 @@ de la ville.</desc>
         <desc>A la suite d'un accident de voiture dans lequel sa mère est tuée, Frank Harris est kidnappé par un personnage de bande dessinée.</desc>
         <icon src="https://images.pluto.tv/series/66193a30acbc68001370344e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260613140356 +0000" stop="20260613154056 +0000">
+        <title>A.C.O.D.</title>
+        <desc>Un homme adulte découvre qu'il a été enrôlé malgré lui dans une étude sur les enfants de divorcés.</desc>
+        <icon src="https://images.pluto.tv/series/64ccc3b3e675cb0013b2a994/tile_1779837121985.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed168f72fcd0007e56269" start="20260613093215 +0000" stop="20260613112915 +0000">
         <title>Falling in Love</title>
         <desc>A la veille de Noël. Lorsqu'il sort de chez Rizzoli, où il vient d'acheter pour son épouse un ouvrage sur l'entretien des jardins, Frank Raftis a les bras encombrés de paquets. Molly Gilmore vient l'aider mais l'inévitable se produit...</desc>
@@ -20529,6 +20494,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <desc>Live Snooker 900, une version innovante, rapide et palpitante du billard ! Chaque semaine, des joueurs légendaires s'affrontent dans des tournois captivants.</desc>
         <icon src="https://images.pluto.tv/series/69d8e0037f004573bea002c5/tile_1775820809537.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="66fd35e44ca31f0008060b77" start="20260613181500 +0000" stop="20260613211500 +0000">
+        <title>Snooker 900</title>
+        <desc>Snooker 900 is the new fast, 15-minute version of snooker. It features legends like Jimmy White and showcases top amateurs, juniors, women, and disabled players.</desc>
+        <icon src="https://images.pluto.tv/series/69172310f17cb9c145a81039/tile_1763131342552.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="671643fc5534bb00089187ad" start="20260613093700 +0000" stop="20260613100800 +0000">
         <title>Break of Throw: Steve Beaton and Mervyn King</title>
         <desc>Glen Durrant analyses the throws of darts legends Steve Beaton and Mervyn King.</desc>
@@ -22128,6 +22098,11 @@ En essayant de trouver un léopard dans le vaste paysage désertique du sud de l
         <title>Le Smoking</title>
         <desc>Jimmy Tong, simple chauffeur de taxi devenu chauffeur personnel, enfile un smoking d'une valeur de 2 milliards de dollars appartenant à un espion et devient sans le vouloir un fringant agent secret.</desc>
         <icon src="https://images.pluto.tv/series/661f76468b96a6001344baaf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e2d000418d00070f7dbc" start="20260613180234 +0000" stop="20260613195634 +0000">
+        <title>Bleeding Steel</title>
+        <desc>Une invention biochimique permet de sauver la fille de Lin Dong. Mais elle est convoitée par un mystérieux groupe criminel. Lin Dong va tout faire pour la protéger des criminels qui la traque.</desc>
+        <icon src="https://images.pluto.tv/series/6389c7007756bf001300c613/tile_1768347364813.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3ece7b09fd6000783bfb9" start="20260613135013 +0000" stop="20260613141313 +0000">
         <title>Un Gars Une Fille: Au drive-in (1) /  Soirée romaine /  Dans leur lit (3)</title>
@@ -26802,6 +26777,11 @@ Gwenaël nous parle des possibilités qu'offre le génie végétal.</desc>
         <desc>La prise de conscience d'un magistrat d'une petite ville coloniale après avoir été témoin des mauvais traitements subis par les prisonniers de guerre.</desc>
         <icon src="https://images.pluto.tv/series/6979f71200cf117a5544ef30/tile_1769600787915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260613223430 +0000" stop="20260614001823 +0000">
+        <title>3 Days In Malay</title>
+        <desc>Un petit groupe doit défendre un aérodrome pendant trois jours contre l'assaut japonais lors de la lutte pour Malay pendant la Seconde Guerre mondiale.</desc>
+        <icon src="https://images.pluto.tv/series/65dee0f8909f0f0013ad2646/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed6d569d2d4000864a976" start="20260613163100 +0000" stop="20260613180900 +0000">
         <title>Louis la Brocante: Louis et la grande braderie</title>
         <desc>Alors que Louis s'apprête à partir pour Lille, où se tient la grande braderie annuelle, la mère supérieure de l'orphelinat lui confie quelques objets.</desc>
@@ -30602,6 +30582,11 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Series 14: Week 7, Finals Night.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dee8cf62654291facf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260613223000 +0000" stop="20260613233600 +0000">
+        <title>An Audience with Phil Taylor &amp; Adrian Lewis</title>
+        <desc>Join Phil Taylor &amp; Adrian Lewis for an intimate Q&amp;A at the Live Lounge sharing their best moments and memories.</desc>
+        <icon src="https://images.pluto.tv/series/68fbdd0e69032f4edfa0da7c/tile_1761668161924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="67921b78b83355184c667770" start="20260613180000 +0000" stop="20260613183000 +0000">
         <title>UFC</title>
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
@@ -30652,17 +30637,32 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Christa a déclenché une puissante décharge électromagnétique qui sème le chaos à bord de l'Ascension et rompt toute communication avec l'extérieur. Fascinée par les facultés de l'enfant, la directrice envoie un de ses hommes pour la capturer.</desc>
         <icon src="https://images.pluto.tv/series/60e80a63ab3ca3001365005e/tile_1768087683870.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260613221647 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260613221647 +0000" stop="20260613224247 +0000">
+        <title>112 Unité d'urgence: Un nouveau pompier ?</title>
+        <desc>Un ouvrier qui pilote une pelleteuse sur un chantier rencontre à nouveau un problème avec les freins de son engin. En essayant de réparer le câble qui fuit, le liquide lui gicle au visage et le malheureux tombe dans le ravin situé juste derrière lui...</desc>
+        <icon src="https://images.pluto.tv/series/6113899fec6e1200142c7307/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260613224247 +0000" stop="20260613230947 +0000">
+        <title>112 Unité d'urgence: Grossesse et cornichons</title>
+        <desc>Un club de motards engage Ben, un cracheur de feu, pour se donner en spectacle lors de leur réunion annuelle. Ben semble malade et tousse à plusieurs reprises avant la représentation, ce qui ne manque pas d'inquiéter Maria, son assistante.</desc>
+        <icon src="https://images.pluto.tv/series/6113899fec6e1200142c7307/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed2d1c34c2300073bf02c" start="20260613230947 +0000" stop="20260614020000 +0000">
         <title>Series by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed2d1c34c2300073bf02c/featuredImage_1775048963457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613211436 +0000" stop="20260613220531 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613220000 +0000" stop="20260613220531 +0000">
+        <title>Pluto TV Polar</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613220531 +0000" stop="20260613230241 +0000">
         <title>Dead Still</title>
-        <desc>L'appareil photographique de Blennerhasset a disparu. Convaincu que Conall Molloy le lui a volé, il part à sa recherche dans le quartier mal famé de Dublin.</desc>
+        <desc>Molloy est chargé de prendre en photographie la mère de Blennerhasset qui vient de décéder.</desc>
         <icon src="https://images.pluto.tv/series/6a1820301718969e36806cd3/tile_1779966001831.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613220531 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ed4dbf6bb0800071ffbcb" start="20260613230241 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Polar</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed4dbf6bb0800071ffbcb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30672,7 +30672,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Lorsque Walker élimine un trafiquant d'armes lors d'un coup de filet, le frère du défunt décide de se venger en utilisant C.D. comme appât pour attirer Walker dans un piège.</desc>
         <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa749ac7f3200078adb40" start="20260613221800 +0000" stop="20260614020000 +0000">
+    <programme channel="60afa749ac7f3200078adb40" start="20260613221800 +0000" stop="20260613230800 +0000">
+        <title>Walker Texas Ranger: Gros plan sur les rangers</title>
+        <desc>Lorsqu’une journaliste de télévision demande à filmer les Rangers en action pour une émission policière nationale, ni Walker ni Trivette ne veulent participer, jusqu'à ce qu'ils rencontrent la belle journaliste.</desc>
+        <icon src="https://images.pluto.tv/series/61162089bd1d980013b02ffd/tile_1747381007928.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa749ac7f3200078adb40" start="20260613230800 +0000" stop="20260614020000 +0000">
         <title>Walker Texas Ranger</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa749ac7f3200078adb40/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30682,7 +30687,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Neely est de retour à Malibu, et Donna tente de l’aider à surpasser son addiction aux antidouleurs. Craig Pomeroy refait surface et vient en aide à un Indien d’Amérique.</desc>
         <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afaa535580be0007ac9ee4" start="20260613222500 +0000" stop="20260614020000 +0000">
+    <programme channel="60afaa535580be0007ac9ee4" start="20260613222500 +0000" stop="20260613231200 +0000">
+        <title>Alerte à Malibu: Rapt sur la plage</title>
+        <desc>Cody enfreint le règlement en quittant son poste de travail cinq minutes plus tôt que prévu pour aller rejoindre Lani au cinéma. Peu de temps après son départ, une jeune femme disparaît en mer.</desc>
+        <icon src="https://images.pluto.tv/series/60ebff8ae51e2b001328501f/tile_1774606703899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afaa535580be0007ac9ee4" start="20260613231200 +0000" stop="20260614020000 +0000">
         <title>Alerte à Malibu</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afaa535580be0007ac9ee4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30692,7 +30702,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Toutes les compétences de Sam sont requises lorsque dix corps supplémentaires sont retrouvés sur l'épave de l'hélicoptère dans la mer du Nord. Son équipe de légistes commence alors pour de bon à rassembler les pièces du puzzle.</desc>
         <icon src="https://images.pluto.tv/series/61922c2e1ff13a001a205cf7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35a74c63c3c0008df6a90" start="20260613224404 +0000" stop="20260614020000 +0000">
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260613224404 +0000" stop="20260613234204 +0000">
+        <title>Affaires non classées : Saison 4: Une Certaine Justice - Partie 1</title>
+        <desc>Lorsqu'un chef de gang est retrouvé mort, son frère accuse le constructeur du coin : le corps a été retrouvé sur son terrain. Sam est appelée pour enquêter. Sam est également impliquée dans la découverte archéologique d'un corps dans une tourbière.</desc>
+        <icon src="https://images.pluto.tv/series/61922c2e1ff13a001a205cf7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35a74c63c3c0008df6a90" start="20260613234204 +0000" stop="20260614020000 +0000">
         <title>BBC Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35a74c63c3c0008df6a90/featuredImage_1771579997925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30702,7 +30717,22 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Manny n'a que de vagues souvenirs de la fête de Peter.</desc>
         <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e71322f5f180007001dde" start="20260613220600 +0000" stop="20260614020000 +0000">
+    <programme channel="611e71322f5f180007001dde" start="20260613220600 +0000" stop="20260613223100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Retrouvailles</title>
+        <desc>Paige a déjà planifié toute sa vie.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260613223100 +0000" stop="20260613225600 +0000">
+        <title>Degrassi : La Nouvelle Génération: Liberty n'a plus envie de rire</title>
+        <desc>JT a une nouvelle petite amie, Liberty, qui est présidente du conseil des élèves. Alors pourquoi ce complexe d’infériorité ?</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260613225600 +0000" stop="20260613232100 +0000">
+        <title>Degrassi : La Nouvelle Génération: Premier concert</title>
+        <desc>Après toutes les folies de l'année dernière, Craig n'a qu'un seul souhait : fini les drames.</desc>
+        <icon src="https://images.pluto.tv/series/615d7ba2fba8ea001a3241bd/tile_1768194361010.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e71322f5f180007001dde" start="20260613232100 +0000" stop="20260614020000 +0000">
         <title>Degrassi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e71322f5f180007001dde/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30712,7 +30742,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
         <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6245ccd0c6cdb800074632e4" start="20260613221300 +0000" stop="20260614020000 +0000">
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260613221300 +0000" stop="20260613230900 +0000">
+        <title>MacGyver: L'assassin</title>
+        <desc>Travaillant pour la Fondation Phoenix, MacGyver est appelé à l'aide dès qu'une situation périlleuse l'exige.</desc>
+        <icon src="https://images.pluto.tv/series/62c7cda8be1ffb0014f7e9c7/tile_1776895861920.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6245ccd0c6cdb800074632e4" start="20260613230900 +0000" stop="20260614020000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6245ccd0c6cdb800074632e4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30722,7 +30757,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Les choses ont aujourd'hui empiré : les rêves de Warren se poursuivent tandis que le groupe combat les MAD-Z.</desc>
         <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="625ec7a1c853fd00073b38fd" start="20260613223644 +0000" stop="20260614020000 +0000">
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260613223644 +0000" stop="20260613232530 +0000">
+        <title>Z Nation</title>
+        <desc>Poussés par son rêve d'arc-en-ciel noir et de pluie mangeuse de chair, Warren et Murphy s'échappent de Zona.</desc>
+        <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="625ec7a1c853fd00073b38fd" start="20260613232530 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Séries Fantastiques</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/625ec7a1c853fd00073b38fd/featuredImage_1775048560569.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30732,7 +30772,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Lisa, la fille d'une amie très proche du commissaire, a été enlevé. Les ravisseurs réclament la somme de deux millions d'euros pour la relâcher. Très vite les soupçons de Sami et de Jan se portent sur Vincent Schwarz, le beau-père de Lisa.</desc>
         <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e4bc08f5ec000744f552" start="20260613224100 +0000" stop="20260614020000 +0000">
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260613224100 +0000" stop="20260613233600 +0000">
+        <title>Alerte Cobra un duo explosif: Camarades en détresse</title>
+        <desc>Bonrath et Herzberger, pour redorer leur blason après une erreur qui a coûté une Porsche neuve au service, partent enquêter et se retrouvent prisonniers d'une bande de trafiquants d'armes.</desc>
+        <icon src="https://images.pluto.tv/series/6363640d8515d300131c95b3/tile_1774603441178.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e4bc08f5ec000744f552" start="20260613233600 +0000" stop="20260614020000 +0000">
         <title>Alerte Cobra</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e4bc08f5ec000744f552/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30742,7 +30787,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Lorsqu'un incendie se déclare dans la cuisine d'un navire, Harm et Mac sont envoyés pour enquêter. L'enquête n'est en fait qu'une couverture qui leur permet d'enquêter discrètement sur le capitaine du navire.</desc>
         <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65ccd26060eb870008db95fc" start="20260613224902 +0000" stop="20260614020000 +0000">
+    <programme channel="65ccd26060eb870008db95fc" start="20260613224902 +0000" stop="20260613233841 +0000">
+        <title>Jag: Correspondant de guerre</title>
+        <desc>Des Navy Seals sont blessés et des civils sont tués au cours d'une mission en Afghanistan. Un journaliste a été envoyé sur place dans le cadre d'une opération de relations publiques pour faire de la publicité à l'armée.</desc>
+        <icon src="https://images.pluto.tv/series/6641efe0af79c70013dc9ce7/tile_1768263484851.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65ccd26060eb870008db95fc" start="20260613233841 +0000" stop="20260614020000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65ccd26060eb870008db95fc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30752,7 +30802,22 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Woody offre une bague de fiançailles à Kelly lorsque son père l'envoie en Europe.</desc>
         <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce14060eb870008dbd003" start="20260613220525 +0000" stop="20260614020000 +0000">
+    <programme channel="65cce14060eb870008dbd003" start="20260613220525 +0000" stop="20260613223118 +0000">
+        <title>Cheers</title>
+        <desc>Carla est hantée par le fantôme d'Eddie lorsqu'elle décide de sortir avec un autre homme.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260613223118 +0000" stop="20260613225714 +0000">
+        <title>Cheers</title>
+        <desc>Robin demande à Rebecca de vivre avec lui, mais cette dernière apprend qu'il se sert d'elle pour lancer une OPA hostile sur sa société.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260613225714 +0000" stop="20260613232304 +0000">
+        <title>Cheers</title>
+        <desc>Sam redevient propriétaire du bar et a enfin sa chance avec Rebecca lorsqu'il dénonce Robin aux autorités pour délit d'initié.</desc>
+        <icon src="https://images.pluto.tv/series/683dab9903a2ab14da69cf90/tile_1768266361020.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce14060eb870008dbd003" start="20260613232304 +0000" stop="20260614020000 +0000">
         <title>Cheers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce14060eb870008dbd003/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30762,7 +30827,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Jonathan et Mark aident une adolescente atteinte d'un cancer nommé Lee qui veut sauver les dauphins.</desc>
         <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cce23bdc10a400080645ad" start="20260613225240 +0000" stop="20260614020000 +0000">
+    <programme channel="65cce23bdc10a400080645ad" start="20260613225240 +0000" stop="20260613235138 +0000">
+        <title>Highway to Heaven</title>
+        <desc>Le cancer de Lee est maintenant en rémission.</desc>
+        <icon src="https://images.pluto.tv/series/68b1b6989889a990edff24e3/tile_1774603801094.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cce23bdc10a400080645ad" start="20260613235138 +0000" stop="20260614020000 +0000">
         <title>Les Routes du Paradis</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cce23bdc10a400080645ad/featuredImage_1756898911225.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30772,7 +30842,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Le FMI tire une mission délicate lorsqu'un sénateur américain est assassiné par Andreas Solowiechek, membre d'une délégation commerciale communiste.</desc>
         <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b21ffc3a46000857fe75" start="20260613221709 +0000" stop="20260614020000 +0000">
+    <programme channel="6671b21ffc3a46000857fe75" start="20260613221709 +0000" stop="20260613231416 +0000">
+        <title>Mission: Impossible</title>
+        <desc>Une crise internationale est menacée lorsqu'un conteneur de matières nucléaires Deutérium 14 et des informations top secrètes sur sa production tombent entre les mains du commandant sadique d'une colonie pénitentiaire infâme.</desc>
+        <icon src="https://images.pluto.tv/series/681e008ea21058b98fb2d6e7/tile_1768266010996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b21ffc3a46000857fe75" start="20260613231416 +0000" stop="20260614020000 +0000">
         <title>Mission Impossible</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b21ffc3a46000857fe75/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30782,7 +30857,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Adrien Beaulieu fait un scandale à la maternité : il hurle qu’il est le père d’un enfant né sous X. L’hôpital refuse de lui laisser voir le bébé. Le lendemain, on découvre le cadavre de cet homme dans son appartement, assassiné</desc>
         <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1774604520913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6671b26836a2f90008d9333c" start="20260613224218 +0000" stop="20260614020000 +0000">
+    <programme channel="6671b26836a2f90008d9333c" start="20260613224218 +0000" stop="20260614003038 +0000">
+        <title>Diane Femme Flic</title>
+        <desc>Bernard Girard, un truand qui vient de sortir de prison, est écrasé sur une petite route de campagne par un 4x4. Diane remonte la piste des anciens complices.</desc>
+        <icon src="https://images.pluto.tv/series/6720a848a88a190013614b1f/tile_1774604520913.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6671b26836a2f90008d9333c" start="20260614003038 +0000" stop="20260614020000 +0000">
         <title>Diane, femme flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6671b26836a2f90008d9333c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30792,7 +30872,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Warren est incapable d'empêcher Murphy et les autres de commettre une atrocité en guise de vengeance.</desc>
         <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b227b446762a000846c208" start="20260613222638 +0000" stop="20260614020000 +0000">
+    <programme channel="66b227b446762a000846c208" start="20260613222638 +0000" stop="20260613231524 +0000">
+        <title>Z Nation</title>
+        <desc>Warren et le groupe rencontrent un mystérieux étranger qu'ils pensent être un pilleur de tombes.</desc>
+        <icon src="https://images.pluto.tv/series/66d6f06c46be430013ced138/tile_1768264203591.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b227b446762a000846c208" start="20260613231524 +0000" stop="20260614020000 +0000">
         <title>Z Nation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b227b446762a000846c208/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30802,7 +30887,17 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Après avoir publié l'adresse de son blog, tout le monde semble avoir son mot à dire sur la vie de Jenna. Toutefois, alors que tout le monde s'en amuse, Jake et Matty veulent des réponses.</desc>
         <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b498bc14a2bb00086965bc" start="20260613221426 +0000" stop="20260614020000 +0000">
+    <programme channel="66b498bc14a2bb00086965bc" start="20260613221426 +0000" stop="20260613223726 +0000">
+        <title>Awkward: Il était une fois un blog</title>
+        <desc>L'imagination de Jenna s'emballe alors qu'elle romance son blog pour changer son destin. En réinventant et analysant son passé, Jenna essaie d'imaginer son avenir.</desc>
+        <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260613223726 +0000" stop="20260613230026 +0000">
+        <title>Awkward: Chaussure à son pied</title>
+        <desc>Jenna annonce la décision qu'elle a prise concernant les garçons. De plus, elle part en voyage en Europe, tout semble donc lui sourire. Mais un événement la fait douter : obtenir tout ce qu'elle veut est-il vraiment bénéfique ?</desc>
+        <icon src="https://images.pluto.tv/series/600a8532b2c9b7001a3e2cea/tile_1780413841384.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b498bc14a2bb00086965bc" start="20260613230026 +0000" stop="20260614020000 +0000">
         <title>Pluto TV 2010's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b498bc14a2bb00086965bc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30812,7 +30907,22 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>C'est l'anniversaire de Sabrina et elle a prévu d'inviter Josh. Mais c'était sans compter sa tante Irma qui ne s'appelle pas la douce.</desc>
         <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b4990746762a00084c2f78" start="20260613220542 +0000" stop="20260614020000 +0000">
+    <programme channel="66b4990746762a00084c2f78" start="20260613220542 +0000" stop="20260613223040 +0000">
+        <title>Sabrina The Teenage Witch</title>
+        <desc>En ouvrant un message sur un ordinateur, Sabrina est contaminée par un étrange virus envoyé par sa jumelle maléfique...</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260613223040 +0000" stop="20260613225537 +0000">
+        <title>Sabrina The Teenage Witch</title>
+        <desc>Sabrina se sent totalement abandonnée par tous ses amis elle décide d'aller oublier ses problèmes sur le nuage...</desc>
+        <icon src="https://images.pluto.tv/series/65f95c851703d80013827c0f/tile_1768263121344.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260613225537 +0000" stop="20260613232237 +0000">
+        <title>Kenan et Kel: Plantes et plantages</title>
+        <desc>Chris va rendre visite à sa mère une semaine et demande à Kenan de surveiller sa maison. Kenan est pris par les événements et oublie sa responsabilité.</desc>
+        <icon src="https://images.pluto.tv/series/602b895cf5408c001a4f77a3/tile_1774607401198.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b4990746762a00084c2f78" start="20260613232237 +0000" stop="20260614020000 +0000">
         <title>Pluto TV 90's Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b4990746762a00084c2f78/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30822,7 +30932,17 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Un homme pose des explosifs dans un immeuble. Il choisit avec soin l'emplacement qui peut causer le plus de dommages.</desc>
         <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d71ff86b63480008cf15c5" start="20260613221105 +0000" stop="20260614020000 +0000">
+    <programme channel="66d71ff86b63480008cf15c5" start="20260613221105 +0000" stop="20260613225810 +0000">
+        <title>Flashpoint</title>
+        <desc>L'équipe se lance à la poursuite d'un homme qui sème la panique dans la ville. Il s'agit d'un ancien psychiatre qui porte une veste explosive. Dernier épisode de la série.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260613225810 +0000" stop="20260613234655 +0000">
+        <title>Flashpoint</title>
+        <desc>Un tireur enragé prend une personne en otage sur une place publique; l'équipe doit prendre des mesures draconiennes et en assumer les conséquences.</desc>
+        <icon src="https://images.pluto.tv/series/67e66d80e680c6d5f6772de9/tile_1774604161192.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d71ff86b63480008cf15c5" start="20260613234655 +0000" stop="20260614020000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d71ff86b63480008cf15c5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30832,7 +30952,17 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Danny et Kate n'ont aucune piste après une fusillade, mais Linda pourrait bien les aider après avoir entendu la victime donner le nom du coupable à son prêtre.</desc>
         <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55a9a747bfa0008521859" start="20260613221234 +0000" stop="20260614020000 +0000">
+    <programme channel="66f55a9a747bfa0008521859" start="20260613221234 +0000" stop="20260613225657 +0000">
+        <title>Blue Bloods</title>
+        <desc>Deux automobilistes aux voitures polluantes sont tués par un sniper, Danny et Kate sont à la recherche du suspect que la ville pense être un serial killer écologiste radical.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260613225657 +0000" stop="20260613234335 +0000">
+        <title>Blue Bloods</title>
+        <desc>Jamie doit faire face aux conséquences émotionnelles qu'impliquent ses actions.</desc>
+        <icon src="https://images.pluto.tv/series/6718a5f8a4b22d00147757b9/tile_1768278877085.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55a9a747bfa0008521859" start="20260613234335 +0000" stop="20260614020000 +0000">
         <title>Blue Bloods</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55a9a747bfa0008521859/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30842,7 +30972,17 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Kirk, Scotty, McCoy et Uhura entrent dans un univers parallèle.</desc>
         <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260613220128 +0000" stop="20260614020000 +0000">
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260613220128 +0000" stop="20260613225841 +0000">
+        <title>Star Trek</title>
+        <desc>Kirk tente d'aider un peuple primitif qui est dirigé par un ordinateur nommé Vaal.</desc>
+        <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260613225841 +0000" stop="20260613235552 +0000">
+        <title>Star Trek</title>
+        <desc>L'Enterprise rencontre une ancienne sonde terrienne qui cherche à stériliser toute vie.</desc>
+        <icon src="https://images.pluto.tv/series/680a222003a2ab14dac1e48e/tile_1768350980473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b3c51a5ca760802cc1c7" start="20260613235552 +0000" stop="20260614020000 +0000">
         <title>Star Trek: The Original Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b3c51a5ca760802cc1c7/featuredImage_1752571354680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30852,7 +30992,22 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Chris découvre un exemplaire du magazine Playboy dans la caisse à outils de son père. Il l'amène au collège, où les élèves se précipitent dessus et n'hésitent pas à payer pour jeter un coup d'oeil !</desc>
         <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b4a21a5ca760802d25fd" start="20260613221623 +0000" stop="20260614020000 +0000">
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260613221623 +0000" stop="20260613223832 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>A l'approche de la fête des pères, les enfants demandent à Julius ce qu'il veut comme cadeau, et à leur grande surprise, ce dernier souhaite passer la journée seul à faire ce qu'il veut !</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260613223832 +0000" stop="20260613225922 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Pour financer un voyage de classe à Washington, les élèves doivent vendre des cookies. Une mission qui s'avère très difficile dans le quartier de Chris...</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260613225922 +0000" stop="20260613232156 +0000">
+        <title>Everybody Hates Chris</title>
+        <desc>Chris n'en peut plus d'être le souffre-douleur de son collège. Il tente désespérément de convaincre ses parents de le changer d'école mais ces derniers refusent catégoriquement.</desc>
+        <icon src="https://images.pluto.tv/series/680f800b09261e2706116bd3/tile_1768266004391.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b4a21a5ca760802d25fd" start="20260613232156 +0000" stop="20260614020000 +0000">
         <title>Tout le monde déteste Chris</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b4a21a5ca760802d25fd/featuredImage_1747394750365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30872,7 +31027,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Lors de leur première mission seuls, les Bibliothécaires vont se retrouver confrontés à un obstacle. Perdus dans un mystérieux labyrinthe magique sous le gratte-ciel d’une entreprise, ils devront tout faire pour en ressortir ensemble.</desc>
         <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1774604521142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d292d554c61bfff220a635" start="20260613223150 +0000" stop="20260614020000 +0000">
+    <programme channel="68d292d554c61bfff220a635" start="20260613223150 +0000" stop="20260613231926 +0000">
+        <title>Flynn Carson et les Nouveaux Aventuriers</title>
+        <desc>Lorsque le Père Noël, ou du moins, l’esprit de Noël se retrouve kidnappé par la Confrérie du Serpent, les Bibliothécaires, mandatés par la Mère Noël, n’auront pas le choix que d’affronter leurs ennemis jurés, à Londres, pour sauver Noël.</desc>
+        <icon src="https://images.pluto.tv/series/679c7ecc15e36300140629cf/tile_1774604521142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d292d554c61bfff220a635" start="20260613231926 +0000" stop="20260614020000 +0000">
         <title>Flynn Carson et The Outpost</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d292d554c61bfff220a635/featuredImage_1761761926676.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30882,17 +31042,27 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Un couple se rend dans un grand hôtel de Vienne où loge Nina Martin, une célèbre cantatrice. Leur but est en fait de kidnapper son bébé en le faisant passer pour le tuer. Mais l'enlèvement se passe mal et le couple tue la nounou avant de quitter l'hôtel</desc>
         <icon src="https://images.pluto.tv/series/6a0d6733aac2f7c6ecc1763e/tile_1779263284589.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b332aa4385c191ee44b57" start="20260613223215 +0000" stop="20260614020000 +0000">
+    <programme channel="691b332aa4385c191ee44b57" start="20260613223215 +0000" stop="20260613232744 +0000">
+        <title>Rex, chien flic</title>
+        <desc>Durant un match de hockey sur glace, Pokorny s'effondre et décède peu après. Sur les lieux du drame, Brandtner et Böck établissent bientôt que Pokorny a été victime d'un assassinat.</desc>
+        <icon src="https://images.pluto.tv/series/6a0d6733aac2f7c6ecc1763e/tile_1779263284589.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="691b332aa4385c191ee44b57" start="20260613232744 +0000" stop="20260614020000 +0000">
         <title>Rex, chien flic</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b332aa4385c191ee44b57/featuredImage_1771320317678.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="691b3669c48674840c3b832a" start="20260613214223 +0000" stop="20260613220859 +0000">
+    <programme channel="691b3669c48674840c3b832a" start="20260613220000 +0000" stop="20260613223540 +0000">
+        <title>Pluto TV ANIME GO!</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/691b3669c48674840c3b832a/featuredImage_1778491402325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="691b3669c48674840c3b832a" start="20260613223540 +0000" stop="20260613230216 +0000">
         <title>Saint Seiya - Les chevaliers du Zodiaque : The Lost Canvas</title>
-        <desc>Hadès et Athéna évoquent leur passé avant l'intervention de Pandore. Hadès révèle que la fin du monde surviendra quand le Lost Canvas couvrira le ciel. Malgré la tentative de Sisyphe et du Grand Pope pour l'arrêter, il s'échappe, laissant le chaos.</desc>
+        <desc>Tenma souhaite quitter le sanctuaire afin de livrer la Guerre Sainte seul, mais est rattrapé par Manigoldo, chevalier d'or du Cancer qui le jette en prison, d'où il sera libéré par Yato et Yuzuriha. Ils quittent ensemble le sanctuaire.</desc>
         <icon src="https://images.pluto.tv/series/6a194d210eeacb37234dc456/tile_1780043762334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="691b3669c48674840c3b832a" start="20260613220859 +0000" stop="20260614020000 +0000">
+    <programme channel="691b3669c48674840c3b832a" start="20260613230216 +0000" stop="20260614020000 +0000">
         <title>Pluto TV ANIME GO!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/691b3669c48674840c3b832a/featuredImage_1778491402325.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30902,7 +31072,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Le commissaire Meurteaux soupçonne la présence d'un informateur au sein même de son équipe.</desc>
         <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec71425eaa17b6daf2a11" start="20260613223309 +0000" stop="20260614020000 +0000">
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260613223309 +0000" stop="20260613233428 +0000">
+        <title>PJ</title>
+        <desc>Une bande de jeunes filles sème la terreur en rackettant des passants. Une enquête sur la délinquance féminine.</desc>
+        <icon src="https://images.pluto.tv/series/69b16cf46d7de5ca36a5b1af/tile_1773235445789.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec71425eaa17b6daf2a11" start="20260613233428 +0000" stop="20260614020000 +0000">
         <title>PJ</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec71425eaa17b6daf2a11/featuredImage_1778222500950.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30912,7 +31087,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Nabilla, Thomas, Tarek et leurs amis parcourent l'Australie à l'aventure. En sac à dos, avec peu d'argent, et en laissant leur confort derrière eux, ils vont vivre une expérience unique !</desc>
         <icon src="https://images.pluto.tv/series/67bef7007db3495aa6c0a474/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="699865ccac36b147e74619fe" start="20260613223238 +0000" stop="20260614020000 +0000">
+    <programme channel="699865ccac36b147e74619fe" start="20260613223238 +0000" stop="20260613231207 +0000">
+        <title>LES AVENTURES DE NABILLA</title>
+        <desc>Nabilla, Thomas, Tarek et leurs amis parcourent l'Australie à l'aventure. En sac à dos, avec peu d'argent, et en laissant leur confort derrière eux, ils vont vivre une expérience unique !</desc>
+        <icon src="https://images.pluto.tv/series/67bef7007db3495aa6c0a474/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="699865ccac36b147e74619fe" start="20260613231207 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Téléréalité France</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/699865ccac36b147e74619fe/featuredImage_1779788356699.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30922,7 +31102,12 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>Dawson qui dispose de places pour un concert les offre à Joey et Eddie. Mais au moment de partir, ces derniers oublient leurs billets. Pendant ce temps, Dawson et Natasha finissent la nuit au poste de police...</desc>
         <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69aadc5551df9542f2521e1a" start="20260613223409 +0000" stop="20260614020000 +0000">
+    <programme channel="69aadc5551df9542f2521e1a" start="20260613223409 +0000" stop="20260613232202 +0000">
+        <title>Dawson</title>
+        <desc>L'arrivée d'une vedette de cinéma cause du souci à Dawson. Eddie propose à Joey de l'héberger une nuit afin qu'elle puisse tranquillement réviser la veille de son examen...</desc>
+        <icon src="https://images.pluto.tv/series/69c5569827ed3c42e3a0f154/tile_1774540441065.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69aadc5551df9542f2521e1a" start="20260613232202 +0000" stop="20260614020000 +0000">
         <title>Dawson</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69aadc5551df9542f2521e1a/featuredImage_1775658935857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -30932,17 +31117,22 @@ LA PART OBSCURE DE DRESSROSA !</title>
         <desc>C'est la lutte acharnée entre l'équipe de Gênes et de Naples pour gagner la finale d'Italie. Après bien des difficultés, Benjamin est parvenu à marquer un but au gardien Voltz. Celui-ci n'est donc pas invincible !</desc>
         <icon src="https://images.pluto.tv/series/6a198404812ca10016442b4d/tile_1780057092916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c2ae0d1f1accd54916c825" start="20260613222539 +0000" stop="20260614020000 +0000">
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260613222539 +0000" stop="20260613225222 +0000">
+        <title>L'école des Champions</title>
+        <desc>Après un long passage à vide, César, le buteur de l'équipe de Naples a réussi à redonner l'avantage à son équipe. Celle-ci mène maintenant devant Gênes par trois buts à deux. Benjamin et ses équipiers pourront-ils encore retourner la situation ?</desc>
+        <icon src="https://images.pluto.tv/series/6a198404812ca10016442b4d/tile_1780057092916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260613225222 +0000" stop="20260613231905 +0000">
+        <title>L'école des Champions</title>
+        <desc>Une fois la grande finale d'Italie terminée, Benjamin, Erik et leurs camarades aspirent à être sélectionnés dans l'équipe nationale junior. Hélas, la fédération a décidé que cette équipe ne comporterait que des Italiens.</desc>
+        <icon src="https://images.pluto.tv/series/6a198404812ca10016442b4d/tile_1780057092916.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c2ae0d1f1accd54916c825" start="20260613231905 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Footanim'</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c2ae0d1f1accd54916c825/featuredImage_1776860789196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613215815 +0000" stop="20260613222815 +0000">
-        <title>SUMO Paris 2026</title>
-        <desc>Le Sumo s'invite à Paris ! Depuis l'emblématique Accor Arena, vivez l'intensité du Sumo Paris 2026 en direct : plus de 40 rikishi japonais d'élite s'affrontent dans des duels explosifs, jusqu'au choc final du 14 juin. À ne pas manquer !</desc>
-        <icon src="https://images.pluto.tv/series/6a2bb903309740fdc610b2fb/tile_1781250361740.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613222815 +0000" stop="20260614020000 +0000">
+    <programme channel="6a1ecc3d7120a26f0dcf89e7" start="20260613220000 +0000" stop="20260614020000 +0000">
         <title>SUMO Paris 2026</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6a1ecc3d7120a26f0dcf89e7/featuredImage_1780993168334.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31800,7 +31990,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260613221000 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260613221000 +0000" stop="20260613224000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260613224000 +0000" stop="20260613231000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260613231000 +0000" stop="20260614020000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31810,7 +32010,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Alors qu'elles tentent de déjouer le plan d'invasion de la Terre par les Krangs, les tortues sont pourchassées par un cafard géant et indestructible.</desc>
         <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260613221000 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260613221000 +0000" stop="20260613223500 +0000">
+        <title>Les Tortues Ninja: Le labyrinthe de la peur</title>
+        <desc>Fatigué d'être humilié par Fishface et Dogpound, et de perdre face aux tortues, Baxter Stockman prépare sa vengeance.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260613223500 +0000" stop="20260613230000 +0000">
+        <title>Les Tortues Ninja: L'ennemi de mon ennemi</title>
+        <desc>Après avoir vu les Krangs à l'œuvre, Karai propose une alliance aux tortues. Mais est-elle digne de confiance ?</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260613230000 +0000" stop="20260613232500 +0000">
+        <title>Les Tortues Ninja: La mission de Karaï</title>
+        <desc>Le clan des Foot tente de capturer April, qui doit combattre Karaï si elle veut leur échapper.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260613232500 +0000" stop="20260614020000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31820,7 +32035,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Carly obtient un B à un devoir d'Histoire pour lequel elle pensait avoir un A. Durant sa réunion hebdomadaire avec le principal Franklin, Sam change la note sur l'ordinateur et surprend Carly avec le A qu'elle mérite.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260613220730 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260613220730 +0000" stop="20260613223230 +0000">
+        <title>iCarly: On passe à la télé</title>
+        <desc>Un producteur très influent veut transposer iCarly à la télévision. Mais Carly, Sam et Freddie sont vite décontenancés par les changements que le producteur veut opérer dans l'émission...</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260613223230 +0000" stop="20260613225730 +0000">
+        <title>iCarly: Un petit ami très envahissant</title>
+        <desc>Sam se trouve un petit ami, et ces deux là sont inséparables. Mais quand leur relation se met à interférer avec iCarly, Carly et Freddie savent qu'ils doivent intervenir.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260613225730 +0000" stop="20260613232230 +0000">
+        <title>iCarly: Les videos pirates</title>
+        <desc>Après avoir regardé un extrait d'iCarly qui montre un homme vendre des copies illégales de films, deux détectives décident de se servir de Carly et Spencer pour leur enquête.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260613232230 +0000" stop="20260614020000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31840,7 +32070,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Une motarde d'Englewood au Colorado, une ancienne chargée de relations publiques de Toronto en Ontario, et un propriétaire de restaurant de Waterloo en Ontario, s'affrontent dans une ronde express d'élimination.</desc>
         <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260613222242 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260613222242 +0000" stop="20260613224542 +0000">
+        <title>Donut Showdown: Far West</title>
+        <desc>Un diplômé du Cordon Bleu, une karatéka et un chef pâtissier français s'affrontent.</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260613224542 +0000" stop="20260613230842 +0000">
+        <title>Donut Showdown: Plein air</title>
+        <desc>Un agriculteur bio, un « nerd » et un homme originaire d'une petite ville s'affrontent dans la première partie avec des piments comme ingrédient mystère. Les deux derniers à s'affronter pour les 10 000 $ devront répondre au thème du plein air.</desc>
+        <icon src="https://images.pluto.tv/series/612f795488b83100139beea0/tile_1768080960942.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260613230842 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31850,7 +32090,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>L'équipe des Nitro se retrouve au cœur d'Hollywood avec la doublure d'Arnold Schwarzenegger. Leur premier exploit : rouler dans une boule en acier massif et tenter un flip arrière.</desc>
         <icon src="https://images.pluto.tv/series/6001589ecc17ce00130be36c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f92b56a367e170007cd43f4" start="20260613220103 +0000" stop="20260614020000 +0000">
+    <programme channel="5f92b56a367e170007cd43f4" start="20260613220103 +0000" stop="20260613222503 +0000">
+        <title>Nitro Circus: Panamania!</title>
+        <desc>L'équipe des Nitro va faire grimper la température au Panama puisqu'elle va transformer ce paradis tropical en son terrain de jeux extrêmes.</desc>
+        <icon src="https://images.pluto.tv/series/6001589ecc17ce00130be36c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260613222503 +0000" stop="20260613224903 +0000">
+        <title>Nitro Circus: Puerto Rico</title>
+        <desc>Travis retourne à ses racines à Porto Rico pour rencontrer son motor qui est une légende du motocross, Gary Bailey.</desc>
+        <icon src="https://images.pluto.tv/series/6001589ecc17ce00130be36c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260613224903 +0000" stop="20260613231703 +0000">
+        <title>Nitro Circus: Nitro Winter Wonderland</title>
+        <desc>Ken Block, propriétaire de DC Shoes, invite les membres de l'équipe de Nitro dans son chalet idyllique dans l'Utah.</desc>
+        <icon src="https://images.pluto.tv/series/6001589ecc17ce00130be36c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260613231703 +0000" stop="20260614020000 +0000">
         <title>MTV CLASSICS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31860,7 +32115,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260613222314 +0000" stop="20260614020000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260613222314 +0000" stop="20260613225314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260613225314 +0000" stop="20260613232314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260613232314 +0000" stop="20260614020000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31870,7 +32135,13 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Une journée dans la vie d'une famille de suricates dans le désert du Kalahari.</desc>
         <icon src="https://images.pluto.tv/series/636e3b55576be6001373ab12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260613224837 +0000" stop="20260614020000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260613224837 +0000" stop="20260613231637 +0000">
+        <title>Orphelins de la nature: L'art du pistage</title>
+        <desc>Dans la réserve, une des femelles léopard à trois pattes joue le rôle de mère de substitution pour les petits léopards orphelins.
+En essayant de trouver un léopard dans le vaste paysage désertique du sud de la Namibie, Marlice s'appuie sur les</desc>
+        <icon src="https://images.pluto.tv/series/603e4d4c54f963001a68f3b3/tile_1768071601113.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260613231637 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31880,7 +32151,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>This is the story of “Rapunzel”, but with a twist.  Princess Rapunzel (Rainbow Sherbet) has always preferred being called Rap and liked doing things her way.</desc>
         <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260613222400 +0000" stop="20260614020000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260613222400 +0000" stop="20260613224900 +0000">
+        <title>Charlotte aux Fraises: Charlotte aux fraises fait son cinéma, pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260613224900 +0000" stop="20260613231400 +0000">
+        <title>Charlotte aux Fraises: Charlotte aux fraises fait son cinéma, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260613231400 +0000" stop="20260614020000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31890,7 +32171,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Papy donne par erreur des super vitamines pour chien à Isidore. // Les Entrechats incorporent accidentellement une machine à remonter le temps dans leur voiture.</desc>
         <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260613220304 +0000" stop="20260614020000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260613220304 +0000" stop="20260613222812 +0000">
+        <title>Les Entrechats</title>
+        <desc>Quand le maître de Brutus vante ses mérites auprès du voisinnage, Isidore décide de ridiculiser le chien pour donner une leçon au petit garçon. // Marcel rencontre la féline de ses rêves.</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260613222812 +0000" stop="20260613225316 +0000">
+        <title>Les Entrechats</title>
+        <desc>Isidore change de place avec son double royal. // Marcel devient roi dans une contrée lointaine et ne reconnaît même plus ses amis lorsqu'ils tentent de le délivrer de la jungle.</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260613225316 +0000" stop="20260613231819 +0000">
+        <title>Les Entrechats</title>
+        <desc>Heathcliff shows up at Sonja's place to take her out for their anniversary. // If Runt can beat Mungo in just one Catlympic event, Riff Raff must give up control of the junkyard; but if Mungo wins, the Catillac Cats get all of Louie's cat food.</desc>
+        <icon src="https://images.pluto.tv/series/6818d6b230b839eca5ddd22f/tile_1768266002824.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260613231819 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31900,7 +32196,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Qui étaient les généraux anglo-saxons qui ont favorisé la victoire des alliés lors de la Seconde Guerre Mondiale ? Quelle fut leur carrière ? Que furent leurs principaux faits d'armes ?</desc>
         <icon src="https://images.pluto.tv/series/614044fbd39390001303f53d/tile_1768086768438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260613220020 +0000" stop="20260614020000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260613220020 +0000" stop="20260613222720 +0000">
+        <title>Les Héros de la Seconde Guerre Mondiale: Bernard Montgomery</title>
+        <desc>Qui étaient les généraux anglo-saxons qui ont favorisé la victoire des alliés lors de la Seconde Guerre Mondiale ? Quelle fut leur carrière ? Que furent leurs principaux faits d'armes ?</desc>
+        <icon src="https://images.pluto.tv/series/614044fbd39390001303f53d/tile_1768086768438.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260613222720 +0000" stop="20260613232820 +0000">
+        <title>L'Égypte antique au-delà des pyramides: Les plus grands pharaons, 1ere Partie</title>
+        <desc>L’Égypte antique au-delà des pyramides ressuscitent l'histoire, les mœurs et les religions de cette civilisation mystérieuse, dont les ruines marquent aujourd'hui encore les paysages de l’Égypte moderne.</desc>
+        <icon src="https://images.pluto.tv/series/60ed3ca1dae50300131968e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260613232820 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31910,7 +32216,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>L'Istrie est une péninsule croate qui baigne dans l'Adriatique. Mer cristalline, littoral préservé, petits ports pittoresques, villages aux ruelles étroites, charme méditerranéen et arrière-pays montagneux</desc>
         <icon src="https://images.pluto.tv/series/5ff6fe46ac600d00143a48da/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260613221945 +0000" stop="20260614020000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260613221945 +0000" stop="20260613232045 +0000">
+        <title>Serial Tourist: Martinique</title>
+        <desc>Tout juste débarqué à Fort de France, Thomas rencontre un collectif de graffeurs, bien décidés à repeindre leur ville aux couleurs de leur insularité. Il part sur la côte Nord Caraïbes pour fêter Pâques.</desc>
+        <icon src="https://images.pluto.tv/series/6486cc485348f4001a0a5f5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260613232045 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31920,7 +32231,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260613220423 +0000" stop="20260614020000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260613220423 +0000" stop="20260613223423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260613223423 +0000" stop="20260613230423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260613230423 +0000" stop="20260614020000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31930,7 +32251,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Dans cet épisode, Nico et Nicole 'Snooki' reçoivent Angelina, ancienne candidate de Bienvenue à Jersey Shore, avec son fiancé, ainsi que deux meilleures amies fêtardes.</desc>
         <icon src="https://images.pluto.tv/series/641808a831d3c6001ad39de5/tile_1768263226780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f20c941c5d00089634e7" start="20260613221200 +0000" stop="20260614020000 +0000">
+    <programme channel="6304f20c941c5d00089634e7" start="20260613221200 +0000" stop="20260613223400 +0000">
+        <title>Just Tattoo of Us USA FR: Une drôle d'odeur</title>
+        <desc>Dans cet épisode, deux cousins et un ex-couple viennent se faire tatouer à l'aveugle.</desc>
+        <icon src="https://images.pluto.tv/series/641808a831d3c6001ad39de5/tile_1768263226780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260613223400 +0000" stop="20260613225600 +0000">
+        <title>Just Tattoo of Us USA FR: Leçons de vie</title>
+        <desc>Dans cet épisode, Nico et Nicole reçoivent deux binômes de meilleurs amis très fêtards.</desc>
+        <icon src="https://images.pluto.tv/series/641808a831d3c6001ad39de5/tile_1768263226780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260613225600 +0000" stop="20260613231800 +0000">
+        <title>Just Tattoo of Us USA FR: N'écoute que moi</title>
+        <desc>Dans cet épisode, Nico et Nicole reçoivent un jeune couple avec des choses à se dire, ainsi qu'un frère et une soeur ayant l'esprit de compétition.</desc>
+        <icon src="https://images.pluto.tv/series/641808a831d3c6001ad39de5/tile_1768263226780.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260613231800 +0000" stop="20260614020000 +0000">
         <title>Just Tattoo of Us</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31950,7 +32286,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31960,7 +32306,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260613221300 +0000" stop="20260614020000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260613221300 +0000" stop="20260613223700 +0000">
+        <title>Auction Hunters: Reprise du faux coup d'envoi</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260613223700 +0000" stop="20260613230000 +0000">
+        <title>Auction Hunters: Ton la  mitrailleuse</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260613230000 +0000" stop="20260613232400 +0000">
+        <title>Auction Hunters: Bien battre le fouet</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260613232400 +0000" stop="20260614020000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31970,7 +32331,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>MOM appelle Martin et Diana au Centre pour leur annoncer que les résultats de leurs évaluations annuelles sont arrivés. Et comme prévu, Martin a obtenu une note brillante. Diana, en revanche, n'a pas de bons résultats du tout.</desc>
         <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260613221459 +0000" stop="20260614020000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260613221459 +0000" stop="20260613223947 +0000">
+        <title>Martin Mystère: Le Monstre des Monstres 2ème Partie</title>
+        <desc>Lorsque Diana retourne à l'institut, le doyen est excité d'être finalement en possession  la créature. Il dévoile qu'il travaille sur l'expérience de toute une vie, dans laquelle il extrait les pouvoirs des monstres qu'il a attrapés.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260613223947 +0000" stop="20260613230435 +0000">
+        <title>Martin Mystère: La Malédiction du Miroir</title>
+        <desc>Martin est un adolescent de 16 ans presque normal. En effet, quand il ne va pas au lycée il est agent spécial pour « Le Centre », une organisation secrète chargée de traquer les monstres et les phénomènes paranormaux.</desc>
+        <icon src="https://images.pluto.tv/series/6516bdaea78f0d001a27a1d4/tile_1768262403448.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260613230435 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31980,7 +32351,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260613221721 +0000" stop="20260614020000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260613221721 +0000" stop="20260613224721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260613224721 +0000" stop="20260613231721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260613231721 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31990,7 +32371,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32000,7 +32391,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
         <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55cf2483d460008f68746" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="66f55cf2483d460008f68746" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Zone Interdite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55cf2483d460008f68746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32010,7 +32411,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32020,7 +32431,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Lorsqu'un visage familier revient à Gloucester afin de concourir pour le titre de meilleur pêcheur de thon rouge, la flotte n'est pas très accueillante.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260613220257 +0000" stop="20260614020000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260613220257 +0000" stop="20260613225746 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Jay, le neveu et second du capitaine Dave Marciano, apporte une nouvelle énergie sur le Falcon, et l'équipage espère améliorer ses performances.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260613225746 +0000" stop="20260613235303 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Les capitaines sont confrontés à l'arrivée d'une foule inattendue de bateaux, et la flotte doit prendre des décisions difficiles quant à l'endroit où pêcher le thon rouge.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260613235303 +0000" stop="20260614020000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32030,7 +32451,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Faire escale en Occitanie, c'est faire un bond dans le passé. Des traditions culinaires aux métiers d'art en passant par les plus grands récits de notre Histoire, cette région possède de nombreuses cités où le temps semble s'être arrêté.</desc>
         <icon src="https://images.pluto.tv/series/68a4be7a9889a990edfc598d/tile_1755627131885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260613222700 +0000" stop="20260614020000 +0000">
+    <programme channel="680291e38e1ff89c2427aefd" start="20260613222700 +0000" stop="20260613225600 +0000">
+        <title>Les villages de nos régions</title>
+        <desc>La région parisienne regorge de trésors insoupçonnés. Principalement concentrés en Seine-et-Marne, autour de la forêt de Fontainebleau, de nombreux villages d'art et d'histoire ponctuent le paysage.</desc>
+        <icon src="https://images.pluto.tv/series/68a4be7a9889a990edfc598d/tile_1755627131885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260613225600 +0000" stop="20260613232700 +0000">
+        <title>Les villages de nos régions</title>
+        <desc>Dominée par le Massif des Vosges, cette région aux paysages grandioses possède également de nombreux petits villages pittoresques. Notre itinéraire démarre en Alsace avec la visite d'Eguisheim et d'Andlau, deux villages typiques de la région.</desc>
+        <icon src="https://images.pluto.tv/series/68a4be7a9889a990edfc598d/tile_1755627131885.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260613232700 +0000" stop="20260614020000 +0000">
         <title>Voyages &amp; Saveurs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32040,7 +32471,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
         <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682318568e6c0f2f6c6e0038" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/featuredImage_1750772750994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32060,7 +32501,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Nouvelle à Monster High, Frankie Stein, âgée de 15 jours, vit une semaine cauchemardesque en tentant de s’intégrer et de plaire à Cleo De Nile, la goule la plus populaire !</desc>
         <icon src="https://images.pluto.tv/series/6936a746843d41d249aeb016/tile_1765189488801.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260613220546 +0000" stop="20260614020000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260613220546 +0000" stop="20260613222855 +0000">
+        <title>Monster High: MH1 webisodes</title>
+        <desc>Découvre les débuts monstrueusement cool de Monster High ! Draculaura, Frankie, Clawdeen et leurs amis apprennent à s’accepter et à célébrer leurs différences dans une école où l’amitié et la confiance en soi sont les vraies magies.</desc>
+        <icon src="https://images.pluto.tv/series/69431f73287ec44e14989930/tile_1766037204995.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260613222855 +0000" stop="20260613224734 +0000">
+        <title>Monster High: MH3 webisodes</title>
+        <desc>Monster High: MH3 webisodes suit les élèves de Monster High dans de nouvelles aventures pleines d’humour, de mystère et de style, où l’amitié et l’acceptation de soi sont au cœur de chaque histoire.</desc>
+        <icon src="https://images.pluto.tv/series/69432c18b329898798841186/tile_1766011955038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260613224734 +0000" stop="20260613230629 +0000">
+        <title>Monster High: MH4 webisodes</title>
+        <desc>Monster High: MH4 webisodes poursuit les aventures effrayantes et amusantes des élèves de Monster High, entre défis magiques, amitiés sincères et célébration des différences dans un univers plein de style et de créativité.</desc>
+        <icon src="https://images.pluto.tv/series/69454c58a7396485f8ff749a/tile_1766150841392.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260613230629 +0000" stop="20260614020000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32070,7 +32526,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Pingu quitte la banquise pour découvrir la grande ville ! Curieux et plein d’énergie, il explore de nouveaux métiers et vit des aventures drôles et tendres. Entre gaffes et bonne humeur, Pingu montre qu’avec créativité, tout finit bien !</desc>
         <icon src="https://images.pluto.tv/series/69145398b19adcf18d5202a5/tile_1763024884461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260613220204 +0000" stop="20260614020000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260613220204 +0000" stop="20260613222510 +0000">
+        <title>Pingu in the city</title>
+        <desc>Pingu quitte la banquise pour découvrir la grande ville ! Curieux et plein d’énergie, il explore de nouveaux métiers et vit des aventures drôles et tendres. Entre gaffes et bonne humeur, Pingu montre qu’avec créativité, tout finit bien !</desc>
+        <icon src="https://images.pluto.tv/series/69145398b19adcf18d5202a5/tile_1763024884461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260613222510 +0000" stop="20260613224903 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Une baleine s’échoue sur la plage. Les amis la transportent prudemment sur un plateau jusqu’à l’océan, tandis que Toad la rassure en chantant. / En retard pour récupérer des moutons, Percy doit improviser pour les conduire en sécurité.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260613224903 +0000" stop="20260613231255 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>Spencer se vante puis croit voir un monstre dans la neige. Enquêtes faites, la « bête » n’était qu’un malentendu. / Envoyé en mer, Salty déchante un peu mais revient avec un nouveau récit… et le mal de mer dompté.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260613231255 +0000" stop="20260614020000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32080,7 +32551,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Le schtroumpf prince / Le tribunal des schtroumpfs</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260613220722 +0000" stop="20260614020000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260613220722 +0000" stop="20260613223509 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>L'amulette du toujours-bien / L'oiseau de mauvais augure</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260613223509 +0000" stop="20260613230259 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Le grand voyage de Gargamel / Tous les grands schtroumpfs</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260613230259 +0000" stop="20260614020000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32090,7 +32571,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
         <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db536c0414a7ecf564fb" start="20260613221834 +0000" stop="20260614020000 +0000">
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260613221834 +0000" stop="20260613224834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260613224834 +0000" stop="20260613231834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260613231834 +0000" stop="20260614020000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/featuredImage_1775061732639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32100,7 +32591,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
         <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb8a8b2619a000710605c" start="20260613220800 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260613220800 +0000" stop="20260613223800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260613223800 +0000" stop="20260613230800 +0000">
+        <title>Ridiculousness</title>
+        <desc>Rob Dyrdek, Sterling Steelo Brim et Chanel West Coast, réceptionniste et rappeuse de la Fantasy Factory, coaniment Ridiculous, un concentré de vidéos virales sur Internet. Des personnalités de marque sont régulièrement invitées.</desc>
+        <icon src="https://images.pluto.tv/series/68760cbb2704ca31d8431460/tile_1752574657481.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb8a8b2619a000710605c" start="20260613230800 +0000" stop="20260614020000 +0000">
         <title>Ridiculousness</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb8a8b2619a000710605c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32110,7 +32611,22 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Artistes de rue, acrobates, danseurs, musiciens, tout le monde y passe dans cet épisode consacré au spectacle vivant. Le Must du Ridicule, c'est encore mieux face à un public.</desc>
         <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260613221015 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260613221015 +0000" stop="20260613223415 +0000">
+        <title>Most Ridiculous: Les fashion faux-pas</title>
+        <desc>Une compilation des vidéos les plus drôles du Net sur le thème de la mode.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260613223415 +0000" stop="20260613225815 +0000">
+        <title>Most Ridiculous: Nos amis les bêtes</title>
+        <desc>Le must du ridicule vous présente le meilleur du pire des animaux de compagnie.</desc>
+        <icon src="https://images.pluto.tv/series/6020fa132cca48001a5026c3/tile_1777502883753.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260613225815 +0000" stop="20260613232215 +0000">
+        <title>Beavis and Butt-Head: Late Night with Butt-Head / Crisis Line</title>
+        <desc>Beavis et Butt-Head rejoignent la guerre des talk-shows de fin de soirée. / Beavis et Butt-Head apprennent la politesse, après s'être portés volontaires pour travailler à la ligne d'écoute de Highland High.</desc>
+        <icon src="https://images.pluto.tv/series/64ef37b0445a8a00137f5d13/tile_1780480457203.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb91bb9b9e7000817e67f" start="20260613232215 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Comédie</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb91bb9b9e7000817e67f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32120,7 +32636,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
         <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eba14a4ffb8000764e950" start="20260613220719 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260613220719 +0000" stop="20260613223719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260613223719 +0000" stop="20260613230719 +0000">
+        <title>Pluto TV Toons</title>
+        <desc>Pluto TV Toons vous offre le meilleur des émissions animées de Nickelodeon ! Découvrez Fairly OddParents, Loud House, Casagrandes, Kung Fu Panda, Sanjay and Craig, et bien plus encore. Plongez dans l'amusement, le rire et les aventures pour tous les âges</desc>
+        <icon src="https://images.pluto.tv/series/6824682c9eed174f7fb880fb/tile_1747216428951.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eba14a4ffb8000764e950" start="20260613230719 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eba14a4ffb8000764e950/featuredImage_1751874536413.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32130,7 +32656,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Diego transforma sua mochila de resgate em uma asa-delta e voa a tempo de pegar a chinchila Chinta antes que ela caia na água.</desc>
         <icon src="https://images.pluto.tv/series/6a0c9ec6c3b94036591c3943/tile_1781301555943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecb336537e8000764a17f" start="20260613221922 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ecb336537e8000764a17f" start="20260613221923 +0000" stop="20260613224400 +0000">
+        <title>Go Diego !</title>
+        <desc>Sammy, a preguiça, está visitando Diego no Centro de Proteção aos Animais quando um pedido de ajuda chega a ele.</desc>
+        <icon src="https://images.pluto.tv/series/6a0c9ec6c3b94036591c3943/tile_1781301555943.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260613224400 +0000" stop="20260613230606 +0000">
+        <title>Blaze et les Monster Machines</title>
+        <desc>Enquanto apostam uma corrida, o Blaze e o Esmagador descobrem um reino medieval onde acontecerá uma corrida real. Os dois carros se tornam cavaleiros para poderem competir com os outros cavaleiros na corrida pelo reino.</desc>
+        <icon src="https://images.pluto.tv/series/6a04e416ea95ffff09c0b925/tile_1781301555957.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecb336537e8000764a17f" start="20260613230606 +0000" stop="20260614020000 +0000">
         <title>Pluto TV Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32140,7 +32676,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>From embarrassing moments to family fumbles; shame has no brakes!</desc>
         <icon src="https://images.pluto.tv/series/68dbb927e466f791b5fbb316/tile_1759230274541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecd9169d2d4000864a974" start="20260613221200 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260613221200 +0000" stop="20260613224300 +0000">
+        <title>World's Messiest Fails</title>
+        <desc>When boats sink, beauty routines fail, and backyards turn into disaster zones!</desc>
+        <icon src="https://images.pluto.tv/series/68dbb927e466f791b5fbb316/tile_1759230274541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260613224300 +0000" stop="20260613231400 +0000">
+        <title>World's Messiest Fails</title>
+        <desc>Disasters by truck, train, lab, and just plain bad luck.</desc>
+        <icon src="https://images.pluto.tv/series/68dbb927e466f791b5fbb316/tile_1759230274541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecd9169d2d4000864a974" start="20260613231400 +0000" stop="20260614020000 +0000">
         <title>FailArmy</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecd9169d2d4000864a974/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32150,7 +32696,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Six players compete in South Florida for the more than $660,000 first-place prize in the WPT Seminole Hard Rock.</desc>
         <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1781136387139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260613223300 +0000" stop="20260614020000 +0000">
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260613223300 +0000" stop="20260613232400 +0000">
+        <title>World Poker Tour: WPT Seminole Hard Rock Part 3</title>
+        <desc>Three players compete in South Florida for the more than $660,000 first-place prize in the WPT Seminole Hard Rock.</desc>
+        <icon src="https://images.pluto.tv/series/5fb5604f9d991c001a9e6043/tile_1781136387139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecfb9db6c180007a6d1b0" start="20260613232400 +0000" stop="20260614020000 +0000">
         <title>WPT</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecfb9db6c180007a6d1b0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32160,7 +32711,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
         <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afa1508284e60007163c08" start="20260613220200 +0000" stop="20260614020000 +0000">
+    <programme channel="60afa1508284e60007163c08" start="20260613220200 +0000" stop="20260613223200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260613223200 +0000" stop="20260613230200 +0000">
+        <title>Juste pour rire GAGS</title>
+        <desc>Savourez une bonne dose de rire offerte par l’émission de gags la plus aimée au monde depuis plus d’une décennie !</desc>
+        <icon src="https://images.pluto.tv/series/67af20268a1d0ef89434f9bc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afa1508284e60007163c08" start="20260613230200 +0000" stop="20260614020000 +0000">
         <title>Juste pour Rire GAGS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afa1508284e60007163c08/featuredImage_1746815950269.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32170,7 +32731,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
         <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>Euronews</title>
+        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
+        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>Euronews</title>
+        <desc>La première chaîne européenne d'information internationale, en France. Grâce à Pluto TV, restez informé gratuitement 24/24 h et 7/7 j.</desc>
+        <icon src="https://images.pluto.tv/series/613b1d4fbae8cc0007a3dfcb/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60d35bcaf1ff4a00078af0a6" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>Euronews</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60d35bcaf1ff4a00078af0a6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32180,7 +32751,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Investigative reports on crime and justice cases.</desc>
         <icon src="https://images.pluto.tv/series/63f4882ff9b2f60014c81871/tile_1774260173939.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6231ec93779a9d00079ba8e2" start="20260613230000 +0000" stop="20260614020000 +0000">
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260613230000 +0000" stop="20260614000000 +0000">
+        <title>48 Hours</title>
+        <desc>Investigative reports on crime and justice cases.</desc>
+        <icon src="https://images.pluto.tv/series/63f4882ff9b2f60014c81871/tile_1774260173939.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6231ec93779a9d00079ba8e2" start="20260614000000 +0000" stop="20260614020000 +0000">
         <title>CBS News 24/7</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6231ec93779a9d00079ba8e2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32190,7 +32766,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
         <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64d626ac9b414d000820e2fc" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="64d626ac9b414d000820e2fc" start="20260613223000 +0000" stop="20260614003000 +0000">
+        <title>DAZN Combat</title>
+        <desc>DAZN Combat offre aux fans des sièges de premier rang pour le meilleure de la boxe et du MMA, y compris des événements en direct, les meilleurs moments, des archives de combats légendaires, des documentaires et bien plus encore.</desc>
+        <icon src="https://images.pluto.tv/series/6548c0943e6938001ad7d353/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64d626ac9b414d000820e2fc" start="20260614003000 +0000" stop="20260614020000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64d626ac9b414d000820e2fc/featuredImage_1772441714915.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32200,7 +32781,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Relive Germany against France and Brazil against Australia.</desc>
         <icon src="https://images.pluto.tv/series/67b36b6e96446070bd3cc8e2/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c2a2d2433010008df7e92" start="20260613222200 +0000" stop="20260614020000 +0000">
+    <programme channel="660c2a2d2433010008df7e92" start="20260613222200 +0000" stop="20260614001400 +0000">
+        <title>2010 FIFA World Cup</title>
+        <desc>Watch the full match replay between the Netherlands and Brazil played at Nelson Mandela Bay Stadium, Gqeberha/Port Elizabeth on Friday, 02 July 2010.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7c96446070bd3ce0fc/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20260614001400 +0000" stop="20260614020000 +0000">
         <title>FIFA+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c2a2d2433010008df7e92/featuredImage_1750065043035.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32210,7 +32796,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
         <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66c45b36a72e7b0008a2b291" start="20260613230000 +0000" stop="20260614020000 +0000">
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260613230000 +0000" stop="20260614000000 +0000">
+        <title>Top stories from CNN</title>
+        <desc>From the leader in global news, fast-paced videos featuring the latest stories on major events, business, entertainment, sport, and the environment.</desc>
+        <icon src="https://images.pluto.tv/series/66dffcf422dfe9001385298a/tile_1747811533762.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66c45b36a72e7b0008a2b291" start="20260614000000 +0000" stop="20260614020000 +0000">
         <title>CNN Headlines International</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66c45b36a72e7b0008a2b291/featuredImage_1775159909058.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32230,7 +32821,12 @@ LUCY CONTRE CHINJAO !</title>
         <desc>Series 14: Week 7, Finals Night.</desc>
         <icon src="https://images.pluto.tv/series/67e2e1dee8cf62654291facf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="671643fc5534bb00089187ad" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="671643fc5534bb00089187ad" start="20260613223000 +0000" stop="20260613233600 +0000">
+        <title>An Audience with Phil Taylor &amp; Adrian Lewis</title>
+        <desc>Join Phil Taylor &amp; Adrian Lewis for an intimate Q&amp;A at the Live Lounge sharing their best moments and memories.</desc>
+        <icon src="https://images.pluto.tv/series/68fbdd0e69032f4edfa0da7c/tile_1761668161924.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="671643fc5534bb00089187ad" start="20260613233600 +0000" stop="20260614020000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/671643fc5534bb00089187ad/featuredImage_1732094996757.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -32240,7 +32836,17 @@ LUCY CONTRE CHINJAO !</title>
         <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
         <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67921b78b83355184c667770" start="20260613223000 +0000" stop="20260614020000 +0000">
+    <programme channel="67921b78b83355184c667770" start="20260613223000 +0000" stop="20260613230000 +0000">
+        <title>UFC</title>
+        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
+        <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b78b83355184c667770" start="20260613230000 +0000" stop="20260613233000 +0000">
+        <title>UFC</title>
+        <desc>De l'action UFC 24h/24 et 7j/7. Célébrez les plus grands combats, les meilleurs athlètes et les moments les plus importants de la première organisation de MMA au monde.</desc>
+        <icon src="https://images.pluto.tv/series/67a09c47f1031000087f00e4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67921b78b83355184c667770" start="20260613233000 +0000" stop="20260614020000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67921b78b83355184c667770/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
