@@ -2005,9 +2005,9 @@
         <icon src="https://images.pluto.tv/series/6425849e559c07001a66e96e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d000ef4e83e700086e0d6c" start="20260614200700 +0000" stop="20260614205800 +0000">
-        <title>Scorpion</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Scorpion: The Fast &amp; The Nerdiest</title>
+        <desc>After Sylvester scores big on THE PRICE IS RIGHT, Team Scorpion must infiltrate a high-end car smuggling operation about to ship bioweapons to South America.</desc>
+        <icon src="https://images.pluto.tv/series/6425849e559c07001a66e96e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63d000ef4e83e700086e0d6c" start="20260614205800 +0000" stop="20260614214700 +0000">
         <title>Scorpion: Ticker</title>
@@ -2035,9 +2035,9 @@
         <icon src="https://images.pluto.tv/series/6433f7716113a5001ab3d471/tile_1767213001929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63fe2ec4dff38e000835f786" start="20260614200600 +0000" stop="20260614205700 +0000">
-        <title>Rookie Blue</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Rookie Blue: Mercury Retrograde</title>
+        <desc>As the other rookies hunt down a dangerous escaped convict, Swarek drags Andy through his undercover hauntson a mission he won’t explain. At first, Andy assumes Swarek is a rogue cop trying to settle scores from his undercover days.</desc>
+        <icon src="https://images.pluto.tv/series/6433f7716113a5001ab3d471/tile_1767213001929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="63fe2ec4dff38e000835f786" start="20260614205700 +0000" stop="20260614214700 +0000">
         <title>Rookie Blue: Fite Nite</title>
@@ -7604,6 +7604,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <title>Crank: High Voltage</title>
         <desc>Powered by an artificial heart, Chev Chelios (Jason Statham) embarks on a frantic chase through Los Angeles to find the thief who stole his own, nearly indestructible, one.</desc>
         <icon src="https://images.pluto.tv/series/65fa43795c25f600132cc599/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6401d85a49839300087b116c" start="20260615040600 +0000" stop="20260615054700 +0000">
+        <title>Wild Card</title>
+        <desc>When a Las Vegas bodyguard with lethal skills and a gambling problem gets in trouble with the mob, he has one last play and it's all or nothing.</desc>
+        <icon src="https://images.pluto.tv/series/68d2bd42e466f791b5361315/tile_1781118420994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="655b7cbb2c46f300086f0afa" start="20260614211500 +0000" stop="20260615001500 +0000">
         <title>Snooker 900</title>
@@ -20530,6 +20535,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>Union Bound is a thrilling Civil War film that shows the strength and courage of the human spirit. Sergeant Joseph Hoover went to war to preserve the Union but finds himself  captured and sent to a prisoner of war camp.</desc>
         <icon src="https://images.pluto.tv/series/6671619da2d47500140c7956/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260615120041 +0000" stop="20260615140427 +0000">
+        <title>Masters Of The Universe</title>
+        <desc>The fantastic exploits of He-Man and his arch rival, the evil Skeletor, are brought to the big screen for the first time in this live-action adventure.</desc>
+        <icon src="https://images.pluto.tv/series/5cad5d46703d980eebc188fd/tile_1780094165280.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5dbfedccc563080009b60f4a" start="20260615074940 +0000" stop="20260615092928 +0000">
         <title>Killer Infatuation</title>
         <desc>Mackenzie runs a killer-dedicated podcast with a large fan base. However, she begins living her own murder mystery, as she develops an infatuation with her impossibly attractive new neighbor, who was the prime suspect in a murder years ago.</desc>
@@ -27316,50 +27326,10 @@ built quite an impressive career.</desc>
         <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
         <icon src="https://images.pluto.tv/series/65d5c436d8adfa000868f1fe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615113527 +0000" stop="20260615120527 +0000">
+    <programme channel="6627621d56fc840008e47c90" start="20260615120000 +0000" stop="20260615160000 +0000">
         <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615120527 +0000" stop="20260615123527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615123527 +0000" stop="20260615130527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615130527 +0000" stop="20260615133527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615133527 +0000" stop="20260615140527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615140527 +0000" stop="20260615143527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615143527 +0000" stop="20260615150527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615150527 +0000" stop="20260615153527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615153527 +0000" stop="20260615160527 +0000">
-        <title>Tennis Channel</title>
-        <desc>tbc</desc>
-        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6627621d56fc840008e47c90/featuredImage_1756973182434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="66d885aef0f17500084b6750" start="20260615120000 +0000" stop="20260615130000 +0000">
         <title>PGA Tour Originals</title>
@@ -33505,6 +33475,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <desc>The south of France. Two rival con men -- one is suave and sophisticated, the other is a third-rate American hustler -- make a wager.</desc>
         <icon src="https://images.pluto.tv/series/5b1904e8c65a06426375f874/tile_1780941242454.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5ad8d3a31b95267e225e4e09" start="20260615200059 +0000" stop="20260615223459 +0000">
+        <title>The Negotiator</title>
+        <desc>The tables turn when a seasoned hostage negotiator takes hostages and risks all to prove his own innocence.</desc>
+        <icon src="https://images.pluto.tv/series/60647d28a224c9001bb84fa1/tile_1779683041988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5ad8d796e738977e2c31094a" start="20260615153302 +0000" stop="20260615172102 +0000">
         <title>World Poker Tour: Greatest: Best of Season I WPT Five Diamond World Poker Classic</title>
         <desc>We revisit the conclusion of the final table of the World Poker Tours debut event at the Bellagio in Las Vegas.</desc>
@@ -33549,6 +33524,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <title>6 Below</title>
         <desc>An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras. Starring: Josh Hartnett, Mira Sorvino, Sarah Dumont. It is based on the book  Crystal Clear by Eric LeMarque and Davin Seay.</desc>
         <icon src="https://images.pluto.tv/series/5d95e3074c7c28ebc775cc81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260615200016 +0000" stop="20260615220217 +0000">
+        <title>The Dogs Of War</title>
+        <desc>This riveting adaptation of Frederick Forsyth's best-seller stars Christopher Walken and Tom Berenger as mercenaries hired by a shadowy cartel to dethrone an African dictator.</desc>
+        <icon src="https://images.pluto.tv/series/5b3b04c67bb9b7ede8f9328d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5dbfedccc563080009b60f4a" start="20260615145943 +0000" stop="20260615164120 +0000">
         <title>Evil Doctor</title>
@@ -34044,6 +34024,11 @@ she’s gone from wild nights in Newcastle towinning Celebrity Big Brother.</des
         <title>Every Thing Will Be Fine</title>
         <desc>One day, driving aimlessly around the outskirts of town after a trivial domestic quarrel, a writer named Tomas accidentally hits and kills a child. Will he be able to move on?</desc>
         <icon src="https://images.pluto.tv/series/694153a66a5d6e386013e0f9/tile_1765888940535.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b5a7b69ac85c428f54c441" start="20260615200154 +0000" stop="20260615214422 +0000">
+        <title>Fading Gigolo</title>
+        <desc>Fioravante decides to become a professional Don Juan as a way of making money to help his cash-strapped friend.</desc>
+        <icon src="https://images.pluto.tv/series/6932cc8bd405d15a95004773/tile_1764936844024.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68c820525ec82769fdfcd104" start="20260615160000 +0000" stop="20260615174300 +0000">
         <title>Biography: WWE Legends</title>
@@ -39986,7 +39971,12 @@ outside our own solar system.</desc>
         <desc>The south of France. Two rival con men -- one is suave and sophisticated, the other is a third-rate American hustler -- make a wager.</desc>
         <icon src="https://images.pluto.tv/series/5b1904e8c65a06426375f874/tile_1780941242454.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ad8d3a31b95267e225e4e09" start="20260615200059 +0000" stop="20260616000000 +0000">
+    <programme channel="5ad8d3a31b95267e225e4e09" start="20260615200059 +0000" stop="20260615223459 +0000">
+        <title>The Negotiator</title>
+        <desc>The tables turn when a seasoned hostage negotiator takes hostages and risks all to prove his own innocence.</desc>
+        <icon src="https://images.pluto.tv/series/60647d28a224c9001bb84fa1/tile_1779683041988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ad8d3a31b95267e225e4e09" start="20260615223459 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Movies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ad8d3a31b95267e225e4e09/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40006,7 +39996,12 @@ outside our own solar system.</desc>
         <desc>During WW2, convicted bank robber Eddie Chapman becomes a triple agent working for both the British and the Germans.</desc>
         <icon src="https://images.pluto.tv/series/652677c8727df0001a7d2d52/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5c5c31f2f21b553c1f673fb0" start="20260615200245 +0000" stop="20260616000000 +0000">
+    <programme channel="5c5c31f2f21b553c1f673fb0" start="20260615200245 +0000" stop="20260615221037 +0000">
+        <title>Buffalo '66: Buffalo '66 (1998)</title>
+        <desc>Billy Brown just got out of jail. Now he's going to serve some real time. He's going home.</desc>
+        <icon src="https://images.pluto.tv/series/5b3ae9715b5414e97da83a99/tile_1775772721500.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5c5c31f2f21b553c1f673fb0" start="20260615221037 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Cult Films</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5c5c31f2f21b553c1f673fb0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40016,7 +40011,12 @@ outside our own solar system.</desc>
         <desc>An adrenaline seeking snowboarder gets lost in a massive winter storm in the back country of the High Sierras. Starring: Josh Hartnett, Mira Sorvino, Sarah Dumont. It is based on the book  Crystal Clear by Eric LeMarque and Davin Seay.</desc>
         <icon src="https://images.pluto.tv/series/5d95e3074c7c28ebc775cc81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dbfeb961b411c00090b52b3" start="20260615200016 +0000" stop="20260616000000 +0000">
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260615200016 +0000" stop="20260615220217 +0000">
+        <title>The Dogs Of War</title>
+        <desc>This riveting adaptation of Frederick Forsyth's best-seller stars Christopher Walken and Tom Berenger as mercenaries hired by a shadowy cartel to dethrone an African dictator.</desc>
+        <icon src="https://images.pluto.tv/series/5b3b04c67bb9b7ede8f9328d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dbfeb961b411c00090b52b3" start="20260615220217 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Action</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dbfeb961b411c00090b52b3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40026,7 +40026,12 @@ outside our own solar system.</desc>
         <desc>It centers on a pro surfer who gets kidnapped for a gambling debt.</desc>
         <icon src="https://images.pluto.tv/series/6900e7ac6e0067f40d92d710/tile_1761687881551.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5dbfedccc563080009b60f4a" start="20260615200022 +0000" stop="20260616000000 +0000">
+    <programme channel="5dbfedccc563080009b60f4a" start="20260615200022 +0000" stop="20260615224722 +0000">
+        <title>Traffic</title>
+        <desc>A conservative judge is appointed by the President to spearhead America's escalating war against drugs, only to discover that his teenage daughter is an addict.</desc>
+        <icon src="https://images.pluto.tv/series/6380a308fb1ff500136ba1bc/tile_1766531521730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5dbfedccc563080009b60f4a" start="20260615224722 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Thrillers</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5dbfedccc563080009b60f4a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40046,7 +40051,17 @@ outside our own solar system.</desc>
         <desc>Sludge experiences a white-knuckle ride, climbing a mountain with an angry load.</desc>
         <icon src="https://images.pluto.tv/series/66b9cc402cb3a00013b04502/tile_1767303012544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="600acaff5f2d6e000745effb" start="20260615200642 +0000" stop="20260616000000 +0000">
+    <programme channel="600acaff5f2d6e000745effb" start="20260615200642 +0000" stop="20260615205842 +0000">
+        <title>Timber Kings: Coming Home</title>
+        <desc>In Alberta, Beat is tasked with building one man’s dream home on the picturesque farmland where he grew up.</desc>
+        <icon src="https://images.pluto.tv/series/63f88534f9b2f60014e1c0dd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600acaff5f2d6e000745effb" start="20260615205842 +0000" stop="20260615215042 +0000">
+        <title>Timber Kings: It’s a Dirty Job</title>
+        <desc>A reluctant Joel joins forces with his wife to construct a backyard obstacle course that he hopes will prepare them for one Tough Mudder of a race.</desc>
+        <icon src="https://images.pluto.tv/series/63f88534f9b2f60014e1c0dd/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="600acaff5f2d6e000745effb" start="20260615215042 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Tough Jobs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/600acaff5f2d6e000745effb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40056,7 +40071,12 @@ outside our own solar system.</desc>
         <desc>A wife reports her husband, a reclusive mystery writer, has fallen off a cliff. Suspicion points to her as the killer and Colonel March investigates.</desc>
         <icon src="https://images.pluto.tv/assets/images/default/vod.tile-default.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612cda102f5f18000705e0bf" start="20260615200701 +0000" stop="20260616000000 +0000">
+    <programme channel="612cda102f5f18000705e0bf" start="20260615200701 +0000" stop="20260615220750 +0000">
+        <title>After Life</title>
+        <desc>After a horrific car accident, Anna (Christina Ricci) wakes up to find the funeral director (Liam Neeson) preparing her body for her funeral.</desc>
+        <icon src="https://images.pluto.tv/series/5bbba3a84ee9a0c252c7798d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612cda102f5f18000705e0bf" start="20260615220750 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612cda102f5f18000705e0bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40096,7 +40116,17 @@ outside our own solar system.</desc>
         <desc>West: Alice Roberts and Matt Williams visit the Dorset Country Museum, where they explore finds from archaeological digs across the west of Britain.</desc>
         <icon src="https://images.pluto.tv/series/69e5e2a28f919a54cf66405e/tile_1776673443504.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65819fc1b9adc4000813f37d" start="20260615200215 +0000" stop="20260616000000 +0000">
+    <programme channel="65819fc1b9adc4000813f37d" start="20260615200215 +0000" stop="20260615205420 +0000">
+        <title>Cursed Treasures</title>
+        <desc>The hunt for Cursed Treasure begins in Staffordshire, England, where the onset of a violent storm announced the discovery of the largest Anglo-Saxon hoard ever uncovered. But was the storm an omen of things to come?</desc>
+        <icon src="https://images.pluto.tv/series/69e5da301aab98e5ee150399/tile_1776671281461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65819fc1b9adc4000813f37d" start="20260615205420 +0000" stop="20260615214625 +0000">
+        <title>Cursed Treasures</title>
+        <desc>The hunt begins in the Hell Creek Formation of South Dakota, with one of the greatest palaeontology discoveries ever made. However, the find brought nothing but trouble and suspicion to those who uncovered it.</desc>
+        <icon src="https://images.pluto.tv/series/69e5da301aab98e5ee150399/tile_1776671281461.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65819fc1b9adc4000813f37d" start="20260615214625 +0000" stop="20260616000000 +0000">
         <title>History Hunters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65819fc1b9adc4000813f37d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40106,7 +40136,12 @@ outside our own solar system.</desc>
         <desc>Every evening, starting at 9 p.m., Pluto TV takes you on a journey through the erotica with stories of passion, desire and intimacy.</desc>
         <icon src="https://images.pluto.tv/series/68c40823508ba507f0362630/tile_1757677605445.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a7ab137bdc8d0008487dfb" start="20260615200054 +0000" stop="20260616000000 +0000">
+    <programme channel="65a7ab137bdc8d0008487dfb" start="20260615200054 +0000" stop="20260615221235 +0000">
+        <title>What?</title>
+        <desc>During her Italian vacation, a young and beautiful American tourist finds herself as a guest in a coastal villa inhabited by some odd people.</desc>
+        <icon src="https://images.pluto.tv/series/6a0192214c1064447f518183/tile_1778487842110.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a7ab137bdc8d0008487dfb" start="20260615221235 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Erotica</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a7ab137bdc8d0008487dfb/featuredImage_1757667205000.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40116,7 +40151,12 @@ outside our own solar system.</desc>
         <desc>DAZN Ringside brings you the very best of boxing – the biggest fights of the year including selected live undercards, plus original feature-length documentaries, special short films and DAZN Boxing Show, featuring the biggest names in boxing.</desc>
         <icon src="https://images.pluto.tv/series/65d327306ef49d0013947907/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65b14aae0cb1a100087a216e" start="20260615203200 +0000" stop="20260616000000 +0000">
+    <programme channel="65b14aae0cb1a100087a216e" start="20260615203200 +0000" stop="20260615213500 +0000">
+        <title>Boxing</title>
+        <desc>All the boxing action.</desc>
+        <icon src="https://images.pluto.tv/series/65d326ea6ef49d00139419d4/tile_1775524261528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65b14aae0cb1a100087a216e" start="20260615213500 +0000" stop="20260616000000 +0000">
         <title>DAZN Ringside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65b14aae0cb1a100087a216e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40126,7 +40166,17 @@ outside our own solar system.</desc>
         <desc>tbc</desc>
         <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6627621d56fc840008e47c90" start="20260615200527 +0000" stop="20260616000000 +0000">
+    <programme channel="6627621d56fc840008e47c90" start="20260615200527 +0000" stop="20260615203527 +0000">
+        <title>Tennis Channel</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6627621d56fc840008e47c90" start="20260615203527 +0000" stop="20260615210527 +0000">
+        <title>Tennis Channel</title>
+        <desc>tbc</desc>
+        <icon src="https://images.pluto.tv/series/68c3c74374f43c4c1ff57c78/tile_1757661224043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6627621d56fc840008e47c90" start="20260615210527 +0000" stop="20260616000000 +0000">
         <title>Tennis Channel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6627621d56fc840008e47c90/featuredImage_1756973182434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40146,7 +40196,17 @@ outside our own solar system.</desc>
         <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
         <icon src="https://images.pluto.tv/series/67a0a339c070cf00083c4f3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a339c070cf00083c4f3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>UFC</title>
+        <desc>24/7 UFC action. Celebrate the greatest fights, best athletes, and biggest moments from the world's premier MMA organization.</desc>
+        <icon src="https://images.pluto.tv/series/67a0a339c070cf00083c4f3b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ed3e9d5e4a6e0008b346e0" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>UFC</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66ed3e9d5e4a6e0008b346e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40176,7 +40236,17 @@ outside our own solar system.</desc>
         <desc>Henry Deacon and Matthew Edgar reflect on the story of Michael Smith discussing his career and achievements.</desc>
         <icon src="https://images.pluto.tv/series/67e41018670ae2193107b5eb/tile_1757617934777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67063e78b2ffb10008195d08" start="20260615200400 +0000" stop="20260616000000 +0000">
+    <programme channel="67063e78b2ffb10008195d08" start="20260615200400 +0000" stop="20260615203400 +0000">
+        <title>Beau Greaves Vs The Bullseye Challenge</title>
+        <desc>Featuring Scott Mitchell, Kevin Painter and more!</desc>
+        <icon src="https://images.pluto.tv/series/67f58ec186743e72a6b62e16/tile_1779822877219.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67063e78b2ffb10008195d08" start="20260615203400 +0000" stop="20260615210300 +0000">
+        <title>Tungsten Talk: Gary Mawson</title>
+        <desc>Gary Mawson joins Henry Deacon on Tungsten Talk to delve into memorable moments on the darts circuit.</desc>
+        <icon src="https://images.pluto.tv/series/67e2e1d9e8cf62654291f225/tile_1757661352499.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67063e78b2ffb10008195d08" start="20260615210300 +0000" stop="20260616000000 +0000">
         <title>MODUS Super Series Darts</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67063e78b2ffb10008195d08/featuredImage_1760038204224.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40196,7 +40266,12 @@ outside our own solar system.</desc>
         <desc>One day, driving aimlessly around the outskirts of town after a trivial domestic quarrel, a writer named Tomas accidentally hits and kills a child. Will he be able to move on?</desc>
         <icon src="https://images.pluto.tv/series/694153a66a5d6e386013e0f9/tile_1765888940535.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b5a7b69ac85c428f54c441" start="20260615200154 +0000" stop="20260616000000 +0000">
+    <programme channel="68b5a7b69ac85c428f54c441" start="20260615200154 +0000" stop="20260615214422 +0000">
+        <title>Fading Gigolo</title>
+        <desc>Fioravante decides to become a professional Don Juan as a way of making money to help his cash-strapped friend.</desc>
+        <icon src="https://images.pluto.tv/series/6932cc8bd405d15a95004773/tile_1764936844024.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b5a7b69ac85c428f54c441" start="20260615214422 +0000" stop="20260616000000 +0000">
         <title>Curzon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b5a7b69ac85c428f54c441/featuredImage_1762359403059.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40206,7 +40281,12 @@ outside our own solar system.</desc>
         <desc>The hunt to track down iconic items continues with Goldberg, who recounts his undefeated streak in WCW and his WWE debut with Booker T, Lita and Mick Foley; Goldberg and the team hit a major roadblock that derails the search.</desc>
         <icon src="https://images.pluto.tv/series/6932b5bf82c5f9296df3511a/tile_1764931199744.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68c820525ec82769fdfcd104" start="20260615201800 +0000" stop="20260616000000 +0000">
+    <programme channel="68c820525ec82769fdfcd104" start="20260615201800 +0000" stop="20260615210900 +0000">
+        <title>WWE's Most Wanted Treasures</title>
+        <desc>Hall of Famer, Bret "Hitman" Hart had his WrestleMania VIII jacket stolen from him, and he hopes that the team, along with WWE superstar and Bret's niece, Natalya, can help track it down; Bret relives his early days in the Hart Foundation.</desc>
+        <icon src="https://images.pluto.tv/series/6932b5bf82c5f9296df3511a/tile_1764931199744.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68c820525ec82769fdfcd104" start="20260615210900 +0000" stop="20260616000000 +0000">
         <title>Wrestling Legends TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68c820525ec82769fdfcd104/featuredImage_1764927594544.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40218,7 +40298,21 @@ outside our own solar system.</desc>
 13 June (1pm - 5.30pm), 14 June (1pm - 5.30pm)</desc>
         <icon src="https://images.pluto.tv/series/68ef680ceeff124aec506135/tile_1781250020301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68d67005bdb33359705bbed3" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="68d67005bdb33359705bbed3" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>SUMO Paris 2026</title>
+        <desc>The Paris Sumo Tournament brings Japan’s greatest rikishi back to the Accor Arena for the first time in over 30 years. Two days of raw power, ancient tradition, and unmissable spectacle. 
+
+13 June (1pm - 5.30pm), 14 June (1pm - 5.30pm)</desc>
+        <icon src="https://images.pluto.tv/series/68ef680ceeff124aec506135/tile_1781250020301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d67005bdb33359705bbed3" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>SUMO Paris 2026</title>
+        <desc>The Paris Sumo Tournament brings Japan’s greatest rikishi back to the Accor Arena for the first time in over 30 years. Two days of raw power, ancient tradition, and unmissable spectacle. 
+
+13 June (1pm - 5.30pm), 14 June (1pm - 5.30pm)</desc>
+        <icon src="https://images.pluto.tv/series/68ef680ceeff124aec506135/tile_1781250020301.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68d67005bdb33359705bbed3" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>SUMO Paris 2026</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68d67005bdb33359705bbed3/featuredImage_1780993034702.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40228,7 +40322,12 @@ outside our own solar system.</desc>
         <desc>Relive the highlights of the FIA World Rally Championship, with summaries and analysis of the various stages of the competition.</desc>
         <icon src="https://images.pluto.tv/series/69a6ce9a4b1996b7d1334f3b/tile_1772539547751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="696e024a7e92438c27a425a8" start="20260615205500 +0000" stop="20260616000000 +0000">
+    <programme channel="696e024a7e92438c27a425a8" start="20260615205500 +0000" stop="20260615213600 +0000">
+        <title>WRC: More Than Machine</title>
+        <desc>Champion Thierry Neuville faces crisis while new Hyundai signee Adrien Fourmaux delivers a stunning performance, setting the stage for Gregoire Munster's emotional comeback.</desc>
+        <icon src="https://images.pluto.tv/series/69a6ce9b4b1996b7d1334f82/tile_1772539547903.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="696e024a7e92438c27a425a8" start="20260615213600 +0000" stop="20260616000000 +0000">
         <title>Rally TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/696e024a7e92438c27a425a8/featuredImage_1770892518087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40238,7 +40337,12 @@ outside our own solar system.</desc>
         <desc>Richard can't refuse a bargain and his home is brimming with clearance items. Plus, Barbara reveals how her hoarding problem grew after losing her two sons.</desc>
         <icon src="https://images.pluto.tv/series/69ca437e615bba1ee0cece4a/tile_1774863231017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="698a040b48d98175cb870fc5" start="20260615201700 +0000" stop="20260616000000 +0000">
+    <programme channel="698a040b48d98175cb870fc5" start="20260615201700 +0000" stop="20260615210800 +0000">
+        <title>Hoarders</title>
+        <desc>A couple in Louisville, Kentucky who both suffer from hoarding risk losing their children if they don't comply with numerous citations, A woman's food hoarding in Milwaukee, Wisconsin is so bad that she places herself at risk for food poisoning.</desc>
+        <icon src="https://images.pluto.tv/series/69ca437e615bba1ee0cece4a/tile_1774863231017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="698a040b48d98175cb870fc5" start="20260615210800 +0000" stop="20260616000000 +0000">
         <title>Hoarders</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/698a040b48d98175cb870fc5/featuredImage_1771343157070.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40248,7 +40352,17 @@ outside our own solar system.</desc>
         <desc>Adventurer Sir Malcolm invites Bert on an expedition, which Cyril secretly funds for treasure. As Bert seeks adventure and discovery, Cyril’s greed threatens the mission, putting everyone in danger along the way.</desc>
         <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b422590306b277746f48cb" start="20260615202110 +0000" stop="20260616000000 +0000">
+    <programme channel="69b422590306b277746f48cb" start="20260615202110 +0000" stop="20260615204711 +0000">
+        <title>The Raccoons</title>
+        <desc>Cyril’s failing chip business leads him to stage a fake contest to boost sales. Bert gets caught up and wastes money, realizing too late it’s a scam. The gang must expose the truth before others are tricked as well.</desc>
+        <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b422590306b277746f48cb" start="20260615204711 +0000" stop="20260615211313 +0000">
+        <title>The Raccoons</title>
+        <desc>Daredevil biker Bix arrives and impresses Bert, but his reckless actions cause trouble that Cedric gets blamed for. Bert must recognize the difference between excitement and responsibility before friendships are damaged.</desc>
+        <icon src="https://images.pluto.tv/series/69f86a71bf3cd485093faa96/tile_1777887879681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b422590306b277746f48cb" start="20260615211313 +0000" stop="20260616000000 +0000">
         <title>The Raccoons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b422590306b277746f48cb/featuredImage_1776351895988.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40258,7 +40372,17 @@ outside our own solar system.</desc>
         <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
         <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b917d632eb9227dd6b427e" start="20260615201911 +0000" stop="20260616000000 +0000">
+    <programme channel="69b917d632eb9227dd6b427e" start="20260615201911 +0000" stop="20260615204911 +0000">
+        <title>The Therapy Crouch</title>
+        <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
+        <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b917d632eb9227dd6b427e" start="20260615204911 +0000" stop="20260615211911 +0000">
+        <title>The Therapy Crouch</title>
+        <desc>The UK’s biggest couples Therapy Podcast, hosted by Peter Crouch and Abbey Clancy, invites you to explore the trials and tribulations experienced by themselves, and you the listener, as we navigate our way through complex relationships.</desc>
+        <icon src="https://images.pluto.tv/series/6a19605ba7b5a6c5608cecb6/tile_1780047977682.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b917d632eb9227dd6b427e" start="20260615211911 +0000" stop="20260616000000 +0000">
         <title>The Therapy Crouch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b917d632eb9227dd6b427e/featuredImage_1775836696076.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40268,7 +40392,17 @@ outside our own solar system.</desc>
         <desc>A truly enormous auction explodes when rival bidders bet huge sums of money on forfeited international shipping containers.</desc>
         <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69c6a93486431735d974bc2a" start="20260615201705 +0000" stop="20260616000000 +0000">
+    <programme channel="69c6a93486431735d974bc2a" start="20260615201705 +0000" stop="20260615204222 +0000">
+        <title>Container Wars</title>
+        <desc>Manic Matt sets out to prove a point in the port of Oakland, gambling early on a container full of liquor before driving up prices. Will his tactics backfire?</desc>
+        <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c6a93486431735d974bc2a" start="20260615204222 +0000" stop="20260615210725 +0000">
+        <title>Container Wars</title>
+        <desc>New auctioneer Penny has Israeli young guns Uzi and Schlomi seeing red.</desc>
+        <icon src="https://images.pluto.tv/series/69e8afd0f7413575bb673c38/tile_1776857053925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69c6a93486431735d974bc2a" start="20260615210725 +0000" stop="20260616000000 +0000">
         <title>Deal Masters</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69c6a93486431735d974bc2a/featuredImage_1778165757861.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40278,7 +40412,12 @@ outside our own solar system.</desc>
         <desc>In today's show Charlie from London is going to be given five menus each put together by a potential blind date.</desc>
         <icon src="https://images.pluto.tv/series/69d4bf2011a68f7704ed31e6/tile_1775550249891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260615201954 +0000" stop="20260616000000 +0000">
+    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260615201954 +0000" stop="20260615211312 +0000">
+        <title>Dinner Date</title>
+        <desc>In today's show Charlie from London is going to be given five menus each put together by a potential blind date.</desc>
+        <icon src="https://images.pluto.tv/series/69d4bf2011a68f7704ed31e6/tile_1775550249891.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69d51f98fcb9bf5e303ca0c1" start="20260615211312 +0000" stop="20260616000000 +0000">
         <title>Dinner Date</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69d51f98fcb9bf5e303ca0c1/featuredImage_1777472699054.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40288,7 +40427,12 @@ outside our own solar system.</desc>
         <desc>When a wisecracking black hustler from South Central L.A. finds himself transported back to medieval England, he leads the overthrow of an evil king and wins the heart of a proto feminist woman.</desc>
         <icon src="https://images.pluto.tv/series/607feca9918e16001a51f952/tile_1773916921142.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5c363c2411c5ca053f198f97" start="20260615200210 +0000" stop="20260616000000 +0000">
+    <programme channel="5c363c2411c5ca053f198f97" start="20260615200210 +0000" stop="20260615215210 +0000">
+        <title>Trees Lounge</title>
+        <desc>A man drifting through time desperately searches for some meaning to his life.</desc>
+        <icon src="https://images.pluto.tv/series/5b190526c65a0642637624ea/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5c363c2411c5ca053f198f97" start="20260615215210 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Comedy Movies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5c363c2411c5ca053f198f97/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40298,7 +40442,12 @@ outside our own solar system.</desc>
         <desc>The Seven try to stop the abuse of Chinese laborers working railroad construction.</desc>
         <icon src="https://images.pluto.tv/series/5da8cc7b15607440e23ae675/tile_1765991995340.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5d4bdb635ce813b38639e6a3" start="20260615200341 +0000" stop="20260616000000 +0000">
+    <programme channel="5d4bdb635ce813b38639e6a3" start="20260615200341 +0000" stop="20260615215541 +0000">
+        <title>Angel And The Badman</title>
+        <desc>Quirt Evans, an all round bad guy, is nursed back to health and sought after by Penelope Worth, a Quaker girl. He eventually finds himself having to choose between his world and the world Penelope lives in. Starring: John Wayne, Gail Russell, Harry Carey</desc>
+        <icon src="https://images.pluto.tv/series/5db030b5622cbb9f47d9f57a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5d4bdb635ce813b38639e6a3" start="20260615215541 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Westerns</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5d4bdb635ce813b38639e6a3/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40318,7 +40467,17 @@ outside our own solar system.</desc>
         <desc>(S01E031) There are no easy answers when Amanda announces she's pregnant with Billy's child and Jane agrees to let Michael sleep on the couch if they go to couple's therapy.</desc>
         <icon src="https://images.pluto.tv/series/663cb009c2d6a90013f6ad89/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ddf91149880d60009d35d27" start="20260615200738 +0000" stop="20260616000000 +0000">
+    <programme channel="5ddf91149880d60009d35d27" start="20260615200738 +0000" stop="20260615205843 +0000">
+        <title>Flashpoint</title>
+        <desc>A wave of terrorist bombs shuts down the city, pushing Team One to the limit and putting one of their own on the line.</desc>
+        <icon src="https://images.pluto.tv/series/66d80b13d99fc70013a8333c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddf91149880d60009d35d27" start="20260615205843 +0000" stop="20260615214740 +0000">
+        <title>Flashpoint</title>
+        <desc>The SRU must rescue a young woman after she’s been abducted by a delusional man who insists she is his missing daughter.</desc>
+        <icon src="https://images.pluto.tv/series/66d80b13d99fc70013a8333c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ddf91149880d60009d35d27" start="20260615214740 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ddf91149880d60009d35d27/featuredImage_1764596004853.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40328,7 +40487,12 @@ outside our own solar system.</desc>
         <desc>Dylan, Beka, Rev and Tyr crash land after escaping a gang of Nietzscheans, but soon face a new threat: Rev's need to feed.</desc>
         <icon src="https://images.pluto.tv/series/5eb7e1c4d6ea50001a3225ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e8db96bccae160007c71eec" start="20260615202652 +0000" stop="20260616000000 +0000">
+    <programme channel="5e8db96bccae160007c71eec" start="20260615202652 +0000" stop="20260615211752 +0000">
+        <title>Andromeda</title>
+        <desc>The crew must steal a jewel that is at the center of a feud between a Drift owner and the Than. Beka falls for a security chief who was formerly a thief.</desc>
+        <icon src="https://images.pluto.tv/series/5eb7e1c4d6ea50001a3225ef/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e8db96bccae160007c71eec" start="20260615211752 +0000" stop="20260616000000 +0000">
         <title>Andromeda</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e8db96bccae160007c71eec/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40338,7 +40502,12 @@ outside our own solar system.</desc>
         <desc>Caroline's sister Judith tries to help and the drought forces Danny to sell some of his animals.  Will Rosie and Max get married?</desc>
         <icon src="https://images.pluto.tv/series/60a232bb41fc48001328064c/tile_1767139202489.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60817936fd2d70000763d2b2" start="20260615203800 +0000" stop="20260616000000 +0000">
+    <programme channel="60817936fd2d70000763d2b2" start="20260615203800 +0000" stop="20260615213300 +0000">
+        <title>Wild At Heart: Episode 7</title>
+        <desc>The drought finally throws up a fire and the wedding turns into a firefight for everyone.  The omens are bad.</desc>
+        <icon src="https://images.pluto.tv/series/60a232bb41fc48001328064c/tile_1767139202489.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60817936fd2d70000763d2b2" start="20260615213300 +0000" stop="20260616000000 +0000">
         <title>Wild at Heart</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60817936fd2d70000763d2b2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40348,7 +40517,12 @@ outside our own solar system.</desc>
         <desc>Commander Truffault helps the crew out of a tough situation, and into another, forcing them to team up with another crew to complete a dangerous assignment.</desc>
         <icon src="https://images.pluto.tv/series/6009b97ecaf1bb001a7f4fa2/tile_1759441748820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="619247c34a270700077c8415" start="20260615204749 +0000" stop="20260616000000 +0000">
+    <programme channel="619247c34a270700077c8415" start="20260615204749 +0000" stop="20260615213549 +0000">
+        <title>Dark Matter</title>
+        <desc>After losing one of their own, the crew must race against time to retake the ship.</desc>
+        <icon src="https://images.pluto.tv/series/6009b97ecaf1bb001a7f4fa2/tile_1759441748820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="619247c34a270700077c8415" start="20260615213549 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Sci-fi Series</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/619247c34a270700077c8415/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40358,7 +40532,12 @@ outside our own solar system.</desc>
         <desc>The team probe the death of a woman who was married to a man who was a prime suspect.</desc>
         <icon src="https://images.pluto.tv/series/68a70e7b06254fd0f6363393/tile_1755779537659.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f8d5ffb61000071ab478" start="20260615202826 +0000" stop="20260616000000 +0000">
+    <programme channel="6304f8d5ffb61000071ab478" start="20260615202826 +0000" stop="20260615212000 +0000">
+        <title>CSI: Crime Scene Investigation</title>
+        <desc>A double fatality at a Korea Town party has the CSIs on the hunt for a missing boy.</desc>
+        <icon src="https://images.pluto.tv/series/68a8767ea64d66fd0b572be0/tile_1755870850873.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f8d5ffb61000071ab478" start="20260615212000 +0000" stop="20260616000000 +0000">
         <title>CSI: Crime Scene Investigation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f8d5ffb61000071ab478/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40368,7 +40547,12 @@ outside our own solar system.</desc>
         <desc>Team Scorpion gets trapped inside a failing and dangerous biodome designed for Mars while trying to extract a pair of scientists inside.</desc>
         <icon src="https://images.pluto.tv/series/6425849e559c07001a66e96e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d000ef4e83e700086e0d6c" start="20260615201000 +0000" stop="20260616000000 +0000">
+    <programme channel="63d000ef4e83e700086e0d6c" start="20260615201000 +0000" stop="20260615210100 +0000">
+        <title>Scorpion: Something Burrowed, Something Blew</title>
+        <desc>Team Scorpion helps Toby and Happy race to the altar to say "I Do" after a simple job extinguishing a tunnel fire becomes catastrophic.</desc>
+        <icon src="https://images.pluto.tv/series/6425849e559c07001a66e96e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d000ef4e83e700086e0d6c" start="20260615210100 +0000" stop="20260616000000 +0000">
         <title>Scorpion</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d000ef4e83e700086e0d6c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40378,7 +40562,12 @@ outside our own solar system.</desc>
         <desc>When a gifted psychic - or, at the very least, a gifted conman - enters 15 Division to help find the missing witness in an organized-crime case, the officers are forced to come face-to-face with some of the hidden truths</desc>
         <icon src="https://images.pluto.tv/series/6433f7716113a5001ab3d471/tile_1767213001929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63fe2ec4dff38e000835f786" start="20260615202700 +0000" stop="20260616000000 +0000">
+    <programme channel="63fe2ec4dff38e000835f786" start="20260615202700 +0000" stop="20260615211800 +0000">
+        <title>Rookie Blue: The Girlfriend Experience</title>
+        <desc>While investigating the disappearance of a grad-student-turned escort, the officers discover a pattern of missing women. Since Gail fits the physical description of the victims, she is sent on an undercover sting at a high-end hotel</desc>
+        <icon src="https://images.pluto.tv/series/6433f7716113a5001ab3d471/tile_1767213001929.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63fe2ec4dff38e000835f786" start="20260615211800 +0000" stop="20260616000000 +0000">
         <title>Rookie Blue</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63fe2ec4dff38e000835f786/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40388,7 +40577,12 @@ outside our own solar system.</desc>
         <desc>When a group of astronauts returning to Earth after an expedition to Mars discovers what appears to be a dangerous alien life form on their ship, they must decide whether to return to Earth or sacrifice themselves for the sake of all humanity?</desc>
         <icon src="https://images.pluto.tv/series/691c7eb062d408b3b7a2da60/tile_1763481366874.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="645e00d5d3fdde000829463a" start="20260615204438 +0000" stop="20260616000000 +0000">
+    <programme channel="645e00d5d3fdde000829463a" start="20260615204438 +0000" stop="20260615213657 +0000">
+        <title>The Outer Limits: 1995</title>
+        <desc>Jennifer (Marlee Matlin), deaf since birth, has had a revolutionary implant in her ear, to help her hear for the first time. The device doesn't help her to hear normal conversation and sounds, but she does hear...something…from The Outer Limits.</desc>
+        <icon src="https://images.pluto.tv/series/691c7eb062d408b3b7a2da60/tile_1763481366874.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="645e00d5d3fdde000829463a" start="20260615213657 +0000" stop="20260616000000 +0000">
         <title>More TV Sci-fi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/645e00d5d3fdde000829463a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40398,12 +40592,32 @@ outside our own solar system.</desc>
         <desc>Two former British school friends take to the high seas to thwart a German invasion of Britain in 1901.</desc>
         <icon src="https://images.pluto.tv/series/66aa590c94a184001349e8ae/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65031534d545e9000881ed10" start="20260615203700 +0000" stop="20260616000000 +0000">
+    <programme channel="65031534d545e9000881ed10" start="20260615203700 +0000" stop="20260615221200 +0000">
+        <title>The Big Job</title>
+        <desc>A gang of crooks are caught on a big job. 15 years later they find their loot is now buried under a police station.</desc>
+        <icon src="https://images.pluto.tv/series/66b1ca6e17101c0013f8d6e0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65031534d545e9000881ed10" start="20260615221200 +0000" stop="20260616000000 +0000">
         <title>British Screen Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65031534d545e9000881ed10/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="65a6a7a00c7ff50008cba07b" start="20260615200000 +0000" stop="20260616000000 +0000">
+    <programme channel="65a6a7a00c7ff50008cba07b" start="20260615200000 +0000" stop="20260615200406 +0000">
+        <title>Pluto TV Crime Drama</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="65a6a7a00c7ff50008cba07b" start="20260615200406 +0000" stop="20260615205613 +0000">
+        <title>True Justice</title>
+        <desc>Now in Vancouver, Kane joins forces with the CIA to take down a lawyer who had a hand in the attack on Kane’s precinct. The CIA wants the lawyer dead, and promises it will bring Kane one step closer to the man responsible for it all: The Ghost.</desc>
+        <icon src="https://images.pluto.tv/series/691aee234b5f5c0593070872/tile_1763628483377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a6a7a00c7ff50008cba07b" start="20260615205613 +0000" stop="20260615214824 +0000">
+        <title>True Justice</title>
+        <desc>The CIA asks Kane and his team to take down a high-level gang boss involved in human smuggling, but Kane’s investigation uncovers a larger conspiracy involving organ-trafficking.</desc>
+        <icon src="https://images.pluto.tv/series/691aee234b5f5c0593070872/tile_1763628483377.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a6a7a00c7ff50008cba07b" start="20260615214824 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Crime Drama</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a6a7a00c7ff50008cba07b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40413,7 +40627,17 @@ outside our own solar system.</desc>
         <desc>A Navy astronaut dies during a drill while preparing for a space mission to repair a satellite</desc>
         <icon src="https://images.pluto.tv/series/663c8f2841d4c70014e5b957/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660e5dc60cd4630008f6198a" start="20260615200355 +0000" stop="20260616000000 +0000">
+    <programme channel="660e5dc60cd4630008f6198a" start="20260615200355 +0000" stop="20260615205644 +0000">
+        <title>JAG: Prisoner</title>
+        <desc>Chicom agents capture Harm in Hong Kong; they vigorously question him in mainland China about official matters.</desc>
+        <icon src="https://images.pluto.tv/series/663c8f2841d4c70014e5b957/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660e5dc60cd4630008f6198a" start="20260615205644 +0000" stop="20260615214825 +0000">
+        <title>JAG: Ares</title>
+        <desc>Someone kills a Naval officer on Okinawa, then his ship encounters major trouble during war games at sea</desc>
+        <icon src="https://images.pluto.tv/series/663c8f2841d4c70014e5b957/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660e5dc60cd4630008f6198a" start="20260615214825 +0000" stop="20260616000000 +0000">
         <title>JAG</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660e5dc60cd4630008f6198a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40423,7 +40647,12 @@ outside our own solar system.</desc>
         <desc>Team One must locate and rescue a politician before a vengeful radio shock jock kills him on the air.</desc>
         <icon src="https://images.pluto.tv/series/66d80b13d99fc70013a8333c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a10eacfe11e500084c6925" start="20260615201137 +0000" stop="20260616000000 +0000">
+    <programme channel="66a10eacfe11e500084c6925" start="20260615201137 +0000" stop="20260615210135 +0000">
+        <title>Flashpoint</title>
+        <desc>The SRU are called in to resolve a gas station robbery but discover it’s connected to a deadly crisis on a cult compound.</desc>
+        <icon src="https://images.pluto.tv/series/66d80b13d99fc70013a8333c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a10eacfe11e500084c6925" start="20260615210135 +0000" stop="20260616000000 +0000">
         <title>Flashpoint</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a10eacfe11e500084c6925/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40433,7 +40662,12 @@ outside our own solar system.</desc>
         <desc>The A-Team helps a teen-ager protect his property from a greedy and deadly man.</desc>
         <icon src="https://images.pluto.tv/series/67234440c814a90013b4f0cf/tile_1767374498518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d717d2abec540008ba7ec4" start="20260615205008 +0000" stop="20260616000000 +0000">
+    <programme channel="66d717d2abec540008ba7ec4" start="20260615205008 +0000" stop="20260615214627 +0000">
+        <title>The A-Team</title>
+        <desc>The A-Team travels to a small mining town in search of a missing precious-metals expert.</desc>
+        <icon src="https://images.pluto.tv/series/67234440c814a90013b4f0cf/tile_1767374498518.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d717d2abec540008ba7ec4" start="20260615214627 +0000" stop="20260616000000 +0000">
         <title>Pluto TV 80's Action</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d717d2abec540008ba7ec4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40443,7 +40677,12 @@ outside our own solar system.</desc>
         <desc>Doors makes a public appearance, leading to an increase in anti-Taelon sentiment. The Taelon Synod is fed up with Da'an and sends Zo'or in his stead.</desc>
         <icon src="https://images.pluto.tv/series/6140a703aeae500014d5951c/tile_1775199241466.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f1331f9409630008077623" start="20260615203700 +0000" stop="20260616000000 +0000">
+    <programme channel="66f1331f9409630008077623" start="20260615203700 +0000" stop="20260615212400 +0000">
+        <title>Earth: Final Conflict: Horizon Zero</title>
+        <desc>A high profile mission to Mars is suddenly canceled, much to the dismay of the public. Involved air force captain Paul Chandler steals Lili's shuttle.</desc>
+        <icon src="https://images.pluto.tv/series/6140a703aeae500014d5951c/tile_1775199241466.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f1331f9409630008077623" start="20260615212400 +0000" stop="20260616000000 +0000">
         <title>Earth: Final Conflict</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f1331f9409630008077623/featuredImage_1730797917117.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40453,7 +40692,12 @@ outside our own solar system.</desc>
         <desc>Jaime, posing as a stewardess, Rudy Wells and other airline passengers are stranded on a remote beach with a killer.</desc>
         <icon src="https://images.pluto.tv/series/680bab8730b839eca55aed79/tile_1745595279014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb08f5b68381e2dbfd5af" start="20260615201500 +0000" stop="20260616000000 +0000">
+    <programme channel="677fb08f5b68381e2dbfd5af" start="20260615201500 +0000" stop="20260615211200 +0000">
+        <title>Bionic Woman</title>
+        <desc>Jaime is jailed in a frame-up after giving a decoding device to a man posing as a general.</desc>
+        <icon src="https://images.pluto.tv/series/680bab8730b839eca55aed79/tile_1745595279014.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb08f5b68381e2dbfd5af" start="20260615211200 +0000" stop="20260616000000 +0000">
         <title>The Bionic Woman</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fb08f5b68381e2dbfd5af/featuredImage_1761664385403.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40463,7 +40707,17 @@ outside our own solar system.</desc>
         <desc>Maggie and Maurice regret their donations to a fund-raiser for the library; Miranda's growth depresses Shelly.</desc>
         <icon src="https://images.pluto.tv/series/68ff67a13fb09016da282914/tile_1761568676254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb0e93a225c2d0d8a45bf" start="20260615200300 +0000" stop="20260616000000 +0000">
+    <programme channel="677fb0e93a225c2d0d8a45bf" start="20260615200300 +0000" stop="20260615205600 +0000">
+        <title>Northern Exposure</title>
+        <desc>Rabbi Schulman takes Joel on a tour of his past, present and future; Maurice tries to impress visiting British royalty.</desc>
+        <icon src="https://images.pluto.tv/series/68ff67a13fb09016da282914/tile_1761568676254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb0e93a225c2d0d8a45bf" start="20260615205600 +0000" stop="20260615214800 +0000">
+        <title>Northern Exposure</title>
+        <desc>A letter Maggie wrote to herself as a teen makes her re-examine her life; Joel discovers a lump on his head.</desc>
+        <icon src="https://images.pluto.tv/series/68ff67a13fb09016da282914/tile_1761568676254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb0e93a225c2d0d8a45bf" start="20260615214800 +0000" stop="20260616000000 +0000">
         <title>Northern Exposure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fb0e93a225c2d0d8a45bf/featuredImage_1761666241962.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40473,7 +40727,12 @@ outside our own solar system.</desc>
         <desc>Scorpius puts the neural chip into his own brain in an attempt to retrieve vital wormhole equations from Crichton.</desc>
         <icon src="https://images.pluto.tv/series/65646cd9b8262d0013dfeaa3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680bb31c56ff83bcd685d64e" start="20260615204343 +0000" stop="20260616000000 +0000">
+    <programme channel="680bb31c56ff83bcd685d64e" start="20260615204343 +0000" stop="20260615213549 +0000">
+        <title>Farscape: Farscape: S3 E12 - Meltdown</title>
+        <desc>Talyn gets the urge to fly into a sun. While in its vicinity Stark is contacted by an alien woman who is being held against her will.</desc>
+        <icon src="https://images.pluto.tv/series/65646cd9b8262d0013dfeaa3/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680bb31c56ff83bcd685d64e" start="20260615213549 +0000" stop="20260616000000 +0000">
         <title>Farscape</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680bb31c56ff83bcd685d64e/featuredImage_1747989856981.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40483,7 +40742,12 @@ outside our own solar system.</desc>
         <desc>McGarrett and his Five-O crew seek the killer of an archeologist who may have died because of the rumor that he was trying to find and excavate the lost grave of the Hawaiian king, Kamehameha, thereby violating an ancient taboo.</desc>
         <icon src="https://images.pluto.tv/series/687df9204f8d4a99170e36f5/tile_1753090885283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68503d3bc692373f0158c43f" start="20260615202026 +0000" stop="20260616000000 +0000">
+    <programme channel="68503d3bc692373f0158c43f" start="20260615202026 +0000" stop="20260615211812 +0000">
+        <title>Hawaii Five-O (Original)</title>
+        <desc>Steve hunts for 2 law-evading fugitives linked to an armored truck robbery. A former cop complicates the search. The ex-officer's drunk behavior enabled the robbery.</desc>
+        <icon src="https://images.pluto.tv/series/687df9204f8d4a99170e36f5/tile_1753090885283.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68503d3bc692373f0158c43f" start="20260615211812 +0000" stop="20260616000000 +0000">
         <title>Hawaii Five-O</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68503d3bc692373f0158c43f/featuredImage_1752574985264.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40493,7 +40757,12 @@ outside our own solar system.</desc>
         <desc>Working behind the iron curtain to destroy the wreckage of a top-secret jet, MacGyver comes to the aid of a renowned Russian psychic who wishes to defect.</desc>
         <icon src="https://images.pluto.tv/series/68629c9d9017101f05e2c968/tile_1751293088190.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68503d585965a2fd49fc2f0b" start="20260615202714 +0000" stop="20260616000000 +0000">
+    <programme channel="68503d585965a2fd49fc2f0b" start="20260615202714 +0000" stop="20260615212212 +0000">
+        <title>MacGyver</title>
+        <desc>MacGyver and old buddy Jack Dalton are arrested and thrown into a labor camp, only to discover they are being used by the local authorities to search for some hidden bank robbery loot.</desc>
+        <icon src="https://images.pluto.tv/series/68629c9d9017101f05e2c968/tile_1751293088190.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68503d585965a2fd49fc2f0b" start="20260615212212 +0000" stop="20260616000000 +0000">
         <title>MacGyver</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68503d585965a2fd49fc2f0b/featuredImage_1750164241626.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40503,7 +40772,17 @@ outside our own solar system.</desc>
         <desc>When a group home for adults with Down syndrome opens in a quiet neighborhood, a bitter older woman, who cares more for her prize roses than for her fellow humans, mounts a campaign to close it down</desc>
         <icon src="https://images.pluto.tv/series/685e5b5631b6562298a9afd7/tile_1751014232248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68504098f212bedacf63a7e1" start="20260615200059 +0000" stop="20260616000000 +0000">
+    <programme channel="68504098f212bedacf63a7e1" start="20260615200059 +0000" stop="20260615205613 +0000">
+        <title>Touched By An Angel</title>
+        <desc>A marriage is thrown into turmoil when expectant parents learn that their unborn child has down syndrome</desc>
+        <icon src="https://images.pluto.tv/series/685e5b5631b6562298a9afd7/tile_1751014232248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68504098f212bedacf63a7e1" start="20260615205613 +0000" stop="20260615215044 +0000">
+        <title>Touched By An Angel</title>
+        <desc>An inner-city youth learns a hard lesson when his basketball idol turns out to be a gambler who is less than a hero</desc>
+        <icon src="https://images.pluto.tv/series/685e5b5631b6562298a9afd7/tile_1751014232248.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68504098f212bedacf63a7e1" start="20260615215044 +0000" stop="20260616000000 +0000">
         <title>Touched by an Angel</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68504098f212bedacf63a7e1/featuredImage_1752724703185.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40513,7 +40792,12 @@ outside our own solar system.</desc>
         <desc>SCIU has surrounded the 5th Ward with troops and an electric shield that prevents them from leaving. Caleb has a virus that can turn the human population into abnormals. Magnus enacts her ultimate plan for the Sanctuary network</desc>
         <icon src="https://images.pluto.tv/series/61656453b8333a001ad5e482/tile_1775197081345.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685041d936c9361b1921c26c" start="20260615205007 +0000" stop="20260616000000 +0000">
+    <programme channel="685041d936c9361b1921c26c" start="20260615205007 +0000" stop="20260615214707 +0000">
+        <title>Sanctuary: Sanctuary For All Pt 1</title>
+        <desc>The enigmatic Dr. Helen Magnus recruits an insightful forensic psychiatrist Will Zimmerman (ROBIN DUNNE) to join her in the quest to track, study and protect the strange, and often terrifying creatures that secretly populate our world. Part 1.</desc>
+        <icon src="https://images.pluto.tv/series/61656453b8333a001ad5e482/tile_1775197081345.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685041d936c9361b1921c26c" start="20260615214707 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Fantasy &amp; Horror</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685041d936c9361b1921c26c/featuredImage_1753696743869.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40523,7 +40807,12 @@ outside our own solar system.</desc>
         <desc>Matlock defends Paul J. Bartel, a top TV producer accused of murdering the programming chief at the top-rated network, and finds the case has more twists than most Hollywood scripts.</desc>
         <icon src="https://images.pluto.tv/series/6645d3803b5b100014fe1392/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6850426e53d981d1fdb0d966" start="20260615201347 +0000" stop="20260616000000 +0000">
+    <programme channel="6850426e53d981d1fdb0d966" start="20260615201347 +0000" stop="20260615210801 +0000">
+        <title>Matlock: Best Friend</title>
+        <desc>When a renowned author is murdered, Matlock defends the accused – the subject of a biography the victim was writing – only to encounter a disturbing revelation about his client midway through the trial.</desc>
+        <icon src="https://images.pluto.tv/series/6645d3803b5b100014fe1392/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6850426e53d981d1fdb0d966" start="20260615210801 +0000" stop="20260616000000 +0000">
         <title>Matlock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6850426e53d981d1fdb0d966/featuredImage_1750165804508.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40533,7 +40822,12 @@ outside our own solar system.</desc>
         <desc>Spider-man comes home to Marvel, but can Marvel and Sony get along enough to keep him there? The franchise comes full circle, bringing everyone back together in a time of crisis.</desc>
         <icon src="https://images.pluto.tv/series/68e920d8393a03f3e341d368/tile_1760109249875.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686fc8fe1889b4ad04604704" start="20260615202755 +0000" stop="20260616000000 +0000">
+    <programme channel="686fc8fe1889b4ad04604704" start="20260615202755 +0000" stop="20260615211956 +0000">
+        <title>Icons Unearthed: Tom Cruise</title>
+        <desc>Tom Cruise steps into the spotlight, taking the lead in Risky Business, but when Paul Brickman is forced to change his ending will that put an end to Tom’s dreams?</desc>
+        <icon src="https://images.pluto.tv/series/68ecec90d70c07ace8680901/tile_1760381948048.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686fc8fe1889b4ad04604704" start="20260615211956 +0000" stop="20260616000000 +0000">
         <title>Icons Unearthed+</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686fc8fe1889b4ad04604704/featuredImage_1759777262102.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40543,7 +40837,12 @@ outside our own solar system.</desc>
         <desc>Arabia 843 AD: A sheik uses the Light of Truth to reveal his general as a traitor. 2001: Prince Shareem drops out from Sydney's class to go search for the Light of Truth.</desc>
         <icon src="https://images.pluto.tv/series/616ebb6fa6e392001bc2a716/tile_1775199241416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e3b6112baff9f069d02540" start="20260615202147 +0000" stop="20260616000000 +0000">
+    <programme channel="68e3b6112baff9f069d02540" start="20260615202147 +0000" stop="20260615211447 +0000">
+        <title>Relic Hunter: Treasure Island</title>
+        <desc>Sydney's on the hunt for a Pirate's booty, but will a traitor force her to walk the plank?</desc>
+        <icon src="https://images.pluto.tv/series/616ebb6fa6e392001bc2a716/tile_1775199241416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e3b6112baff9f069d02540" start="20260615211447 +0000" stop="20260616000000 +0000">
         <title>Relic Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e3b6112baff9f069d02540/featuredImage_1759760851680.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40553,7 +40852,12 @@ outside our own solar system.</desc>
         <desc>Honored guests of a prime minister, the pilgrims face black magicians and bandits. Tripitaka falls ill with Tibetan Fever, while Pigsy hunts a vampire and uncovers a shocking truth.</desc>
         <icon src="https://images.pluto.tv/series/68d68478e466f791b5f86715/tile_1775199601332.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e3c18130ee729844af1fca" start="20260615203211 +0000" stop="20260616000000 +0000">
+    <programme channel="68e3c18130ee729844af1fca" start="20260615203211 +0000" stop="20260615212303 +0000">
+        <title>Monkey</title>
+        <desc>In a blizzard, starving pilgrims hide in a cave. Monkey tricks Pigsy into “sacrifice,” making Tripitaka believe he ate his disciple. Overcome with grief, he is possessed by Pigsy’s spirit.</desc>
+        <icon src="https://images.pluto.tv/series/68d68478e466f791b5f86715/tile_1775199601332.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e3c18130ee729844af1fca" start="20260615212303 +0000" stop="20260616000000 +0000">
         <title>Monkey</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e3c18130ee729844af1fca/featuredImage_1760452404005.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40563,7 +40867,12 @@ outside our own solar system.</desc>
         <desc>The proprietor (Pat Hingle) of a halfway house for reformed criminals steals from rich gangsters and gives the money to his charges.</desc>
         <icon src="https://images.pluto.tv/series/6936a9cba48fba0b7e914f9f/tile_1765190183681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6900997e043e3df1897d017f" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="6900997e043e3df1897d017f" start="20260615203000 +0000" stop="20260615212500 +0000">
+        <title>Ironside</title>
+        <desc>The prime suspects in the grenade death of a Vietnam veteran are the members of the man's former squadron; guest Scott Hylands.</desc>
+        <icon src="https://images.pluto.tv/series/6936a9cba48fba0b7e914f9f/tile_1765190183681.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6900997e043e3df1897d017f" start="20260615212500 +0000" stop="20260616000000 +0000">
         <title>Ironside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6900997e043e3df1897d017f/featuredImage_1765360131581.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40573,7 +40882,12 @@ outside our own solar system.</desc>
         <desc>After an infant is abandoned, Cagney and Lacey end up deep in the world of underground baby merchants. Meanwhile, Lacey seriously considers adopting the infant. Cagney deals with a new love who doesn't approve of her profession.</desc>
         <icon src="https://images.pluto.tv/series/6203b7f284ef4e001385c7db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6960c5a906d76f50db2816dc" start="20260615200502 +0000" stop="20260616000000 +0000">
+    <programme channel="6960c5a906d76f50db2816dc" start="20260615200502 +0000" stop="20260615210302 +0000">
+        <title>Cagney &amp; Lacey: Partners</title>
+        <desc>Cagney (Sharon Gless) is injured while in the line of duty by a fleeing liquor store robber. While Cagney is out recovering, Lacey (Tyne Daly) must come to terms with working with a new, temporary, partner. Also starring Al Waxman and Carl Lumbly.</desc>
+        <icon src="https://images.pluto.tv/series/6203b7f284ef4e001385c7db/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6960c5a906d76f50db2816dc" start="20260615210302 +0000" stop="20260616000000 +0000">
         <title>Cagney &amp; Lacey</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6960c5a906d76f50db2816dc/featuredImage_1768001479296.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40583,7 +40897,12 @@ outside our own solar system.</desc>
         <desc>Love and money are a beautiful marriage, for the lucky ones they create a life of happiness and ease. Unless the love is of money, the bride is a killer, and the groom their victim.</desc>
         <icon src="https://images.pluto.tv/series/5c057a9803af45c306ac8d3d/tile_1767133082713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ca1df0d50be2571e393ad31" start="20260615203900 +0000" stop="20260616000000 +0000">
+    <programme channel="5ca1df0d50be2571e393ad31" start="20260615203900 +0000" stop="20260615213300 +0000">
+        <title>Deadly Women</title>
+        <desc>Psychopathic killers lurk in society, mostly acting alone. Sometimes fate brings them into contact with another person who shares their cold power to kill.</desc>
+        <icon src="https://images.pluto.tv/series/5c057a9803af45c306ac8d3d/tile_1767133082713.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ca1df0d50be2571e393ad31" start="20260615213300 +0000" stop="20260616000000 +0000">
         <title>Deadly Women</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ca1df0d50be2571e393ad31/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40593,7 +40912,12 @@ outside our own solar system.</desc>
         <desc>Many escape the poverty of India to start new lives in the United States. One turned the American dream into a nightmare. People started turning up dead in New York's Indian community-authorities struggled to link fraud and murder to a powerful man.</desc>
         <icon src="https://images.pluto.tv/series/5b1904f2c65a06426375ffca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5cb6f6f9a461406ffe4022cf" start="20260615202745 +0000" stop="20260616000000 +0000">
+    <programme channel="5cb6f6f9a461406ffe4022cf" start="20260615202745 +0000" stop="20260615212945 +0000">
+        <title>The FBI Files: Blood Brothers</title>
+        <desc>When the small community of Noel, Missouri discovered their bank was robbed, they're shocked.  When the bank president turned up missing, they're outraged.  And when clues began to surface the facts were more terrible than anyone could have guessed.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904f2c65a06426375ffca/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5cb6f6f9a461406ffe4022cf" start="20260615212945 +0000" stop="20260616000000 +0000">
         <title>FBI Files</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5cb6f6f9a461406ffe4022cf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40603,7 +40927,12 @@ outside our own solar system.</desc>
         <desc>Kelly is whisked away in a fairytale romance by her millionaire boyfriend Michael. But too soon, tragedy strikes and detectives must unravel a tale of cruel deceit.</desc>
         <icon src="https://images.pluto.tv/series/69302373232b4e31aa0b1980/tile_1764762483947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5d767790d0438aceb41d03ae" start="20260615204718 +0000" stop="20260616000000 +0000">
+    <programme channel="5d767790d0438aceb41d03ae" start="20260615204718 +0000" stop="20260615213807 +0000">
+        <title>Happily Never After</title>
+        <desc>Teresa and Rob, about to be married, are gunned down in the street. While Teresa does not survive the attack, Rob manages to escape with a severely injured leg.</desc>
+        <icon src="https://images.pluto.tv/series/69302373232b4e31aa0b1980/tile_1764762483947.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5d767790d0438aceb41d03ae" start="20260615213807 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5d767790d0438aceb41d03ae/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40613,7 +40942,12 @@ outside our own solar system.</desc>
         <desc>Forensic scientists find clues written in blood as they investigate the deaths of three women killed by the men who once loved them.</desc>
         <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5e393d5c696b3b0009775c8b" start="20260615201700 +0000" stop="20260616000000 +0000">
+    <programme channel="5e393d5c696b3b0009775c8b" start="20260615201700 +0000" stop="20260615211600 +0000">
+        <title>The New Detectives: Proof Of Innocence</title>
+        <desc>DNA analysis overturns the convictions of three men who have spent years behind bars, paying for crimes they did not commit.</desc>
+        <icon src="https://images.pluto.tv/series/5b190526c65a064263762545/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5e393d5c696b3b0009775c8b" start="20260615211600 +0000" stop="20260616000000 +0000">
         <title>The New Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5e393d5c696b3b0009775c8b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40623,7 +40957,12 @@ outside our own solar system.</desc>
         <desc>Sgt. Joe Kenda and his officers are facing off against a barricaded gunman when he gets an emergency call from his wife.</desc>
         <icon src="https://images.pluto.tv/series/60f54e530bb6750013246ffd/tile_1773912241061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60e452730e76f20007598de8" start="20260615202400 +0000" stop="20260616000000 +0000">
+    <programme channel="60e452730e76f20007598de8" start="20260615202400 +0000" stop="20260615211800 +0000">
+        <title>Homicide Hunter: Poker Face</title>
+        <desc>A group of friends discover the corpse of  entrepreneur Jamie Foster hidden under a blanket. Kenda e discovers that Foster’s business put him in close quarters with a host of unsavory characters.</desc>
+        <icon src="https://images.pluto.tv/series/60f54e530bb6750013246ffd/tile_1773912241061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60e452730e76f20007598de8" start="20260615211800 +0000" stop="20260616000000 +0000">
         <title>Homicide Hunter</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60e452730e76f20007598de8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40633,7 +40972,22 @@ outside our own solar system.</desc>
         <desc>When Bobs old friend Clive, (who is a real drunken slob), is dumped by his wife, Bob lets him stay for a few days despite Margaret's objections?</desc>
         <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612f761008a9e50007984ba0" start="20260615200838 +0000" stop="20260616000000 +0000">
+    <programme channel="612f761008a9e50007984ba0" start="20260615200838 +0000" stop="20260615203338 +0000">
+        <title>Bob and Margaret: A New Life</title>
+        <desc>At a creepy chiropodist social night, Bob and Margaret encounter a couple who are rapturous about the new planned community where they now live.</desc>
+        <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612f761008a9e50007984ba0" start="20260615203338 +0000" stop="20260615205838 +0000">
+        <title>Bob and Margaret: Animal Behaviour</title>
+        <desc>Bob and Margaret arrive home from another boring evening out with dreary friends, to find that their dogs behaviour has taken a turn for the worse?</desc>
+        <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612f761008a9e50007984ba0" start="20260615205838 +0000" stop="20260615212338 +0000">
+        <title>Bob and Margaret: Party Politics</title>
+        <desc>Margaret runs into a distant friend who asks her to have an Ann Summers-type party in her home.</desc>
+        <icon src="https://images.pluto.tv/series/5b19051ec65a064263761fb0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612f761008a9e50007984ba0" start="20260615212338 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Animation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612f761008a9e50007984ba0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40643,7 +40997,12 @@ outside our own solar system.</desc>
         <desc>After coming to the aid of a stranded roommate, Stephanie Brown's car is found abandoned on the interstate and her body is later discovered floating in an irrigation ditch, the victim of sexual assault and murder.</desc>
         <icon src="https://images.pluto.tv/series/617ab4eb829284001a95c1ad/tile_1773914400820.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="615af74dfe3d8e0007524511" start="20260615202700 +0000" stop="20260616000000 +0000">
+    <programme channel="615af74dfe3d8e0007524511" start="20260615202700 +0000" stop="20260615211800 +0000">
+        <title>On the Case: One of Us</title>
+        <desc>A young records clerk at the Seattle police department is murdered on her way to work her overnight shift. Can police find the evidence to catch the killer of one of their own?</desc>
+        <icon src="https://images.pluto.tv/series/64f5aed888887a0013db5304/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="615af74dfe3d8e0007524511" start="20260615211800 +0000" stop="20260616000000 +0000">
         <title>On The Case</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/615af74dfe3d8e0007524511/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40653,7 +41012,12 @@ outside our own solar system.</desc>
         <desc>In the late 1970s, a young nurse by the name of Debra Clarke is found shot to death at her home in Coral Gables, Florida. The case finds only dead ends, though it’s discovered she was involved in a torrid affair with a married doctor.</desc>
         <icon src="https://images.pluto.tv/series/694435e0b329898798c85f8a/tile_1766077941272.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61c49f1495f417000731cef0" start="20260615204615 +0000" stop="20260616000000 +0000">
+    <programme channel="61c49f1495f417000731cef0" start="20260615204615 +0000" stop="20260615213413 +0000">
+        <title>Imperfect Murder</title>
+        <desc>When Patricia Steller and her nephew Ronald King are found shot, stabbed and murdered in their quaint home in Middleton, Connecticut, police struggle to piece together the remnants of the crime scene to catch the brutal killer.</desc>
+        <icon src="https://images.pluto.tv/series/694435e0b329898798c85f8a/tile_1766077941272.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61c49f1495f417000731cef0" start="20260615213413 +0000" stop="20260616000000 +0000">
         <title>Inside Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61c49f1495f417000731cef0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40663,7 +41027,12 @@ outside our own solar system.</desc>
         <desc>In September 2006, Kathy Wangler, wife of anesthesiologist Dr. Mark Wangler, died from carbon monoxide poisoning in their home. Their 30-year marriage had been falling apart; In 2009, investigators concluded that Dr. Wangler had murdered his wife.</desc>
         <icon src="https://images.pluto.tv/series/62ab442c1f287c00133b4ac4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6299e5afdd5833000727e795" start="20260615202612 +0000" stop="20260616000000 +0000">
+    <programme channel="6299e5afdd5833000727e795" start="20260615202612 +0000" stop="20260615211612 +0000">
+        <title>48 Hours: The Killing Fields</title>
+        <desc>A report about a desolate strip of land between Houston and Galveston where over 30 young women and girls have disappeared or have been murdered.</desc>
+        <icon src="https://images.pluto.tv/series/62ab442c1f287c00133b4ac4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6299e5afdd5833000727e795" start="20260615211612 +0000" stop="20260616000000 +0000">
         <title>48 Hours</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6299e5afdd5833000727e795/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40673,7 +41042,17 @@ outside our own solar system.</desc>
         <desc>A man rushes his friend to the hospital with serious gunshot wounds, reporting they were robbed by strangers. When the facts don’t add up, Lt. Joe Kenda and his team go on the hunt.</desc>
         <icon src="https://images.pluto.tv/series/60f54e530bb6750013246ffd/tile_1773912241061.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e9184439d80c00076e166d" start="20260615200741 +0000" stop="20260616000000 +0000">
+    <programme channel="62e9184439d80c00076e166d" start="20260615200741 +0000" stop="20260615205741 +0000">
+        <title>Very Scary People: Son of Sam: The Duke of Death (Part 1)</title>
+        <desc>From 1976 to 1977, David Berkowitz terrorized New York City under his creepy self-given moniker: “Son of Sam.” He committed eight shootings, wounding seven people and killing six.</desc>
+        <icon src="https://images.pluto.tv/series/62e2553f9f6f470014988a69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9184439d80c00076e166d" start="20260615205741 +0000" stop="20260615214741 +0000">
+        <title>Very Scary People: Son of Sam: I Am A Monster (Part 2)</title>
+        <desc>From 1976 to 1977, David Berkowitz terrorized New York City under his creepy self-given moniker: “Son of Sam.” He committed eight shootings, wounding seven people and killing six.</desc>
+        <icon src="https://images.pluto.tv/series/62e2553f9f6f470014988a69/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62e9184439d80c00076e166d" start="20260615214741 +0000" stop="20260616000000 +0000">
         <title>Aftershock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62e9184439d80c00076e166d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40683,7 +41062,17 @@ outside our own solar system.</desc>
         <desc>After a heated argument, Oscar and Felix decide it might be best to change their living arrangement and find new roommates.</desc>
         <icon src="https://images.pluto.tv/series/642191da6113a5001a66a4b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f53dc6ee9a0400071dc22b" start="20260615201143 +0000" stop="20260616000000 +0000">
+    <programme channel="62f53dc6ee9a0400071dc22b" start="20260615201143 +0000" stop="20260615203643 +0000">
+        <title>The Odd Couple: Pilot</title>
+        <desc>Oscar Madison reluctantly agrees to let Felix Unger, his uptight former college roommate, move in with him after both of their marriages fail.</desc>
+        <icon src="https://images.pluto.tv/series/642191da6113a5001a66a4b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f53dc6ee9a0400071dc22b" start="20260615203643 +0000" stop="20260615210243 +0000">
+        <title>The Odd Couple: The Ghostwriter</title>
+        <desc>When Oscar is hired to ghostwrite the autobiography of a retired baseball player, Felix offers his "help" by advising Murph to go in a different direction, making Oscar's job more difficult. Geoff Stults guest stars.</desc>
+        <icon src="https://images.pluto.tv/series/642191da6113a5001a66a4b4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f53dc6ee9a0400071dc22b" start="20260615210243 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f53dc6ee9a0400071dc22b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40693,7 +41082,12 @@ outside our own solar system.</desc>
         <desc>When police found a man on fire, they assumed he did that to himself. His family campaigned for justice for two years and New Scotland Yard re-investigated the case.</desc>
         <icon src="https://images.pluto.tv/series/6568726509a893001378283a/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304fb268bd95300072d2198" start="20260615204500 +0000" stop="20260616000000 +0000">
+    <programme channel="6304fb268bd95300072d2198" start="20260615204500 +0000" stop="20260615214000 +0000">
+        <title>Murder by the Sea</title>
+        <desc>Emily Kaye was not aware of the past dealings of the handsome Patrick Mahon when she fell head over heels in love with him. Mahon rented a bungalow under an assumed name, murdered her there and dismembered her body.</desc>
+        <icon src="https://images.pluto.tv/series/6619f5b1d1a9170013d8532d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304fb268bd95300072d2198" start="20260615214000 +0000" stop="20260616000000 +0000">
         <title>True Crime UK</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304fb268bd95300072d2198/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40703,7 +41097,12 @@ outside our own solar system.</desc>
         <desc>Luka Magnotta confesses to murder online, inspired by Basic Instinct, sparking a manhunt.</desc>
         <icon src="https://images.pluto.tv/series/698db856ce312dca6a57320b/tile_1770895447101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63808dc806aa4700075f319a" start="20260615203550 +0000" stop="20260616000000 +0000">
+    <programme channel="63808dc806aa4700075f319a" start="20260615203550 +0000" stop="20260615212817 +0000">
+        <title>NEW SERIES Copycat Killers</title>
+        <desc>Jeffrey Dahmer, inspired by The Exorcist III, becomes the infamous Milwaukee Cannibal.</desc>
+        <icon src="https://images.pluto.tv/series/698db856ce312dca6a57320b/tile_1770895447101.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63808dc806aa4700075f319a" start="20260615212817 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Investigation</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63808dc806aa4700075f319a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40713,7 +41112,12 @@ outside our own solar system.</desc>
         <desc>In 2002, the biggest case of pedophilia in France breaks out in Angers.</desc>
         <icon src="https://images.pluto.tv/series/64e335a0a5aa6e0013e89262/tile_1767215881777.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="639b558c73423d00071ce624" start="20260615203818 +0000" stop="20260616000000 +0000">
+    <programme channel="639b558c73423d00071ce624" start="20260615203818 +0000" stop="20260615212853 +0000">
+        <title>NEW SERIES Vanity Fair Confidential</title>
+        <desc>Behind closed doors, untold numbers of young women across the country are being held captive.</desc>
+        <icon src="https://images.pluto.tv/series/69b2d4ff615bba1ee0509ea5/tile_1773327616017.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="639b558c73423d00071ce624" start="20260615212853 +0000" stop="20260616000000 +0000">
         <title>More TV Crime</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/639b558c73423d00071ce624/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40723,7 +41127,12 @@ outside our own solar system.</desc>
         <desc>In March 2003, a lorry driver was found dead behind the wheel in Camberley, England. Police gambled on the revolutionary technique of familial DNA analysis.</desc>
         <icon src="https://images.pluto.tv/series/65cb28f770ac440013e10ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63d91cc58795f30008678e9d" start="20260615202300 +0000" stop="20260616000000 +0000">
+    <programme channel="63d91cc58795f30008678e9d" start="20260615202300 +0000" stop="20260615211600 +0000">
+        <title>Bloodline Detectives</title>
+        <desc>In 1976, a woman was left for dead in her home in southern California. Despite a major manhunt, the violent killer avoided detection for over four decades.</desc>
+        <icon src="https://images.pluto.tv/series/65cb28f770ac440013e10ac9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63d91cc58795f30008678e9d" start="20260615211600 +0000" stop="20260616000000 +0000">
         <title>Bloodline Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63d91cc58795f30008678e9d/featuredImage_1762179945659.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40733,7 +41142,17 @@ outside our own solar system.</desc>
         <desc>A neighbourly conflict of interests arises when Terry, whose new hobby involves the use of a circular saw, discovers Tarquin is the chairman of the local noise abatement society.</desc>
         <icon src="https://images.pluto.tv/series/68f8bad86fe1b6a13d910b18/tile_1761131226806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c0d6f34096290008132d6b" start="20260615201500 +0000" stop="20260616000000 +0000">
+    <programme channel="64c0d6f34096290008132d6b" start="20260615201500 +0000" stop="20260615204900 +0000">
+        <title>Terry and June</title>
+        <desc>Terry throws himself enthusiastically into using `Citizens' Band' radio, but June is far from thrilled.</desc>
+        <icon src="https://images.pluto.tv/series/68f8bad86fe1b6a13d910b18/tile_1761131226806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c0d6f34096290008132d6b" start="20260615204900 +0000" stop="20260615212300 +0000">
+        <title>Terry and June</title>
+        <desc>Anxious to make Tarquin and Melinda envious when they come to dinner, Terry decides to buy a goldfish pond for his back garden.</desc>
+        <icon src="https://images.pluto.tv/series/68f8bad86fe1b6a13d910b18/tile_1761131226806.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c0d6f34096290008132d6b" start="20260615212300 +0000" stop="20260616000000 +0000">
         <title>U&amp;Laughs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c0d6f34096290008132d6b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40743,7 +41162,12 @@ outside our own solar system.</desc>
         <desc>The death of an innocent mother and how detectives identified her killer and proved his guilt.</desc>
         <icon src="https://images.pluto.tv/series/6568727809a893001378436e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c37e47dac71b000809abab" start="20260615204600 +0000" stop="20260616000000 +0000">
+    <programme channel="64c37e47dac71b000809abab" start="20260615204600 +0000" stop="20260615214100 +0000">
+        <title>Evidence of Evil</title>
+        <desc>An innocent victim was lured to his death and cutting edge forensics helped to find the killer.</desc>
+        <icon src="https://images.pluto.tv/series/6568727809a893001378436e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c37e47dac71b000809abab" start="20260615214100 +0000" stop="20260616000000 +0000">
         <title>Evidence of Evil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c37e47dac71b000809abab/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40753,7 +41177,22 @@ outside our own solar system.</desc>
         <desc>CHANNEL STARTS AT 9PM Follow everyone's favorite troublemakers—Stan, Kyle, Cartman, and Kenny--from the very beginning of their unforgettable adventures.</desc>
         <icon src="https://images.pluto.tv/series/6513dc553a0d700008de4ba7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64edf6eaa7ec0d000812f58c" start="20260615200043 +0000" stop="20260616000000 +0000">
+    <programme channel="64edf6eaa7ec0d000812f58c" start="20260615200043 +0000" stop="20260615202643 +0000">
+        <title>South Park: Le Petite Tourette</title>
+        <desc>Le Petite Tourette: Cartman experiences bliss when he discovers that, by pretending to have Tourettes, he can say whatever he likes to whoever he likes! Naturally, national TV beckons. (S11, E08)</desc>
+        <icon src="https://images.pluto.tv/series/65006aa83d4f920013b716cd/tile_1767216602419.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64edf6eaa7ec0d000812f58c" start="20260615202643 +0000" stop="20260615205243 +0000">
+        <title>South Park: More Cr*p</title>
+        <desc>More Cr*p: Inadvertently, Randy breaks the world record for the 'biggest cr*p'! Bono, the previous holder, is determined to regain his crown - but he has a dark secret which may stop him. (S11, E09)</desc>
+        <icon src="https://images.pluto.tv/series/65006aa83d4f920013b716cd/tile_1767216602419.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64edf6eaa7ec0d000812f58c" start="20260615205243 +0000" stop="20260615211843 +0000">
+        <title>South Park: Imaginationland: Episode I</title>
+        <desc>Imaginationland - Episode I: The boys find themselves in a magical land where all of the world's imagination is laid out before them. (S11, E10)</desc>
+        <icon src="https://images.pluto.tv/series/65006aa83d4f920013b716cd/tile_1767216602419.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64edf6eaa7ec0d000812f58c" start="20260615211843 +0000" stop="20260616000000 +0000">
         <title>South Park</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64edf6eaa7ec0d000812f58c/featuredImage_1755153606437.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40763,7 +41202,17 @@ outside our own solar system.</desc>
         <desc>Sanjeev's guests are Tom Jones and Jools Holland, who also perform It'll Be Me.</desc>
         <icon src="https://images.pluto.tv/series/69d75b18a68b1a2a81d4579d/tile_1775721252704.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a6a5e90c7ff50008cb9815" start="20260615202012 +0000" stop="20260616000000 +0000">
+    <programme channel="65a6a5e90c7ff50008cb9815" start="20260615202012 +0000" stop="20260615204531 +0000">
+        <title>Another Period: Another Period</title>
+        <desc>The Bellacourt sisters turn to Harriet Tubman for help revitalizing their fading profiles, and the Commodore struggles with his disastrous finances.</desc>
+        <icon src="https://images.pluto.tv/series/5cc2811ab5c528cbab36d599/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a6a5e90c7ff50008cb9815" start="20260615204531 +0000" stop="20260615211050 +0000">
+        <title>Another Period: Another Period</title>
+        <desc>Lillian and Victor fight for control of the Butternut Room, Beatrice helps Albert recover from the trauma of his hatchet attack, and Peepers hires a new hall boy.</desc>
+        <icon src="https://images.pluto.tv/series/5cc2811ab5c528cbab36d599/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a6a5e90c7ff50008cb9815" start="20260615211050 +0000" stop="20260616000000 +0000">
         <title>Funny AF</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a6a5e90c7ff50008cb9815/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40773,7 +41222,12 @@ outside our own solar system.</desc>
         <desc>Richard Huckle is one of the world's worst child sexual predators, guilty of almost 100 counts of abuse.</desc>
         <icon src="https://images.pluto.tv/series/6965380506d76f50db418eb0/tile_1781464347971.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65a7b04e7bdc8d0008488307" start="20260615202956 +0000" stop="20260616000000 +0000">
+    <programme channel="65a7b04e7bdc8d0008488307" start="20260615202956 +0000" stop="20260615212313 +0000">
+        <title>Undercover Asia: Black Markets and Slave Trades</title>
+        <desc>Forty thousand Japanese die alone in their homes every year. What's behind all of these tragedies?</desc>
+        <icon src="https://images.pluto.tv/series/6965380506d76f50db418eb0/tile_1781464347971.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65a7b04e7bdc8d0008488307" start="20260615212313 +0000" stop="20260616000000 +0000">
         <title>True Crime Now</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65a7b04e7bdc8d0008488307/featuredImage_1765273804745.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40783,7 +41237,17 @@ outside our own solar system.</desc>
         <desc>Sabrina goes a little overboard in her attempt to seem more mature for the attentions of a college boy.</desc>
         <icon src="https://images.pluto.tv/series/663c83e82833ae0013b37aa0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66276091cee0d900085fe053" start="20260615201346 +0000" stop="20260616000000 +0000">
+    <programme channel="66276091cee0d900085fe053" start="20260615201346 +0000" stop="20260615203907 +0000">
+        <title>Sabrina: The Teenage Witch: Love Means Having To Say You’re Sorry</title>
+        <desc>Paying the price for kissing Josh, Sabrina must adjust to life after Harvey.</desc>
+        <icon src="https://images.pluto.tv/series/663c83e82833ae0013b37aa0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66276091cee0d900085fe053" start="20260615203907 +0000" stop="20260615210426 +0000">
+        <title>Sabrina: The Teenage Witch: Ice Station Sabrina</title>
+        <desc>A life-threatening situation forces Sabrina to risk exposing her magic to a witch hunter.</desc>
+        <icon src="https://images.pluto.tv/series/663c83e82833ae0013b37aa0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66276091cee0d900085fe053" start="20260615210426 +0000" stop="20260616000000 +0000">
         <title>Sabrina The Teenage Witch</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66276091cee0d900085fe053/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40793,7 +41257,17 @@ outside our own solar system.</desc>
         <desc>Hank needs help with work at his cousin's farm. Brent ensures he doesn't owe Hank any favors.</desc>
         <icon src="https://images.pluto.tv/series/66cd726b8e769100136369dc/tile_1776890176034.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="667d664815f35c00089489bf" start="20260615202222 +0000" stop="20260616000000 +0000">
+    <programme channel="667d664815f35c00089489bf" start="20260615202222 +0000" stop="20260615204845 +0000">
+        <title>Corner Gas</title>
+        <desc>Brent buys a big screen TV and becomes an object of pity. Lacey buys jewelry from Wanda.</desc>
+        <icon src="https://images.pluto.tv/series/66cd726b8e769100136369dc/tile_1776890176034.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="667d664815f35c00089489bf" start="20260615204845 +0000" stop="20260615211508 +0000">
+        <title>Corner Gas</title>
+        <desc>The town is in an uproar over getting a traffic light installed. Lacey makes the Ruby Club sandwich.</desc>
+        <icon src="https://images.pluto.tv/series/66cd726b8e769100136369dc/tile_1776890176034.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="667d664815f35c00089489bf" start="20260615211508 +0000" stop="20260616000000 +0000">
         <title>Corner Gas</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/667d664815f35c00089489bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40803,7 +41277,17 @@ outside our own solar system.</desc>
         <desc>Ray is frustrated that his political campaign is not allowing him the time to get to the heart of the issues with his constituents. His campaign manager has been driving Ray hard, and the results are starting to make an impact.</desc>
         <icon src="https://images.pluto.tv/series/64218874559c07001a5216d6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6695294632e25300084bb61b" start="20260615202500 +0000" stop="20260616000000 +0000">
+    <programme channel="6695294632e25300084bb61b" start="20260615202500 +0000" stop="20260615205100 +0000">
+        <title>Sister, Sister: Twins Or Consequences</title>
+        <desc>Tia gets cold feet after agreeing to take an exam for her twin sister.</desc>
+        <icon src="https://images.pluto.tv/series/64218874559c07001a5216d6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6695294632e25300084bb61b" start="20260615205100 +0000" stop="20260615211700 +0000">
+        <title>Sister, Sister: Mixed Doubles</title>
+        <desc>It's a game of musical dates as the girls' family and friends switch partners for a night on the town.</desc>
+        <icon src="https://images.pluto.tv/series/64218874559c07001a5216d6/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6695294632e25300084bb61b" start="20260615211700 +0000" stop="20260616000000 +0000">
         <title>Sister, Sister</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6695294632e25300084bb61b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40813,7 +41297,17 @@ outside our own solar system.</desc>
         <desc>Gripping documentary examining the fatal stabbing of 21-year-old motorist Stephen Cameron during a motorway altercation in 1996.</desc>
         <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1773915841087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ba1e23d2d50d00084a1e57" start="20260615200100 +0000" stop="20260616000000 +0000">
+    <programme channel="66ba1e23d2d50d00084a1e57" start="20260615200100 +0000" stop="20260615205300 +0000">
+        <title>Crimes That Shook Britain: John Sweeney</title>
+        <desc>John Sweeney brutally murdered two of his girlfriends, dismembered their bodies and dumped them in canals. In a macabre twist, he hid clues in his abstract paintings, and five other girlfriends of his are currently still missing.</desc>
+        <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1773915841087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ba1e23d2d50d00084a1e57" start="20260615205300 +0000" stop="20260615214900 +0000">
+        <title>Crimes That Shook Britain: The Russell Murders</title>
+        <desc>Bludgeoned to death whilst walking down a country lane, the horrific murders of Lin and Megan Russell made worldwide news. Discover the events of that shocking day.</desc>
+        <icon src="https://images.pluto.tv/series/61efb6ce04ff25001a4f0841/tile_1773915841087.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ba1e23d2d50d00084a1e57" start="20260615214900 +0000" stop="20260616000000 +0000">
         <title>Crimes That Shook Britain</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66ba1e23d2d50d00084a1e57/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40823,7 +41317,17 @@ outside our own solar system.</desc>
         <desc>NFL families cope with big-league pressures.</desc>
         <icon src="https://images.pluto.tv/series/64218de1559c07001a5298c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66ba1e4446762a000855cd87" start="20260615201700 +0000" stop="20260616000000 +0000">
+    <programme channel="66ba1e4446762a000855cd87" start="20260615201700 +0000" stop="20260615204100 +0000">
+        <title>Girlfriends: It's Raining Men</title>
+        <desc>Joan dates three men simultaneously.</desc>
+        <icon src="https://images.pluto.tv/series/64218de1559c07001a5298c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ba1e4446762a000855cd87" start="20260615204100 +0000" stop="20260615210500 +0000">
+        <title>Girlfriends: I Don't Want To Be A Player No More</title>
+        <desc>Joan falls for an NBA player.</desc>
+        <icon src="https://images.pluto.tv/series/64218de1559c07001a5298c7/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66ba1e4446762a000855cd87" start="20260615210500 +0000" stop="20260616000000 +0000">
         <title>Girlfriends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66ba1e4446762a000855cd87/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40833,7 +41337,12 @@ outside our own solar system.</desc>
         <desc>Xena forces a renowned thief to assist her in an elaborate scheme to recover a powerful weapon from a warlord.</desc>
         <icon src="https://images.pluto.tv/series/680bab1230b839eca558f98b/tile_1745595162954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="677fb0b33a225c2d0d8a17be" start="20260615203100 +0000" stop="20260616000000 +0000">
+    <programme channel="677fb0b33a225c2d0d8a17be" start="20260615203100 +0000" stop="20260615212100 +0000">
+        <title>Xena: Warrior Princess</title>
+        <desc>Gabrielle takes on the role of leader when she returns home and finds her village ill-prepared to defend itself from a band of marauders.</desc>
+        <icon src="https://images.pluto.tv/series/680bab1230b839eca558f98b/tile_1745595162954.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="677fb0b33a225c2d0d8a17be" start="20260615212100 +0000" stop="20260616000000 +0000">
         <title>Xena: Warrior Princess</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/677fb0b33a225c2d0d8a17be/featuredImage_1761690274400.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40843,7 +41352,17 @@ outside our own solar system.</desc>
         <desc>It’s a hilarious shock to the cabbies when Rev. Jim brings his new pet to the garage—an over-the-hill racehorse that he bought after cashing in on the 300-to-1 long shot. However, he soon finds that it’s impossible to housebreak a horse.</desc>
         <icon src="https://images.pluto.tv/series/685e7489cfeec4dc2c6d1926/tile_1751020682857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6850408053d981d1fdb01696" start="20260615202517 +0000" stop="20260616000000 +0000">
+    <programme channel="6850408053d981d1fdb01696" start="20260615202517 +0000" stop="20260615205358 +0000">
+        <title>Taxi</title>
+        <desc>Bobby faces a humorous predicament when it becomes obvious that one of the biggest talent managers in New York is representing him because of his prowess as a lover, and not for his ability as an actor.</desc>
+        <icon src="https://images.pluto.tv/series/685e7489cfeec4dc2c6d1926/tile_1751020682857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6850408053d981d1fdb01696" start="20260615205358 +0000" stop="20260615212239 +0000">
+        <title>Taxi</title>
+        <desc>In a protest against unsafe equipment, the cabbies go on strike, and Louie offers an unusual solution to the problem to shop steward Elaine.</desc>
+        <icon src="https://images.pluto.tv/series/685e7489cfeec4dc2c6d1926/tile_1751020682857.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6850408053d981d1fdb01696" start="20260615212239 +0000" stop="20260616000000 +0000">
         <title>Taxi</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6850408053d981d1fdb01696/featuredImage_1750164586158.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40853,7 +41372,12 @@ outside our own solar system.</desc>
         <desc>Hercules (Kevin Sorbo) attempts an exorcism to save Iolaus' (Michael Hurst) soul from the demon Dahak. With Gina Torres and Tamara Gorski.</desc>
         <icon src="https://images.pluto.tv/series/6904845071d0752d87663021/tile_1761911551380.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38aaf8082ad3760def7bc" start="20260615204800 +0000" stop="20260616000000 +0000">
+    <programme channel="68e38aaf8082ad3760def7bc" start="20260615204800 +0000" stop="20260615213800 +0000">
+        <title>Hercules: The Legendary Journeys</title>
+        <desc>Hercules, with the help of the Amazon Ephiny, the Centaur Nagus and a youth marked for murder, must stop a volcano from destroying the people of Mount Pelion.</desc>
+        <icon src="https://images.pluto.tv/series/6904845071d0752d87663021/tile_1761911551380.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e38aaf8082ad3760def7bc" start="20260615213800 +0000" stop="20260616000000 +0000">
         <title>Hercules: The Legendary Journeys</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e38aaf8082ad3760def7bc/featuredImage_1770826301055.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40863,7 +41387,12 @@ outside our own solar system.</desc>
         <desc>A woman rescues amnesiac Steve after a plane crash in the mountains, then asks him to save her from hostile neighbors.</desc>
         <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b005c876cf730fcbf0f" start="20260615200300 +0000" stop="20260616000000 +0000">
+    <programme channel="68e38b005c876cf730fcbf0f" start="20260615200300 +0000" stop="20260615210100 +0000">
+        <title>The Six Million Dollar Man</title>
+        <desc>A story by a TV reporter (Farrah Fawcett-Majors) makes Steve the target of international kidnappers; guest Hari Rhodes.</desc>
+        <icon src="https://images.pluto.tv/series/6904847b71d0752d876711a3/tile_1761908874222.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e38b005c876cf730fcbf0f" start="20260615210100 +0000" stop="20260616000000 +0000">
         <title>Six Million Dollar Man</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e38b005c876cf730fcbf0f/featuredImage_1761687343834.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -40873,7 +41402,12 @@ outside our own solar system.</desc>
         <desc>Banner contracts for a cross-country trip in a car loaded with mob loot.</desc>
         <icon src="https://images.pluto.tv/series/6904843871d0752d8765eda6/tile_1761903683021.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68e38b6e20115bbaf9c91083" start="20260615201900 +0000" stop="20260616000000 +0000">
+    <programme channel="68e38b6e20115bbaf9c91083" start="20260615201900 +0000" stop="20260615211400 +0000">
+        <title>Incredible Hulk</title>
+        <desc>A muscleman (Lou Ferrigno) dreams of winning enough money to open a beach café.</desc>
+        <icon src="https://images.pluto.tv/series/6904843871d0752d8765eda6/tile_1761903683021.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68e38b6e20115bbaf9c91083" start="20260615211400 +0000" stop="20260616000000 +0000">
         <title>The Incredible Hulk</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68e38b6e20115bbaf9c91083/featuredImage_1761664190730.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42469,7 +43003,17 @@ outside our own solar system.</desc>
         <desc>All of Master Mayhem’s monsters have gone on strike! They won’t conquer any more planets until he pays them more Space Bucks. Now MM’s got to convince the ancient rock goddess Eye Eye Eye to step in and step on all of us instead.</desc>
         <icon src="https://images.pluto.tv/series/68f66a3e6fe1b6a13d93e073/tile_1760979521371.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ad8d54be738977e2c310940" start="20260615201703 +0000" stop="20260616000000 +0000">
+    <programme channel="5ad8d54be738977e2c310940" start="20260615201703 +0000" stop="20260615204213 +0000">
+        <title>Magi-Nation</title>
+        <desc>A comical dilemma involving Tony accidentally gathering together a herd of unwieldy creatures is solved by Edyn casting a spell. Tony and Strag wonder if they've been relying on Edyn's spells too much to solve their problems, but Edyn isn’t worried.</desc>
+        <icon src="https://images.pluto.tv/series/68f640f56fe1b6a13d89ada7/tile_1760968952470.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ad8d54be738977e2c310940" start="20260615204213 +0000" stop="20260615210813 +0000">
+        <title>Camp Lakebottom: Late Afternoon of the Living Gitch / Mindsuckers from the Depths</title>
+        <desc>When Squirt's stinky underwear is washed in toxic cleanser, the gitch comes alive.</desc>
+        <icon src="https://images.pluto.tv/series/630de6bf55ecdb0013cc80ed/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ad8d54be738977e2c310940" start="20260615210813 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ad8d54be738977e2c310940/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42479,7 +43023,17 @@ outside our own solar system.</desc>
         <desc>Baby Bop, BJ and the children prepare for the Shapes Carnival in the park./When it starts to rain at the park, Baby Bop joins Barney and BJ inside the caboose.</desc>
         <icon src="https://images.pluto.tv/series/630de65404308c00135c4669/tile_1767126604259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62ac405b3874370007419b7f" start="20260615202300 +0000" stop="20260616000000 +0000">
+    <programme channel="62ac405b3874370007419b7f" start="20260615202300 +0000" stop="20260615205500 +0000">
+        <title>Barney and Friends: Barney and Friends</title>
+        <desc>Baby Bop is disappointed when their trip to the zoo is postponed. Barney tells Baby Bop a tale about keeping your promise.</desc>
+        <icon src="https://images.pluto.tv/series/630de65404308c00135c4669/tile_1767126604259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac405b3874370007419b7f" start="20260615205500 +0000" stop="20260615212800 +0000">
+        <title>Barney and Friends: Let's Make Music</title>
+        <desc>Barney, Baby Bop and BJ have fun learning about music, rhythm and musical instruments.  Barney introduces many different instruments and BJ dreams of one day becoming a rock 'n roll star.  They discover that music gives everyone a happy feelin.</desc>
+        <icon src="https://images.pluto.tv/series/630de65404308c00135c4669/tile_1767126604259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62ac405b3874370007419b7f" start="20260615212800 +0000" stop="20260616000000 +0000">
         <title>Barney &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62ac405b3874370007419b7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42489,7 +43043,17 @@ outside our own solar system.</desc>
         <desc>The home of 80s classic Pop, New Wave, Glam Metal, and the explosive rise of Pop superstars. Includes classics from Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins and many more.</desc>
         <icon src="https://images.pluto.tv/series/65324e282cf13100083961c7/tile_1771233533927.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6490254fd2c47c00083a5743" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="6490254fd2c47c00083a5743" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>That's 80s</title>
+        <desc>The home of 80s classic Pop, New Wave, Glam Metal, and the explosive rise of Pop superstars. Includes classics from Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins and many more.</desc>
+        <icon src="https://images.pluto.tv/series/65324e282cf13100083961c7/tile_1771233533927.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6490254fd2c47c00083a5743" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>That's 80s</title>
+        <desc>The home of 80s classic Pop, New Wave, Glam Metal, and the explosive rise of Pop superstars. Includes classics from Michael Jackson, Madonna, Prince, Whitney Houston, George Michael, Tina Turner, Phil Collins and many more.</desc>
+        <icon src="https://images.pluto.tv/series/65324e282cf13100083961c7/tile_1771233533927.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6490254fd2c47c00083a5743" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>That's 80s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6490254fd2c47c00083a5743/featuredImage_1771233599160.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42499,7 +43063,17 @@ outside our own solar system.</desc>
         <desc>Your 70s party channel, bringing you everything from dazzling beats from disco to the electrifying edge of punk rock! Includes classics from Elton John, Stevie Wonder, David Bowie, The Bee Gees, The Eagles and Queen and many more.</desc>
         <icon src="https://images.pluto.tv/series/66474c58b18d700008f714ec/tile_1771232833210.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c37e710e086a0009e824ab" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="64c37e710e086a0009e824ab" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>That's 70s</title>
+        <desc>Your 70s party channel, bringing you everything from dazzling beats from disco to the electrifying edge of punk rock! Includes classics from Elton John, Stevie Wonder, David Bowie, The Bee Gees, The Eagles and Queen and many more.</desc>
+        <icon src="https://images.pluto.tv/series/66474c58b18d700008f714ec/tile_1771232833210.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c37e710e086a0009e824ab" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>That's 70s</title>
+        <desc>Your 70s party channel, bringing you everything from dazzling beats from disco to the electrifying edge of punk rock! Includes classics from Elton John, Stevie Wonder, David Bowie, The Bee Gees, The Eagles and Queen and many more.</desc>
+        <icon src="https://images.pluto.tv/series/66474c58b18d700008f714ec/tile_1771232833210.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c37e710e086a0009e824ab" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>That's 70s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c37e710e086a0009e824ab/featuredImage_1771232729979.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42509,7 +43083,17 @@ outside our own solar system.</desc>
         <desc>The definitive destination for rock enthusiasts spanning 6 decades - from Blues &amp; Grunge to Soft Rock &amp; Heavy Metal. Includes classics from Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana and many more.</desc>
         <icon src="https://images.pluto.tv/series/657c192d12d5ee00088e1f0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6568a78d635c3c0008765f41" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="6568a78d635c3c0008765f41" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>That's Rock</title>
+        <desc>The definitive destination for rock enthusiasts spanning 6 decades - from Blues &amp; Grunge to Soft Rock &amp; Heavy Metal. Includes classics from Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana and many more.</desc>
+        <icon src="https://images.pluto.tv/series/657c192d12d5ee00088e1f0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6568a78d635c3c0008765f41" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>That's Rock</title>
+        <desc>The definitive destination for rock enthusiasts spanning 6 decades - from Blues &amp; Grunge to Soft Rock &amp; Heavy Metal. Includes classics from Bon Jovi, Led Zeppelin, Pink Floyd, Aerosmith, AC/DC, Nirvana and many more.</desc>
+        <icon src="https://images.pluto.tv/series/657c192d12d5ee00088e1f0c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6568a78d635c3c0008765f41" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>That's Rock</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6568a78d635c3c0008765f41/featuredImage_1771232975260.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42519,7 +43103,22 @@ outside our own solar system.</desc>
         <desc>Two huge electrodes at Cybertech Labs produce a startling effect on two long-time foes. The mind of the Turtles master Splinter winds up in the body of the evil Shredder - and vice versa, causing confusion among their associates.</desc>
         <icon src="https://images.pluto.tv/series/65aa5ea0d22ce50014706722/tile_1767238289684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="656ef4af4261ca00083c8f37" start="20260615200523 +0000" stop="20260616000000 +0000">
+    <programme channel="656ef4af4261ca00083c8f37" start="20260615200523 +0000" stop="20260615203029 +0000">
+        <title>Teenage Mutant Ninja Turtles (1987): Burne's Blues</title>
+        <desc>Burne is out to prove to April that he can still dig in the trenches and find good stories after deriding her for failing to come up with anything good lately.</desc>
+        <icon src="https://images.pluto.tv/series/65aa5ea0d22ce50014706722/tile_1767238289684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656ef4af4261ca00083c8f37" start="20260615203029 +0000" stop="20260615205537 +0000">
+        <title>Teenage Mutant Ninja Turtles (1987): The Fifth Turtle</title>
+        <desc>On the occasion of a rare conjunction of the Earth, Moon, and Stars, Shredder steals some Capsidium Crystals.</desc>
+        <icon src="https://images.pluto.tv/series/65aa5ea0d22ce50014706722/tile_1767238289684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656ef4af4261ca00083c8f37" start="20260615205537 +0000" stop="20260615212046 +0000">
+        <title>Teenage Mutant Ninja Turtles (1987): Enter: The Rat King</title>
+        <desc>April does a story on the rat problem the city is facing, and the Rat King kidnaps her. The Rat King is the leader of all the rats under his form of government known as the Ratocracy.</desc>
+        <icon src="https://images.pluto.tv/series/65aa5ea0d22ce50014706722/tile_1767238289684.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="656ef4af4261ca00083c8f37" start="20260615212046 +0000" stop="20260616000000 +0000">
         <title>Totally Turtles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/656ef4af4261ca00083c8f37/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42529,7 +43128,17 @@ outside our own solar system.</desc>
         <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
         <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="660c209e19ca71000846cf38" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="660c209e19ca71000846cf38" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>That's 90s00s</title>
+        <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
+        <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c209e19ca71000846cf38" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>That's 90s00s</title>
+        <desc>The perfect channel for the digital age, bringing you the iconic sounds and vibes of the 90s and 00s! Includes classics from Mariah Carey, Backstreet Boys, Spice Girls, Britney Spears, Beyoncé, Lady Gaga and many more.</desc>
+        <icon src="https://images.pluto.tv/series/6752c1a55534bb00081b6b90/tile_1771233977965.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c209e19ca71000846cf38" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>That's 90s00s</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/660c209e19ca71000846cf38/featuredImage_1771233902958.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42539,7 +43148,17 @@ outside our own solar system.</desc>
         <desc>The gang continues making repairs; at Piccolo and Krillin's suggestion, Future Trunks goes to visit Gohan, who mentored him in his timeline.</desc>
         <icon src="https://images.pluto.tv/series/68774e8a655e1e057886c112/tile_1752649368966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664c94e80120f40008b860f0" start="20260615202100 +0000" stop="20260616000000 +0000">
+    <programme channel="664c94e80120f40008b860f0" start="20260615202100 +0000" stop="20260615204600 +0000">
+        <title>Dragon Ball Super</title>
+        <desc>Goku, Whis and Beerus track Goku Black's energy signature to Universe 10, where they meet an apprentice Kai named Zamasu whom Goku challenges to a fight.</desc>
+        <icon src="https://images.pluto.tv/series/68774e8a655e1e057886c112/tile_1752649368966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c94e80120f40008b860f0" start="20260615204600 +0000" stop="20260615211000 +0000">
+        <title>Dragon Ball Super</title>
+        <desc>The time capsule repairs near completion, Vegeta becomes angry upon measuring Future Trunks' strength, and Zeno makes a surprising request to Beerus.</desc>
+        <icon src="https://images.pluto.tv/series/68774e8a655e1e057886c112/tile_1752649368966.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c94e80120f40008b860f0" start="20260615211000 +0000" stop="20260616000000 +0000">
         <title>POP</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664c94e80120f40008b860f0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42549,7 +43168,17 @@ outside our own solar system.</desc>
         <desc>When a frightened Unown transports our heroes to another dimension, they make some exciting discoveries about Larvitar!</desc>
         <icon src="https://images.pluto.tv/series/67209928a2922a00138bd66d/tile_1776972432032.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd71a1d7ad000866ec6a" start="20260615201417 +0000" stop="20260616000000 +0000">
+    <programme channel="6683cd71a1d7ad000866ec6a" start="20260615201417 +0000" stop="20260615203928 +0000">
+        <title>Pokemon: Master Quest</title>
+        <desc>There's no warm reception for our heroes when they finally reach Larvitar's home on Mt. Silver—they find themselves being attacked by the Tyranitar living there!</desc>
+        <icon src="https://images.pluto.tv/series/67209928a2922a00138bd66d/tile_1776972432032.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd71a1d7ad000866ec6a" start="20260615203928 +0000" stop="20260615210439 +0000">
+        <title>Pokemon: Master Quest</title>
+        <desc>Our heroes are called into action to save the Johto League Silver Conference's opening ceremony from being stopped by a territorial Sneasel!</desc>
+        <icon src="https://images.pluto.tv/series/67209928a2922a00138bd66d/tile_1776972432032.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd71a1d7ad000866ec6a" start="20260615210439 +0000" stop="20260616000000 +0000">
         <title>Pokémon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd71a1d7ad000866ec6a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42559,7 +43188,17 @@ outside our own solar system.</desc>
         <desc>All the Teletubbies pop up to say hello.  The Teletubbies see a girl whose mother is a very good singer.  Four happy Teletubbies dance around Teletubbyland.</desc>
         <icon src="https://images.pluto.tv/series/67501a13a7fde5001358b91b/tile_1767305881457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a10eeb46762a0008201e85" start="20260615202554 +0000" stop="20260616000000 +0000">
+    <programme channel="66a10eeb46762a0008201e85" start="20260615202554 +0000" stop="20260615205250 +0000">
+        <title>Teletubbies</title>
+        <desc>A voice trumpet brings a message for Dipsy and Laa-Laa.  The Teletubbies watch some children learn about the number two.</desc>
+        <icon src="https://images.pluto.tv/series/67501a13a7fde5001358b91b/tile_1767305881457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a10eeb46762a0008201e85" start="20260615205250 +0000" stop="20260615211936 +0000">
+        <title>Teletubbies</title>
+        <desc>Noo-Noo tidies up Laa-Laa's ball.  The Teletubbies watch some children rolling things up…and down a hill.  Po starts all the other Teletubbies rolling through Teletubbyland.</desc>
+        <icon src="https://images.pluto.tv/series/67501a13a7fde5001358b91b/tile_1767305881457.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66a10eeb46762a0008201e85" start="20260615211936 +0000" stop="20260616000000 +0000">
         <title>Teletubbies</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66a10eeb46762a0008201e85/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42569,7 +43208,17 @@ outside our own solar system.</desc>
         <desc>The Golden Rhino</desc>
         <icon src="https://images.pluto.tv/series/68efa3546fe1b6a13d5c1045/tile_1760535382173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b5a97fc8ef6afa31138718" start="20260615200539 +0000" stop="20260616000000 +0000">
+    <programme channel="68b5a97fc8ef6afa31138718" start="20260615200539 +0000" stop="20260615203325 +0000">
+        <title>Smurfs (Classic)</title>
+        <desc>Brainy's Beastly Boo-Boo / Scary Smurfs</desc>
+        <icon src="https://images.pluto.tv/series/68efa3546fe1b6a13d5c1045/tile_1760535382173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b5a97fc8ef6afa31138718" start="20260615203325 +0000" stop="20260615210113 +0000">
+        <title>Smurfs (Classic)</title>
+        <desc>No Reflection on Vanity / Wild Goes Cuckoo</desc>
+        <icon src="https://images.pluto.tv/series/68efa3546fe1b6a13d5c1045/tile_1760535382173.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b5a97fc8ef6afa31138718" start="20260615210113 +0000" stop="20260616000000 +0000">
         <title>The Smurfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b5a97fc8ef6afa31138718/featuredImage_1760380526597.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42579,7 +43228,17 @@ outside our own solar system.</desc>
         <desc>A sinister Cyborg Phantasm wreaks havoc with the world of electrical appliances. // When Mona's cat, Fang, goes missing after a scolding, Mona tracks him to a wondrous underwater world where he is held captive by an underwater emperor.</desc>
         <icon src="https://images.pluto.tv/series/68f37e75d279ff480545d2d9/tile_1760788124042.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="694178a8026be6e9d3ea7d7a" start="20260615201612 +0000" stop="20260616000000 +0000">
+    <programme channel="694178a8026be6e9d3ea7d7a" start="20260615201612 +0000" stop="20260615204314 +0000">
+        <title>Mona the Vampire</title>
+        <desc>Old Mr. Williams who lives across the street from Mona has always kept to himself. // When she is reprimanded for breaking her mother's favorite vase, a miffed Mona seeks refuge in the basement  a ten year old vampire's last sanctuary.</desc>
+        <icon src="https://images.pluto.tv/series/68f37e75d279ff480545d2d9/tile_1760788124042.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="694178a8026be6e9d3ea7d7a" start="20260615204314 +0000" stop="20260615211016 +0000">
+        <title>Mona the Vampire</title>
+        <desc>Hair-raising night-time howling. The mysterious disappearance of Mrs. Bryerson's poodle. // It's the annual science fair and Mona has pulled out all the stops.</desc>
+        <icon src="https://images.pluto.tv/series/68f37e75d279ff480545d2d9/tile_1760788124042.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="694178a8026be6e9d3ea7d7a" start="20260615211016 +0000" stop="20260616000000 +0000">
         <title>Mona The Vampire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/694178a8026be6e9d3ea7d7a/featuredImage_1767865545603.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -42589,7 +43248,17 @@ outside our own solar system.</desc>
         <desc>In Pasta Land, King Koopa uses a magical flute to lure all of the local Mushroom children away from the town, and leads them to his nearby castle.</desc>
         <icon src="https://images.pluto.tv/series/5b1904efc65a06426375fe17/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="697a2f8b3991484f03064614" start="20260615201353 +0000" stop="20260616000000 +0000">
+    <programme channel="697a2f8b3991484f03064614" start="20260615201353 +0000" stop="20260615203753 +0000">
+        <title>Super Mario Brothers Super Show: The Bird! The Bird!</title>
+        <desc>While venturing in a snowy world, Toad is kidnapped by a nearsighted Birdo who is convinced that he is her missing baby.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904efc65a06426375fe17/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a2f8b3991484f03064614" start="20260615203753 +0000" stop="20260615210153 +0000">
+        <title>Super Mario Brothers Super Show: Mario of the Deep</title>
+        <desc>Mario, Luigi, Princess Toadstool and Toad have travelled to the underwater kingdom of Aqua Land in a submarine built from a bathtub in order to fight against BarraKoopa.</desc>
+        <icon src="https://images.pluto.tv/series/5b1904efc65a06426375fe17/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a2f8b3991484f03064614" start="20260615210153 +0000" stop="20260616000000 +0000">
         <title>Super Mario Bros.</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/697a2f8b3991484f03064614/featuredImage_1770830195618.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>

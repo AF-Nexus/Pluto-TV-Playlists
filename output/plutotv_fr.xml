@@ -2192,9 +2192,9 @@
         <icon src="https://images.pluto.tv/series/68711e8ea53444ef2acdf974/tile_1774607401259.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e2d000418d00070f7dbc" start="20260614200708 +0000" stop="20260614215708 +0000">
-        <title>Ciné d'Asie by Pluto TV</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/62f3e2d000418d00070f7dbc/featuredImage_1751272759754.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <title>Tai chi hero</title>
+        <desc>Yang Luchan, jeune prodige des arts martiaux, accède enfin au savoir ancestral du clan Chen grâce à son mariage avec la fille du maître, Yunian. Mais la cérémonie est perturbée par...</desc>
+        <icon src="https://images.pluto.tv/series/6101177bf423960013c0a231/tile_1768340413296.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62f3e2d000418d00070f7dbc" start="20260614215708 +0000" stop="20260614234308 +0000">
         <title>Tai chi zero</title>
@@ -11665,6 +11665,11 @@ Nobita veut une collection alors Doraemon crée le Virus de la Mode afin que sa 
         <title>Le droit de tuer?</title>
         <desc>Après le viol de sa fille de dix ans par deux Blancs qui se croient au dessus de la loi, le père se fait justice en abattant les deux violeurs.</desc>
         <icon src="https://images.pluto.tv/series/6062fff3918e16001a4fbacf/tile_1777484881842.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260615085853 +0000" stop="20260615105253 +0000">
+        <title>L'ange et le mauvais garçon</title>
+        <desc>Le pistolero Quirt Evans, blessé à la suite d’un règlement de compte, est recueilli par une famille de quakers. Pénélope, la fille de la maison, veut le faire renoncer à sa vie...</desc>
+        <icon src="https://images.pluto.tv/series/6103b0a25233ba00136beae0/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260615010208 +0000" stop="20260615040553 +0000">
         <title>Heroes : The Battle at Lake Changjin</title>
@@ -26684,6 +26689,11 @@ L'ARMADA DU CHAPEAU DE PAILLE !</title>
         <desc>A la suite d'un accident de voiture dans lequel sa mère est tuée, Frank Harris est kidnappé par un personnage de bande dessinée.</desc>
         <icon src="https://images.pluto.tv/series/66193a30acbc68001370344e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260615205644 +0000" stop="20260615230044 +0000">
+        <title>The Ghost And The Darkness</title>
+        <desc>Michael Douglas et Val Kilmer dans une formidable aventure en Afrique de l'Est. Deux lions mangeurs d'hommes y ont interrompu la construction d'un chemin de fer. Les bêtes chassent ensemble, sans crainte de l'homme ni du feu.</desc>
+        <icon src="https://images.pluto.tv/series/64ec702a85e5ff0013a9cf58/tile_1779836762025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="5f8ed1ff5c39700007e2204a" start="20260615153844 +0000" stop="20260615171144 +0000">
         <title>Archenemy FR</title>
         <desc>Max Fist, un alcoolique notoire sans-abri, prétend être un héros venu d'une autre dimension, Chromium. Alors qu’il affrontait son ennemi juré, il serait tombé dans une faille spatio-temporelle et serait arrivé sur Terre, où ses pouvoirs sont inefficaces.</desc>
@@ -31081,7 +31091,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Un groupe de réfugiés terriens débarque sur une planète exotique, où ils doivent combattre des extraterrestres impitoyables pour survivre.</desc>
         <icon src="https://images.pluto.tv/series/66386da82833ae00139011fa/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ece1a89d79800072510e6" start="20260615205519 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ece1a89d79800072510e6" start="20260615205519 +0000" stop="20260615223519 +0000">
+        <title>Nazis at the Center of the Earth</title>
+        <desc>Des Nazis ont réussi à se cacher au centre de la Terre et y préparent le retour en force du IIIe Reich. En Antarctique, des chercheurs scientifiques sont kidnappés par des soldats masqués.</desc>
+        <icon src="https://images.pluto.tv/series/6177e049f3593c001aa75e62/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ece1a89d79800072510e6" start="20260615223519 +0000" stop="20260616000000 +0000">
         <title>The Asylum</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ece1a89d79800072510e6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31091,7 +31106,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Composé de 200 personnalités, toutes de meurtriers notoires. Il s'agit de Sid 6.7, un système de réalité virtuelle conçu pour tester les officiers de police de Los Angeles.</desc>
         <icon src="https://images.pluto.tv/series/601cfbd9e17f63001ae1a6c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed0f17564a300082b676a" start="20260615205642 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed0f17564a300082b676a" start="20260615205642 +0000" stop="20260615232804 +0000">
+        <title>A.I. Artificial Intelligence</title>
+        <desc>Dans le futur, les humains vivent aux côtés de robots de compagnie, les Mechas. Mais lorsque David, un prototype d'enfant robot, est programmé pour donner un amour inconditionnel, sa famille humaine n'est pas prête à en subir les conséquences.</desc>
+        <icon src="https://images.pluto.tv/series/6617cf604da6e300139c44cb/tile_1779115681775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed0f17564a300082b676a" start="20260615232804 +0000" stop="20260616000000 +0000">
         <title>Ciné by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed0f17564a300082b676a/featuredImage_1775048900088.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31101,7 +31121,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>A la suite d'un accident de voiture dans lequel sa mère est tuée, Frank Harris est kidnappé par un personnage de bande dessinée.</desc>
         <icon src="https://images.pluto.tv/series/66193a30acbc68001370344e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed168f72fcd0007e56269" start="20260615205644 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260615205644 +0000" stop="20260615230044 +0000">
+        <title>The Ghost And The Darkness</title>
+        <desc>Michael Douglas et Val Kilmer dans une formidable aventure en Afrique de l'Est. Deux lions mangeurs d'hommes y ont interrompu la construction d'un chemin de fer. Les bêtes chassent ensemble, sans crainte de l'homme ni du feu.</desc>
+        <icon src="https://images.pluto.tv/series/64ec702a85e5ff0013a9cf58/tile_1779836762025.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed168f72fcd0007e56269" start="20260615230044 +0000" stop="20260616000000 +0000">
         <title>Ciné Rétro by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed168f72fcd0007e56269/featuredImage_1751272859624.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31111,7 +31136,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Après qu’un virus mortel a décimé l’humanité, un ancien agent du FBI protège une jeune femme naturellement immunisée. Traqués par un gang dirigé par un psychopathe, ils doivent lutter pour que son immunité ne serve pas des intérêts meurtriers.</desc>
         <icon src="https://images.pluto.tv/series/695d16f5287ec44e140f6b58/tile_1767721436015.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed1ff5c39700007e2204a" start="20260615204726 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260615204726 +0000" stop="20260615223826 +0000">
+        <title>Elektra</title>
+        <desc>Elektra, célèbre tueuse à gages, accepte un contrat qu’elle refusera plus tard de remplir en protégeant sa cible et la fille de celui-ci de la terrible et maléfique organisation criminelle appelée « La Main ».</desc>
+        <icon src="https://images.pluto.tv/series/606d73c7a224c9001bb94738/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed1ff5c39700007e2204a" start="20260615223826 +0000" stop="20260616000000 +0000">
         <title>Ciné Action by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed1ff5c39700007e2204a/featuredImage_1752228140367.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31121,7 +31151,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Afin de reconstituer le triptyque d'un maître Flamand dont un volet a disparu depuis longtemps, le Musée de Bruges organise un concours de copistes dont le montant du prix est de 50 000 euros.</desc>
         <icon src="https://images.pluto.tv/series/5f9fbe1b1788de001ad57356/tile_1774604521176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed6d569d2d4000864a976" start="20260615202600 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed6d569d2d4000864a976" start="20260615202600 +0000" stop="20260615221200 +0000">
+        <title>Louis la Brocante: Louis et les Anguilles bleues</title>
+        <desc>Lors d'une absence de Louis, des faux Gendarmes de la CAC (Cellule Anti-Cambriolage) viennent faire une saisie au nouveau terrier gardé par Maryvonne.</desc>
+        <icon src="https://images.pluto.tv/series/5f9fbe1b1788de001ad57356/tile_1774604521176.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed6d569d2d4000864a976" start="20260615221200 +0000" stop="20260616000000 +0000">
         <title>Louis La Brocante</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed6d569d2d4000864a976/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31131,7 +31166,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Hufracio Arteaga est tué à son garage. Une silhouette captée près d’un cabinet d’avocats mène à un suspect.</desc>
         <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f914f4b36d67d0007a91a04" start="20260615203746 +0000" stop="20260616000000 +0000">
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260615203746 +0000" stop="20260615212551 +0000">
+        <title>Crimes sur le vif</title>
+        <desc>Tom et Jill Estes disparaissent au Missouri. Les reçus et vidéos aident à suivre un suspect ensanglanté dans plusieurs États.</desc>
+        <icon src="https://images.pluto.tv/series/68921424df1220b5353b7079/tile_1774606703103.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f914f4b36d67d0007a91a04" start="20260615212551 +0000" stop="20260616000000 +0000">
         <title>True Crime by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f914f4b36d67d0007a91a04/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31141,7 +31181,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Laly et Jimmy, qui continuent à filer le parfait amour, retrouvent Bénédicte et Kanu au bowling. Pendant ce temps, Sébastien, qui ne supporte plus l'absence de Laly, décide de la trouver coûte que coûte. Il prend sa moto...</desc>
         <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="604f8de01b479400078fb1e7" start="20260615200100 +0000" stop="20260616000000 +0000">
+    <programme channel="604f8de01b479400078fb1e7" start="20260615200100 +0000" stop="20260615202800 +0000">
+        <title>Hélène et les garçons: Drame</title>
+        <desc>Toute le monde est bouleversé par l'accident de Sébastien. Johanna accompagne Laly à l'hôpital. Nathalie retrouve Bénédicte à la cafèt' et lui apprend qu'elle sait tout sur sa relation avec Kanu et sur celle de Laly et Jimmy.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260615202800 +0000" stop="20260615205500 +0000">
+        <title>Hélène et les garçons: Regrets</title>
+        <desc>Toute la bande est très embarrassée : comment annoncer à Laly que l'état de Sébastien est critique ? C'est Linda qui, en pleurs, va lui apprendre la vérité. Pronfondément choquée, Laly quitte la cafèt' en injuriant tout le monde...</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260615205500 +0000" stop="20260615212200 +0000">
+        <title>Hélène et les garçons: Tendresse</title>
+        <desc>Linda et Laly ont retrouvé leur bonne humeur. José, de son côté, n'a pas l'air d'être très heureux de la bonne nouvelle concernant l'état de Sébastien.</desc>
+        <icon src="https://images.pluto.tv/series/6049f8ad34b28d001a37528b/tile_1774604520974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="604f8de01b479400078fb1e7" start="20260615212200 +0000" stop="20260616000000 +0000">
         <title>Hélène et les garçons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/604f8de01b479400078fb1e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31151,7 +31206,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>À son tour, José se fait tirer les cartes. Les filles lui annoncent qu'il va tomber amoureux d'un homme brun qui l'emmènera au bout du monde ! Stupéfait, il en parle à ses amis qui se moquent de lui.</desc>
         <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549c238c3f21000753d3e0" start="20260615201800 +0000" stop="20260616000000 +0000">
+    <programme channel="60549c238c3f21000753d3e0" start="20260615201800 +0000" stop="20260615204600 +0000">
+        <title>Le miracle de l'amour: L'erreur</title>
+        <desc>Sébastien révèle à Nicolas qu'il a trompé Laly, mais refuse de dire avec qui. Alors que tout le monde le trouve très perturbé, Laly aperçoit Nathalie en pleurs à la cafèt'. Comme elle essaye de l'interroger, Nathalie part en courant...</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260615204600 +0000" stop="20260615211400 +0000">
+        <title>Le miracle de l'amour: La peine</title>
+        <desc>Sébastien est désespéré : il regrette amèrement d'être sorti avec Nathalie. Alors que Christophe lui a pardonné, Laly ne veut plus le voir et décide de partir pour le Brésil. Béné et Linda essayent de la raisonner, en vain.</desc>
+        <icon src="https://images.pluto.tv/series/60599ea98119a5001a718fff/tile_1774606705056.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549c238c3f21000753d3e0" start="20260615211400 +0000" stop="20260616000000 +0000">
         <title>Le miracle de l'amour</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549c238c3f21000753d3e0/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31161,7 +31226,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Vincent demande quelques conseils à Sabine pour séduire sa copine Véronique. Il emmène cette dernière à la salle de sport pour les mettre en pratique. Marc l'aperçoit et apprend par Gérard que Vincent a conquis Véronique grâce aux tuyaux de Sabine...</desc>
         <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60549d97cd7b090007c73314" start="20260615202021 +0000" stop="20260616000000 +0000">
+    <programme channel="60549d97cd7b090007c73314" start="20260615202021 +0000" stop="20260615204736 +0000">
+        <title>Les filles d'à côté: La boum de minuit</title>
+        <desc>Claire a du mal à accepter que Vincent ne quitte plus Véronique. Elle refuse de le laisser aller à une boum de minuit avec sa petite copine. Vincent fait la tête et Claire va retrouver Gérard et Luna à la salle de sport pour leur demander conseil.</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260615204736 +0000" stop="20260615211351 +0000">
+        <title>Les filles d'à côté: Les naufragés</title>
+        <desc>Daniel ne peut plus supporter de vivre avec Charly. Gérard en parle aux filles, qui proposent aussitôt à Daniel de venir s'installer chez elles pour quelques semaines. Il accepte et s'empresse de l'annoncer à Charly. Ce dernier le prend très mal...</desc>
+        <icon src="https://images.pluto.tv/series/60599e5c8119a5001a7185d8/tile_1774604881012.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60549d97cd7b090007c73314" start="20260615211351 +0000" stop="20260616000000 +0000">
         <title>Les filles d'à côté</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60549d97cd7b090007c73314/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31181,7 +31256,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Deux amis s'associent et rencontrent le succès.</desc>
         <icon src="https://images.pluto.tv/series/69397fbb82bb361505553c0f/tile_1765379071405.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60812fc8539963000707d1e1" start="20260615204533 +0000" stop="20260616000000 +0000">
+    <programme channel="60812fc8539963000707d1e1" start="20260615204533 +0000" stop="20260615222933 +0000">
+        <title>The Perfect Score</title>
+        <desc>Scarlett Johansson, Erika Christensen, Chris Evans et Darius Miles figurent dans cette histoire initiatique de six adolescents qui entrent par effraction dans le centre d'examens et volent les réponses des examens d'admission à l'université.</desc>
+        <icon src="https://images.pluto.tv/series/64d0b12b445a8a0013d73afc/tile_1779669002267.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60812fc8539963000707d1e1" start="20260615222933 +0000" stop="20260616000000 +0000">
         <title>Ciné Romance by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60812fc8539963000707d1e1/featuredImage_1775048649580.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31191,7 +31271,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Alors qu'il garde la boutique pour permettre à Annette d'aller chez un fournisseur, Jérôme sympathise avec une ravissante cliente : il doit la retrouver le soir même au Nelly's.</desc>
         <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afae68a7fc50000737186d" start="20260615201300 +0000" stop="20260616000000 +0000">
+    <programme channel="60afae68a7fc50000737186d" start="20260615201300 +0000" stop="20260615204000 +0000">
+        <title>Les années fac: Rupture et prise de bec</title>
+        <desc>C'est l'anniversaire de Virginie et Luc veut lui acheter une bague. Annette lui organise un rendez-vous dans une boutique avec une jeune femme qui va le conseiller, mais Virginie arrive à l'improviste et les surprend...</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260615204000 +0000" stop="20260615210800 +0000">
+        <title>Les années fac: Le cas social</title>
+        <desc>Ari met les garçons en garde : il a appris que Mr Laplace a engagé un espion pour surveiller leurs horaires et leur travail à la salle de sport. Scandalisés, ils décident de démasquer le traître.</desc>
+        <icon src="https://images.pluto.tv/series/612de133dc29d20013b750fa/tile_1776241801275.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afae68a7fc50000737186d" start="20260615210800 +0000" stop="20260616000000 +0000">
         <title>Les Années fac</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afae68a7fc50000737186d/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31201,7 +31291,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Geneviève arrive au collège, mais elle refuse de s'asseoir depuis qu'elle a le cœur brisé. Julien tombe amoureux d'elle.</desc>
         <icon src="https://images.pluto.tv/series/6141c806f3d10f0016f27bcd/tile_1768115472736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60afb203ec391c00070ea1bf" start="20260615202000 +0000" stop="20260616000000 +0000">
+    <programme channel="60afb203ec391c00070ea1bf" start="20260615202000 +0000" stop="20260615204400 +0000">
+        <title>Le Collège des cœurs brisés: Le fantôme</title>
+        <desc>Anne-Marie revient au collège déguisée en Néfertiti et en prononçant des mots incohérents. Seule Fabienne la voit et essaye de prévenir Monsieur Rambier.</desc>
+        <icon src="https://images.pluto.tv/series/6141c806f3d10f0016f27bcd/tile_1768115472736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260615204400 +0000" stop="20260615211000 +0000">
+        <title>Le Collège des cœurs brisés: Anne-Marie, le retour</title>
+        <desc>Tout le monde prend François pour un fou lorsqu'il dit qu'Anne-Marie est revenue.</desc>
+        <icon src="https://images.pluto.tv/series/6141c806f3d10f0016f27bcd/tile_1768115472736.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60afb203ec391c00070ea1bf" start="20260615211000 +0000" stop="20260616000000 +0000">
         <title>Génération Sitcoms</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60afb203ec391c00070ea1bf/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31221,7 +31321,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Une équipe de jeunes scientifiques sont sur le point de réaliser une étonnante percée en physique quantique. Quelque chose de remarquable se produit lorsque chacun d'entre eux se retrouve face à face avec leur double issu d'un univers parallèle.</desc>
         <icon src="https://images.pluto.tv/series/6523a17d619680001a9f1f5a/tile_1768345562029.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60c34592c911890007f29a73" start="20260615200439 +0000" stop="20260616000000 +0000">
+    <programme channel="60c34592c911890007f29a73" start="20260615200439 +0000" stop="20260615214857 +0000">
+        <title>The Deal</title>
+        <desc>Après une pandémie, le Bureau impose le "Deal" : 20 ans de confort, puis la mort. Tala, enceinte à l’époque, lutte pour que sa fille Analyn échappe à cet asservissement quand un diagnostic inattendu survient à cinq jours de sa mort programmée.</desc>
+        <icon src="https://images.pluto.tv/series/69271fcf82bb361505ef908b/tile_1776243601982.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c34592c911890007f29a73" start="20260615214857 +0000" stop="20260616000000 +0000">
         <title>Ciné Sci-Fi by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60c34592c911890007f29a73/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31231,7 +31336,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Olivia, brisée par la perte d’un ami et un refus d’université, sombre dans des crises de panique. Pour reprendre le contrôle, elle se déchaîne sur les réseaux sociaux contre ceux qui freinent ses rêves.</desc>
         <icon src="https://images.pluto.tv/series/68711d1b4f8d4a99171d4f6f/tile_1768378846770.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60c3472a51a2050008dad272" start="20260615200136 +0000" stop="20260616000000 +0000">
+    <programme channel="60c3472a51a2050008dad272" start="20260615200136 +0000" stop="20260615214736 +0000">
+        <title>A Good Woman Is Hard To Find</title>
+        <desc>Une jeune veuve est prête à tout pour protéger son enfant lorsqu'elle découvre la vérité derrière le meurtre de son mari.</desc>
+        <icon src="https://images.pluto.tv/series/6979f70b00cf117a5543b69c/tile_1769600780607.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60c3472a51a2050008dad272" start="20260615214736 +0000" stop="20260616000000 +0000">
         <title>Ciné Thrillers by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60c3472a51a2050008dad272/featuredImage_1751373092940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31241,7 +31351,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Un aubergiste amoureux de la bonne chère est frappé par une attaque qui le cloue au lit. Sa femme, le voyant devenu inutile, le force à couver des œufs devant tous ses amis.</desc>
         <icon src="https://images.pluto.tv/series/647855a6188649001a846cf4/tile_1768260910937.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e0522443200008c567d7" start="20260615201907 +0000" stop="20260616000000 +0000">
+    <programme channel="62f3e0522443200008c567d7" start="20260615201907 +0000" stop="20260615212407 +0000">
+        <title>Contes et nouvelles du XIXème siècle: La cagnotte</title>
+        <desc>1863, une petite ville de province. Souvent, le soir, une aimable compagnie se réunit pour jouer aux cartes.</desc>
+        <icon src="https://images.pluto.tv/series/633bf63e0e4203001345a43f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e0522443200008c567d7" start="20260615212407 +0000" stop="20260616000000 +0000">
         <title>Pluto TV French Collection</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e0522443200008c567d7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31261,7 +31376,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>La séparation (3) /  La séparation (4) /  La séparation (5)</desc>
         <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3ece7b09fd6000783bfb9" start="20260615200051 +0000" stop="20260616000000 +0000">
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260615200051 +0000" stop="20260615202351 +0000">
+        <title>Un Gars Une Fille: Dans la salle de bain (6) /  Chez les sado-maso /  Ont un ordinateur (1)</title>
+        <desc>Dans la salle de bain (6) /  Chez les sado-maso /  Ont un ordinateur (1)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260615202351 +0000" stop="20260615204551 +0000">
+        <title>Un Gars Une Fille: Dans la salle de bain (5) /  A un mariage (1) /  Dans la cuisine (5)</title>
+        <desc>Dans la salle de bain (5) /  A un mariage (1) /  Dans la cuisine (5)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260615204551 +0000" stop="20260615210751 +0000">
+        <title>Un Gars Une Fille: Reçoivent des amis à souper (1) /  Chez le psy (1) /  Dans la cuisine (1)</title>
+        <desc>Reçoivent des amis à souper (1) /  Chez le psy (1) /  Dans la cuisine (1)</desc>
+        <icon src="https://images.pluto.tv/series/6373a8f6eaede8001374b213/tile_1774606320989.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3ece7b09fd6000783bfb9" start="20260615210751 +0000" stop="20260616000000 +0000">
         <title>Un gars, une fille</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3ece7b09fd6000783bfb9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31271,7 +31401,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
         <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f2e2eb10450007298023" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="6304f2e2eb10450007298023" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Un Village Français</title>
+        <desc>Juillet 42. Un train transportant des juifs étrangés raflés dans la région, s'arrête à Villeneuve suite à une panne. En attendant le nouveau train qui les emportera à Drancy, Daniel Larcher propose de les héberger à l'école pour quelques jours.</desc>
+        <icon src="https://images.pluto.tv/series/64353bd4af2bd900088c2cbf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f2e2eb10450007298023" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Un Village Français</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f2e2eb10450007298023/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31291,7 +31431,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Sachant qu'un cambrioleur vient d'enterrer le produit de son larcin, à proximité d'un point d'eau, dans le désert, Lewton Cole part à la recherche du trésor.</desc>
         <icon src="https://images.pluto.tv/series/661fd310d1a9170013ffa853/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cca3e2ec452d0008af3a65" start="20260615204352 +0000" stop="20260616000000 +0000">
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260615204352 +0000" stop="20260615223057 +0000">
+        <title>Django, le taciturne</title>
+        <desc>La bande de Thompson attaque une caravane ; Bill, témoin involontaire, parvient à s'échapper et à sauver la vie de Linda. Tous deux se réfugient dans le village voisin, c'est-à-dire là où se trouvent les bandits.</desc>
+        <icon src="https://images.pluto.tv/series/68daa05e33c9798391df8e63/tile_1759158376940.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="65cca3e2ec452d0008af3a65" start="20260615223057 +0000" stop="20260616000000 +0000">
         <title>Ciné Western by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/65cca3e2ec452d0008af3a65/featuredImage_1751272826279.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31301,7 +31446,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>26 février 1995, les policiers de Versailles découvrent six corps dans une villa cossue de Louveciennes. Seuls survivants : le fils Alexi qui a donné l'alerte et sa demi-soeur de deux ans, Nathalie, retrouvée endormie dans son lit.</desc>
         <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a622b5e2370000800f392" start="20260615205910 +0000" stop="20260616000000 +0000">
+    <programme channel="662a622b5e2370000800f392" start="20260615205910 +0000" stop="20260615223223 +0000">
+        <title>Faites Entrer L'Accusé: Florence Rey, Audry Maupin, tueurs nés ?</title>
+        <desc>Florence Rey et Audry Maupin ont 20 ans et s'aiment. Ils sont issus d'un "bon milieu", étudiants, un peu idéalistes, comme beaucoup de jeunes de leur âge. Un soir, ils se transforment en meurtriers, en tueurs de flics. Bilan : 5 morts en 25 minutes</desc>
+        <icon src="https://images.pluto.tv/series/665711b9a086180013d7d411/tile_1774603440996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a622b5e2370000800f392" start="20260615223223 +0000" stop="20260616000000 +0000">
         <title>Faites entrer l'accusé</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a622b5e2370000800f392/featuredImage_1775550450554.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31311,7 +31461,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Alors que Roland contamine Johanna avec ses nouvelles idées, Malik prépare une bien étrange surprise à sa sœur. Quant à Ninon, elle s'inquiète pour Vincent.</desc>
         <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a6309307fa30008196b4e" start="20260615200329 +0000" stop="20260616000000 +0000">
+    <programme channel="662a6309307fa30008196b4e" start="20260615200329 +0000" stop="20260615202929 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 92</title>
+        <desc>Alors que Florian fait des efforts pour se mettre sur la même longueur d'ondes que sa sœur, Roland doit faire face à un obstacle inattendu. Quant à Ninon, elle apprend qu'elle avait raison de s'inquiéter.</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260615202929 +0000" stop="20260615205629 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 93</title>
+        <desc>Alors que les affaires de Roland semblent en bonne voie, Samia est confrontée à une bien étrange proposition. Quant à Rudy, peut-il reprendre une vie normale ?</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260615205629 +0000" stop="20260615212326 +0000">
+        <title>Plus Belle la Vie: Saison 4 Episode 94</title>
+        <desc>Alors que Patricia commence à trouver une solution à ses problèmes, Roland se montre sous son vrai jour. De son côté, Laurence ne s'attendait pas à une proposition pareille.</desc>
+        <icon src="https://images.pluto.tv/series/66599fa7f9326800136e0d02/tile_1774604530196.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a6309307fa30008196b4e" start="20260615212326 +0000" stop="20260616000000 +0000">
         <title>Plus Belle la Vie 2</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a6309307fa30008196b4e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31321,7 +31486,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Ludo rencontre un adolescent, qui va être la source de nombreux problèmes au zoo.</desc>
         <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd0f63a5f20008fb84a3" start="20260615200502 +0000" stop="20260616000000 +0000">
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260615200502 +0000" stop="20260615203018 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Alors que Gary est en danger suite à son accident, Ludo va devoir faire face à un buzz ravageur.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260615203018 +0000" stop="20260615205509 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Manu se demande si Claire est vraiment motivée par leur projet commun.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260615205509 +0000" stop="20260615212039 +0000">
+        <title>Un si grand soleil</title>
+        <desc>Alors qu'une femme est retrouvée morte au bord de la route, Davia organise une surprise à Alex.</desc>
+        <icon src="https://images.pluto.tv/series/67ff9bc01426f2773e03e2f9/tile_1774607040894.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd0f63a5f20008fb84a3" start="20260615212039 +0000" stop="20260616000000 +0000">
         <title>Un Si Grand Soleil</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd0f63a5f20008fb84a3/featuredImage_1749650858534.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31331,7 +31511,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Tremblez de peur tout au long du mois d'octobre sur Pluto TV Horreur avec une programmation spéciale dédiée aux âmes les plus courageuses. Des classiques cultes aux nouveautés les plus terrifiantes, préparez-vous à une expérience horrifique inoubliable</desc>
         <icon src="https://images.pluto.tv/series/66f6775aec9d6d0008104cf8/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66e1978babec540008ce41ac" start="20260615200046 +0000" stop="20260616000000 +0000">
+    <programme channel="66e1978babec540008ce41ac" start="20260615200046 +0000" stop="20260615214748 +0000">
+        <title>Blood Quantum</title>
+        <desc>Près de la réserve de Red Crow, les morts reviennent à la vie. Seuls les autochtones sont immunisés. Traylor, le shérif, doit protéger les siens, sa future belle-fille enceinte… et gérer l’arrivée de réfugiés blancs en quête de refuge.</desc>
+        <icon src="https://images.pluto.tv/series/6895f203baa646038d36955f/tile_1754657284779.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66e1978babec540008ce41ac" start="20260615214748 +0000" stop="20260616000000 +0000">
         <title>Ciné Horreur by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66e1978babec540008ce41ac/featuredImage_1751272165910.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31341,7 +31526,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
         <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Enquêtes Criminelles</title>
+        <desc>Nathalie Renoux vous propose de vivre ou de revivre de grandes affaires criminelles qui font ou qui ont fait l'actualité. Qu'elles soient connues ou qu'elles le soient moins, les histoires que vous verrez racontent à chaque fois comment la vie de gens ord</desc>
+        <icon src="https://images.pluto.tv/series/6740934cdaad7f0008bb243e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d0b5e4a6e0008c2b920" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Enquêtes Criminelles</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d0b5e4a6e0008c2b920/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31351,7 +31546,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le film raconte l'ascension de Jerry Stahl, d'un petit scénariste de télévision à un humoriste à succès. Au cours du film, Stahl se bat contre sa dépendance à la drogue, ce qui lui fait rater de nombreux emplois.</desc>
         <icon src="https://images.pluto.tv/series/6172984f829284001a93e38c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="67b4b2d976a934282e92d71c" start="20260615204501 +0000" stop="20260616000000 +0000">
+    <programme channel="67b4b2d976a934282e92d71c" start="20260615204501 +0000" stop="20260615222412 +0000">
+        <title>Party Girl</title>
+        <desc>Dans cette comédie mouvementée, Parker Posey joue le rôle d'une fêtarde invétérée de NY qui prend un emploi de bibliothécaire.</desc>
+        <icon src="https://images.pluto.tv/series/68936b4f99a2f3e74a0f5882/tile_1768332242545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="67b4b2d976a934282e92d71c" start="20260615222412 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Comédies Cultes</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/67b4b2d976a934282e92d71c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31361,7 +31561,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Vous avez déjà rêvé d’assister à un exorcisme? Découvrez ce qu’est vraiment la terreur sur Ciné 666 by Pluto TV. Des cas de possession aux malédictions démoniaques en passant par des prêtres, soyez prêts à sauver votre âme… ou à la vendre au diable!</desc>
         <icon src="https://images.pluto.tv/series/68c0431974f43c4c1f9f3cb7/tile-1757430641108.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6823648580b2665220d9e69a" start="20260615200035 +0000" stop="20260616000000 +0000">
+    <programme channel="6823648580b2665220d9e69a" start="20260615200035 +0000" stop="20260615213435 +0000">
+        <title>Le Berceau du mal</title>
+        <desc>Une jeune femme enceinte se demande si elle est en train de perdre la tête ou si sa grossesse lui a soudainement donné des dons paranormaux lorsqu’elle se met à voir des esprits qui semblent en avoir après son bébé...</desc>
+        <icon src="https://images.pluto.tv/series/60e8074dd96ddc001314a0da/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6823648580b2665220d9e69a" start="20260615213435 +0000" stop="20260616000000 +0000">
         <title>Ciné 666 by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6823648580b2665220d9e69a/featuredImage-1757404098.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31371,7 +31576,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Nina prend en charge Flora, correspondante allemande de Lily, admise pour coma éthylique. Des symptômes inattendus compliquent le diagnostic.</desc>
         <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="692ec6d82329c10c5166f436" start="20260615202721 +0000" stop="20260616000000 +0000">
+    <programme channel="692ec6d82329c10c5166f436" start="20260615202721 +0000" stop="20260615212439 +0000">
+        <title>NINA</title>
+        <desc>Le service est sous tension avec l'arrivée de nouveaux internes et des coupes budgétaires.</desc>
+        <icon src="https://images.pluto.tv/series/699ec2848c539e794a14e65d/tile_1772012165751.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="692ec6d82329c10c5166f436" start="20260615212439 +0000" stop="20260616000000 +0000">
         <title>Nina</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/692ec6d82329c10c5166f436/featuredImage_1771598181775.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31381,7 +31591,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
         <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb66537867f0007146953" start="20260615201400 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8eb66537867f0007146953" start="20260615201400 +0000" stop="20260615204400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260615204400 +0000" stop="20260615211400 +0000">
+        <title>Catfish</title>
+        <desc>Catfish, la célèbre émission de MTV qui réunit des couples qui n'ont jamais interagi que par le biais d'écrans. Au fil des mois, ils sont tombés amoureux, mais que se passera-t-il lorsqu'ils se rencontreront pour la première fois dans la vraie vie ?</desc>
+        <icon src="https://images.pluto.tv/series/68541465c692373f0117fd11/tile_1750948902426.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb66537867f0007146953" start="20260615211400 +0000" stop="20260616000000 +0000">
         <title>CATFISH TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb66537867f0007146953/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31401,7 +31621,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>En 1983 en Virginie, David Wilkey, 18 ans est tué lors d’un tragique accident de chasse. Malgré l’absence de preuves, l’enquêteur d’une compagnie d’assurance est persuadé qu’il s’agit d’un meurtre.</desc>
         <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1774607401183.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edad922b10b000753bc37" start="20260615201600 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8edad922b10b000753bc37" start="20260615201600 +0000" stop="20260615210800 +0000">
+        <title>Dossiers FBI: Mafia Dixie</title>
+        <desc>Au Mississippi, sur la côte du golfe du Mexique, un juge et sa femme sont trouvés brutalement assassinés dans leur résidence. Le meurtrier n’a laissé que peu d’indices. L’enquête ne mène nulle part. Les agents du FBI entrent alors en jeu.</desc>
+        <icon src="https://images.pluto.tv/series/5fb1410d584f69001a66aae3/tile_1774607401183.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edad922b10b000753bc37" start="20260615210800 +0000" stop="20260616000000 +0000">
         <title>Dossiers FBI</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edad922b10b000753bc37/featuredImage-1608307461254.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31411,7 +31636,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Dans cette émission, nous ferons une incursion dans le monde judiciaire, en compagnie de Julie Wilson. Nous verrons ce coroner enquêteur trouver des indices et reconstituer les derniers moments de la vie d'une victime.</desc>
         <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile_1774607760935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8edb6df1ebb800072edf10" start="20260615201600 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260615201600 +0000" stop="20260615211200 +0000">
+        <title>Les Nouveaux Detectives: Parcelles d’indices</title>
+        <desc>Parfois, des indices aussi minuscules que des fibres de tapis ou des cheveux peuvent suffire à prouver la culpabilité d’un meurtrier.</desc>
+        <icon src="https://images.pluto.tv/series/600a9bb0caf1bb001a7f6af1/tile_1774607760935.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8edb6df1ebb800072edf10" start="20260615211200 +0000" stop="20260616000000 +0000">
         <title>Les Nouveaux Detectives</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8edb6df1ebb800072edf10/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31421,7 +31651,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Dire que cette chaîne est pleine de personnalités serait un euphémisme. Si vous êtes à la recherche de divertissements excessifs, extravagants, et carrément délirants, c'est votre lieu de destination.</desc>
         <icon src="https://images.pluto.tv/series/6a0dd2257120a26f0d803a30/tile_1779290662217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6092544e7639460007d4835e" start="20260615200009 +0000" stop="20260616000000 +0000">
+    <programme channel="6092544e7639460007d4835e" start="20260615200009 +0000" stop="20260615203009 +0000">
+        <title>Pluto TV Pride</title>
+        <desc>Dire que cette chaîne est pleine de personnalités serait un euphémisme. Si vous êtes à la recherche de divertissements excessifs, extravagants, et carrément délirants, c'est votre lieu de destination.</desc>
+        <icon src="https://images.pluto.tv/series/6a0dd2257120a26f0d803a30/tile_1779290662217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6092544e7639460007d4835e" start="20260615203009 +0000" stop="20260615210009 +0000">
+        <title>Pluto TV Pride</title>
+        <desc>Dire que cette chaîne est pleine de personnalités serait un euphémisme. Si vous êtes à la recherche de divertissements excessifs, extravagants, et carrément délirants, c'est votre lieu de destination.</desc>
+        <icon src="https://images.pluto.tv/series/6a0dd2257120a26f0d803a30/tile_1779290662217.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6092544e7639460007d4835e" start="20260615210009 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Pride</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6092544e7639460007d4835e/featuredImage_1780300821162.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31431,7 +31671,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Karst entend étendre sa richesse via un constructeur automobile. Mais les défaites successives de ses pilotes menacent son empire...</desc>
         <icon src="https://images.pluto.tv/series/6814a5b01426f2773e03368c/tile_1768268382077.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260615202402 +0000" stop="20260616000000 +0000">
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260615202402 +0000" stop="20260615204906 +0000">
+        <title>Denver le dernier dinosaure</title>
+        <desc>Denver est confondu avec une attraction préhistorique vivante.</desc>
+        <icon src="https://images.pluto.tv/series/69c3895827ed3c42e3bbd087/tile_1774422360996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260615204906 +0000" stop="20260615211414 +0000">
+        <title>Denver le dernier dinosaure</title>
+        <desc>Denver aide les garçons à retrouver confiance lors d’une compétition.</desc>
+        <icon src="https://images.pluto.tv/series/69c3895827ed3c42e3bbd087/tile_1774422360996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6a9b4bb5790007a6f0f8" start="20260615211414 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Retro Toons</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6a9b4bb5790007a6f0f8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31441,7 +31691,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le match Eldorado / Equipe Zan continue et c'est difficile pour eldorado... En plus, surprise de taille: On découvre que Fei était en fait un Nu-Gen, dont Simeon a effacé la mémoire afin de l'envoyer auprès de Raimon pour les infiltrer.</desc>
         <icon src="https://images.pluto.tv/series/64886c889cb24a001326ca33/tile_1774607040974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e75226b7f420007c3f319" start="20260615202500 +0000" stop="20260616000000 +0000">
+    <programme channel="611e75226b7f420007c3f319" start="20260615202500 +0000" stop="20260615205100 +0000">
+        <title>Inazuma Eleven Go Chrono Stone FR: Un onzième joueur inattendu!</title>
+        <desc>Le deuxième match du tournoi Ragnarok est sur le point de commencer et va voir s’affronter Gihl, la deuxième équipe de la Nu Gen, et Eldorado 2, une équipe réunissant des joueurs du Protocole Omega et de Raimon.</desc>
+        <icon src="https://images.pluto.tv/series/64886c889cb24a001326ca33/tile_1774607040974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260615205100 +0000" stop="20260615211700 +0000">
+        <title>Inazuma Eleven Go Chrono Stone FR: Mécamark arrive !</title>
+        <desc>L'équipe Gilh affronte Eldorado 2, dans un match sans concession. Gihl mène 3 à 0. La situation est critique. Si Eldorado 2 perd ce match, le tournoi de Ragnarok sera définitivement terminé.</desc>
+        <icon src="https://images.pluto.tv/series/64886c889cb24a001326ca33/tile_1774607040974.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e75226b7f420007c3f319" start="20260615211700 +0000" stop="20260616000000 +0000">
         <title>Inazuma Eleven</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e75226b7f420007c3f319/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31451,7 +31711,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
         <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="612e044c970e6f00083bcf3b" start="20260615202700 +0000" stop="20260616000000 +0000">
+    <programme channel="612e044c970e6f00083bcf3b" start="20260615202700 +0000" stop="20260615223700 +0000">
+        <title>Y'a que la vérité qui compte: Episode 97</title>
+        <desc>Le principe est simple : une personne en invite une autre afin de lui faire une déclaration devant la France entière. L'invité découvre sur le plateau qui l'a fait venir, et peut décider de lever le rideau qui les sépare et le rejoindre... ou pas !</desc>
+        <icon src="https://images.pluto.tv/series/615efcd242c9af001bf6247d/tile_1776244321063.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="612e044c970e6f00083bcf3b" start="20260615223700 +0000" stop="20260616000000 +0000">
         <title>Y'a que la vérité qui compte</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/612e044c970e6f00083bcf3b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31461,7 +31726,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Les participants au tournoi ont débarqué sur l’île du Royaume des Duellistes. Le premier duel oppose Yugi à Malherbe Sournois, toujours aussi menteur et tricheur.</desc>
         <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6130d9c712c2b000070abb50" start="20260615200800 +0000" stop="20260616000000 +0000">
+    <programme channel="6130d9c712c2b000070abb50" start="20260615200800 +0000" stop="20260615203300 +0000">
+        <title>Yu-Gi-Oh! FR: Un insecte super puissant</title>
+        <desc>Le duel que se livrent Yugi et Malherbe continue. Ce dernier semble mal en point mais il a plus d’un tour déloyal dans son sac.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260615203300 +0000" stop="20260615205700 +0000">
+        <title>Yu-Gi-Oh! FR: Premier Duel</title>
+        <desc>Joey décide de relever le défi lancé par May et de s’incrire à son premier tournoi de duel des monstres.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260615205700 +0000" stop="20260615212100 +0000">
+        <title>Yu-Gi-Oh! FR: Attaque Aquatique</title>
+        <desc>Yugi et ses amis sont invités à dîner par Moko Tsunami, le duelliste de la mer.</desc>
+        <icon src="https://images.pluto.tv/series/64a677502273310013f16ce8/tile_1774604161038.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6130d9c712c2b000070abb50" start="20260615212100 +0000" stop="20260616000000 +0000">
         <title>Yu-Gi-Oh!</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6130d9c712c2b000070abb50/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31471,7 +31751,18 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Takato Matsuda est un jeune garçon qui est passionné par le jeu de cartes Digimon ! Il a même créé son propre Digimon. Un jour, il découvre un mystérieux objet. Que va-t-il se passer quand l'objet entre en contact avec la carte Digimon de Takato ?</desc>
         <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="617bae1d69bca3000729561e" start="20260615201900 +0000" stop="20260616000000 +0000">
+    <programme channel="617bae1d69bca3000729561e" start="20260615201900 +0000" stop="20260615204400 +0000">
+        <title>Digimon Tamers: Des digimons partout</title>
+        <desc>Takato essaie désespérément de cacher Guilmon à ses parents. Guilmon n'est pas décidé à rester dans sa boîte en carton ! Il préfère suivre Takato à l'école. Ça a l'air bien plus drôle !
+L'aventure commence pour Takato et Guilmon !</desc>
+        <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260615204400 +0000" stop="20260615210800 +0000">
+        <title>Digimon Tamers: Se battre ou ne pas se battre</title>
+        <desc>Guilmon affronte Ruki et Renamon ! Takato ne sait pas trop quoi faire, il n'a jamais livré de combat Digimon. Heureusement, Guilmon a les instincts qu'il faut. Jen s'interpose, cependant. Pour lui, les Digimon ne sont pas faits pour se battre.</desc>
+        <icon src="https://images.pluto.tv/series/62b2c904cb0324001352a894/tile_1768201787541.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="617bae1d69bca3000729561e" start="20260615210800 +0000" stop="20260616000000 +0000">
         <title>Digimon Adventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/617bae1d69bca3000729561e/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31481,7 +31772,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le cadavre de Hamano a été retrouvé dans l’arrière-cour, allongé dans la neige. L’absence de traces de pas tout autour laisse croire qu’un crime impossible vient d’être commis au châlet.</desc>
         <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3e8ad2a8e8000077b013d" start="20260615202058 +0000" stop="20260616000000 +0000">
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260615202058 +0000" stop="20260615204858 +0000">
+        <title>Détective Conan: Magic Party (3)</title>
+        <desc>C'est en observant un yacht représenté sur l'étiquette d'une bouteille de vin que Conan comprend pourquoi il a retrouvé des marques de carreaux d'arbalète dans l'arrière-cour.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260615204858 +0000" stop="20260615211658 +0000">
+        <title>Détective Conan: Meurtre sans arme</title>
+        <desc>Conan et ses amis visitent un salon de beauté lorsqu’ils assistent à une violente dispute entre Midori, le propriétaire, et l’esthéticienne Mika. Le lendemain, Mika est retrouvée morte.</desc>
+        <icon src="https://images.pluto.tv/series/637238066089a700137a9372/tile_1768260186139.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3e8ad2a8e8000077b013d" start="20260615211658 +0000" stop="20260616000000 +0000">
         <title>Detective Conan</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3e8ad2a8e8000077b013d/featuredImage-1745586978166.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31491,7 +31792,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
         <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62f3f05505e621000783df2f" start="20260615202155 +0000" stop="20260616000000 +0000">
+    <programme channel="62f3f05505e621000783df2f" start="20260615202155 +0000" stop="20260615205155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260615205155 +0000" stop="20260615212155 +0000">
+        <title>Teen Mom</title>
+        <desc>"Teen Mom" raconte les défis auxquels les adolescentes Farrah, Maci, Amber et Catelynn sont confrontées au cours de leurs premières années de maternité.</desc>
+        <icon src="https://images.pluto.tv/series/68370c5acf5ae3a5088a7de5/tile_1748438287683.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="62f3f05505e621000783df2f" start="20260615212155 +0000" stop="20260616000000 +0000">
         <title>Teen Mom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/62f3f05505e621000783df2f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31501,7 +31812,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>L’attaque de Caribou tourne court, mais tous les dangers ne sont pas éloignés pour autant : de terribles courants parsèment les fonds marins, qui peuvent aussi bien amener le Sunny a destination que le réduire en miettes.</desc>
         <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6380c94947c72b0007ee9a13" start="20260615202613 +0000" stop="20260616000000 +0000">
+    <programme channel="6380c94947c72b0007ee9a13" start="20260615202613 +0000" stop="20260615205313 +0000">
+        <title>One Piece FR: Naufrage sous-marin ! Les chapeaux de paille séparés.</title>
+        <desc>Toujours en route pour l’Île des Hommes-poissons, passage obligé vers le Nouveau Monde, le Sunny doit faire face aux gigantesques tentacules du Kraken. Luffy, Sanji et Zoro tentent une sortie pour aller vaincre la bête sans égratigner le Sunny.</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260615205313 +0000" stop="20260615212013 +0000">
+        <title>One Piece FR: Eruption volcanique sous-marine ! Propulsés vers l’Île des Hommes-poissons</title>
+        <desc>Le Sunny a atteint le fond de l’océan grâce au courant descendant. L’équipage n’a pas le temps de réaliser que déjà il tombe sur un étrange géant chauve et le vaisseau fantôme du Hollandais Volant.</desc>
+        <icon src="https://images.pluto.tv/series/645106aa54afb6001ac7f14b/tile_1768260261159.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6380c94947c72b0007ee9a13" start="20260615212013 +0000" stop="20260616000000 +0000">
         <title>One Piece</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6380c94947c72b0007ee9a13/featuredImage_1765795729899.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31531,7 +31852,18 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Les océans recouvrent 71% de notre planète. Cette immense étendue bleue abrite une biodiversité extraordinaire : plus de 170 000 espèces y ont été répertoriées. Et nous ne cessons d'en découvrir de nouvelles.</desc>
         <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b579961bdba100071214cb" start="20260615202612 +0000" stop="20260616000000 +0000">
+    <programme channel="63b579961bdba100071214cb" start="20260615202612 +0000" stop="20260615205804 +0000">
+        <title>C'est Pas Sorcier FR</title>
+        <desc>Plus de 120 ans après sa construction, la dame de fer domine toujours la capitale et s’est refait une beauté au fil du temps. De nouveaux travaux sont en cours pour réaménager tout le premier étage et offrir aux visiteurs de nouvelles sensations.</desc>
+        <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b579961bdba100071214cb" start="20260615205804 +0000" stop="20260615213004 +0000">
+        <title>C'est Pas Sorcier FR</title>
+        <desc>2,6 milliards de passagers ont voyagé en avion en 2010 et le trafic aérien est en constante augmentation. Comment faire face à cette demande de plus en plus forte ? 
+ Fred nous emmène dans les coulisses de Roissy – Charles de Gaulle.</desc>
+        <icon src="https://images.pluto.tv/series/6464dc8617da09001a0f44ed/tile_1768261440257.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b579961bdba100071214cb" start="20260615213004 +0000" stop="20260616000000 +0000">
         <title>C'est pas sorcier</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b579961bdba100071214cb/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31541,7 +31873,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Jeremy Clarkson, Richard Hammond et James May arrivent à Donington dans trois voitures de piste dépouillées. Et Jeremy recrée la bataille d'Angleterre avec une Bentley à moteur aéronautique.</desc>
         <icon src="https://images.pluto.tv/series/651a7cb8a78f0d001a3b7cd4/tile_1774603801146.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64c1093824ade50008bd117f" start="20260615203203 +0000" stop="20260616000000 +0000">
+    <programme channel="64c1093824ade50008bd117f" start="20260615203203 +0000" stop="20260615213159 +0000">
+        <title>Top Gear: Series 015 and 016: Best Of: Épisode 1</title>
+        <desc>Les garçons organisent un goûter de stars avec entre autres Al Murray, Bill Bailey et Louie Spence.</desc>
+        <icon src="https://images.pluto.tv/series/6572c058786433001486ccb1/tile_1768830841043.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64c1093824ade50008bd117f" start="20260615213159 +0000" stop="20260616000000 +0000">
         <title>Top Gear</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c1093824ade50008bd117f/featuredImage_1760622806310.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31551,7 +31888,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
         <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b756208700008d758ad" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="652d0b756208700008d758ad" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Les Z'amours</title>
+        <desc>Jeu iconique dans lequel des couples répondent à des questions pour découvrir s’ils se connaissent vraiment bien ! Dans chaque épisode, trois couples s’affrontent en 2 manches. Le couple ayant obtenu le score le plus élevé est le gagnant.</desc>
+        <icon src="https://images.pluto.tv/series/6572f0e4254a680008cd5c35/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b756208700008d758ad" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Les Z'amours</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b756208700008d758ad/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31561,7 +31908,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
         <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652d0b9ceb72580008a4ea5b" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Qui veut gagner des millions?</title>
+        <desc>Jean-Pierre Foucault accueille dans le jeu le plus emblématique de la télé de prestigieux invités qui joueront au profit d'associations !Ces duos répondront à des questions pour atteindre le sommet de la pyramide des gains et récolter un maximum de fonds.</desc>
+        <icon src="https://images.pluto.tv/series/6572f1f534636800081869cf/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652d0b9ceb72580008a4ea5b" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Qui veut gagner des millions?</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652d0b9ceb72580008a4ea5b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31571,7 +31928,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
         <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="662a63275a402e00086bc8a5" start="20260615200355 +0000" stop="20260616000000 +0000">
+    <programme channel="662a63275a402e00086bc8a5" start="20260615200355 +0000" stop="20260615203118 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260615203118 +0000" stop="20260615205841 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260615205841 +0000" stop="20260615212605 +0000">
+        <title>Olive et Tom, champions de foot</title>
+        <desc>Olive et Tom narre l'histoire du jeune Olivier Atton qui rêve de devenir le meilleur footballeur au monde</desc>
+        <icon src="https://images.pluto.tv/series/6698c3149700930013831439/tile_1774606321041.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="662a63275a402e00086bc8a5" start="20260615212605 +0000" stop="20260616000000 +0000">
         <title>Olive &amp; Tom</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/662a63275a402e00086bc8a5/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31581,7 +31953,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Benkei entraîne Kenta pour que le jeune blader puisse affronter à nouveau et vaincre Hikaru Hasama.</desc>
         <icon src="https://images.pluto.tv/series/669e28007e516700130fcc75/tile_1776246480983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="664c8ba33d173b00080ef0c8" start="20260615200427 +0000" stop="20260616000000 +0000">
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260615200427 +0000" stop="20260615202929 +0000">
+        <title>Beyblade Metal Fusion</title>
+        <desc>Doji envoie Kyoya dans le Wolf Canyon où il devra escalader une montagne et combattre des loups sauvages.</desc>
+        <icon src="https://images.pluto.tv/series/669e28007e516700130fcc75/tile_1776246480983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260615202929 +0000" stop="20260615205431 +0000">
+        <title>Beyblade Metal Fusion</title>
+        <desc>Lorsque Kyoya revient de Wolf Canyon et affronte Benkei dans un combat qui s'avère particulièrement destructeur.</desc>
+        <icon src="https://images.pluto.tv/series/669e28007e516700130fcc75/tile_1776246480983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260615205431 +0000" stop="20260615211933 +0000">
+        <title>Beyblade Metal Fusion</title>
+        <desc>Kenta porte Benkei jusqu'au B-Pit. Benkei est très mal en point.</desc>
+        <icon src="https://images.pluto.tv/series/669e28007e516700130fcc75/tile_1776246480983.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="664c8ba33d173b00080ef0c8" start="20260615211933 +0000" stop="20260616000000 +0000">
         <title>Beyblade</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/664c8ba33d173b00080ef0c8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31591,7 +31978,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Daria réfléchit sur les relations humaines et se demande si le contact physique est vraiment nécessaire.</desc>
         <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1774604881002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683b680efa2a10008e8a393" start="20260615201609 +0000" stop="20260616000000 +0000">
+    <programme channel="6683b680efa2a10008e8a393" start="20260615201609 +0000" stop="20260615204031 +0000">
+        <title>Daria</title>
+        <desc>Daria est obsédée par un gros carton. Et qui ne le serait pas ?</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1774604881002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260615204031 +0000" stop="20260615210457 +0000">
+        <title>Daria</title>
+        <desc>Daria et Quinn entrent à leur nouveau lycée. Quinn se fait des amis facilement, contrairement à Daria. Rencontre avec Daria, ses professeurs, sa famille et sa nouvelle meilleure amie : Jane.</desc>
+        <icon src="https://images.pluto.tv/series/6694e0d82fca0600136aa842/tile_1774604881002.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683b680efa2a10008e8a393" start="20260615210457 +0000" stop="20260616000000 +0000">
         <title>Daria</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683b680efa2a10008e8a393/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31601,7 +31998,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>En 1987, une fille de 15 ans se rend à une fête et ne rentre jamais à la maison. Dix ans plus tard, les enquêteurs découvrent un lien surprenant avec une affaire en cours.</desc>
         <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6683cd2fca74680008772545" start="20260615204312 +0000" stop="20260616000000 +0000">
+    <programme channel="6683cd2fca74680008772545" start="20260615204312 +0000" stop="20260615213759 +0000">
+        <title>Forensic Investigators</title>
+        <desc>Lorsqu'un camion entre en collision avec une caravane et tue un garçon de 12 ans, la police tente de retrouver le responsable.</desc>
+        <icon src="https://images.pluto.tv/series/66deb20dd404600013e93540/tile_1768267053529.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6683cd2fca74680008772545" start="20260615213759 +0000" stop="20260616000000 +0000">
         <title>Investigation by Pluto TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6683cd2fca74680008772545/featuredImage_1747399523996.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31611,7 +32013,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
         <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1774604161069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66b228d4cd0d3100085d27b7" start="20260615201953 +0000" stop="20260616000000 +0000">
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260615201953 +0000" stop="20260615210318 +0000">
+        <title>Les Anges de la Téléréalité</title>
+        <desc>Suivez les aventures de candidats qui ont marqué la téléréalité en France ! Pendant plusieurs semaines, c’est dans les plus grandes villes du monde et dans une villa de star qu’ils tenteront de réaliser leurs objectifs professionnels.</desc>
+        <icon src="https://images.pluto.tv/series/67335b293b8ac6001359b863/tile_1774604161069.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66b228d4cd0d3100085d27b7" start="20260615210318 +0000" stop="20260616000000 +0000">
         <title>Les Anges</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66b228d4cd0d3100085d27b7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31621,7 +32028,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>L’équipe enquête sur Capesthorn Hall, Cheshire, un domaine de 1719 avec une activité paranormale persistante, y compris des membres flottants et des ombres sombres, malgré des bénédictions précédentes.</desc>
         <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66d722d31878f200081c2c64" start="20260615204356 +0000" stop="20260616000000 +0000">
+    <programme channel="66d722d31878f200081c2c64" start="20260615204356 +0000" stop="20260615213855 +0000">
+        <title>Most Haunted</title>
+        <desc>30 East Drive, domicile du poltergeist le plus violent du monde. L’équipe fait face à son plus grand défi. En entrant, quelque chose attend, désireux de se révéler.</desc>
+        <icon src="https://images.pluto.tv/series/670cbbd0132dfe00131cc840/tile_1768267576410.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66d722d31878f200081c2c64" start="20260615213855 +0000" stop="20260616000000 +0000">
         <title>Most Haunted</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66d722d31878f200081c2c64/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31631,7 +32043,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
         <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55c3955567d0008ef9b68" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66f55c3955567d0008ef9b68" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Turbo</title>
+        <desc>Magazine des conducteurs et de leurs automobiles, Turbo présente les nouvelles tendances sociologiques, économiques et écologiques</desc>
+        <icon src="https://images.pluto.tv/series/6740975d030a2c000826a539/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55c3955567d0008ef9b68" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Turbo</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55c3955567d0008ef9b68/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31641,7 +32063,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
         <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Les Marseillais</title>
+        <desc>Suivez les aventures folles des Marseillais à travers le monde ! Entre amours, amitiés, et drames explosifs, revivez les moments cultes et les épisodes emblématiques, 100 % gratuits et en continu !</desc>
+        <icon src="https://images.pluto.tv/series/66ff9edca07d1a0008f06cb9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d565e4a6e0008c2b9d2" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Les Marseillais</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d565e4a6e0008c2b9d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31651,7 +32083,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Un avion tourne mystérieusement autour de l’aéroport d’Athènes.</desc>
         <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1781456724914.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74c777ed3360cb6908bf" start="20260615204300 +0000" stop="20260616000000 +0000">
+    <programme channel="686e74c777ed3360cb6908bf" start="20260615204300 +0000" stop="20260615213700 +0000">
+        <title>Mayday : Catastrophe Aérienne</title>
+        <desc>Huit joueurs de football de Manchester United sont tués dans le tristement célèbre crash aérien de Munich.</desc>
+        <icon src="https://images.pluto.tv/series/69814b7538705ecd4440aa21/tile_1781456724914.jpeg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74c777ed3360cb6908bf" start="20260615213700 +0000" stop="20260616000000 +0000">
         <title>Mayday: Catastrophe Aérienne</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74c777ed3360cb6908bf/featuredImage_1763054803003.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31661,7 +32098,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Lorsque le groupe décide de mettre à profit leurs leçons en lançant une initiative de recyclage, Géant est ravi d'être invité / Nobita a obtenu de mauvais résultats aux derniers examens. Son professeur annonce l'arrivée des visites parents-profs..</desc>
         <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260615201226 +0000" stop="20260616000000 +0000">
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260615201226 +0000" stop="20260615203633 +0000">
+        <title>Doraemon</title>
+        <desc>Nobita est un garçon naïf et a du mal à contrôler ses émotions / Lorsque Nobita et Géant sont retenus après l'école, ils sont tous deux terrifiés de la réaction de leurs mères.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260615203633 +0000" stop="20260615210039 +0000">
+        <title>Doraemon</title>
+        <desc>Nobita rate encore un match de baseball et tout le monde est en colère contre lui. Doraemon applique du « baume énergisant » sur Nobita / Nobita croit qu’il peut empêcher Géant de s'en prendre à lui en changeant le passé.</desc>
+        <icon src="https://images.pluto.tv/series/67fd0dd830b839eca5c87bc9/tile_1768265644766.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b17414c23bb80b3c1d5bb5" start="20260615210039 +0000" stop="20260616000000 +0000">
         <title>Doraemon</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b17414c23bb80b3c1d5bb5/featuredImage_1760606457685.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31671,7 +32118,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Christophe, marathonien en Vendée, chute gravement. Suspects : Pascal, son frère jaloux ; Marianne, sa future belle-sœur ; ou Sylvain, cherchant à se venger en mettant en péril l’entreprise familiale de déménagement.</desc>
         <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="697a34496f47f39d31ff8bde" start="20260615203046 +0000" stop="20260616000000 +0000">
+    <programme channel="697a34496f47f39d31ff8bde" start="20260615203046 +0000" stop="20260615210314 +0000">
+        <title>Si près de chez vous</title>
+        <desc>Jean, nouveau maire alsacien, est retrouvé mort dans ses vignes. Suspects : Julien, son fils endetté en conflit avec lui ; René, un ami refusant de pardonner un refus de passe-droit ; et Bernard, l'ancien maire revanchard après sa défaite.</desc>
+        <icon src="https://images.pluto.tv/series/69e5cab824d9b7beb5351bae/tile_1776667321031.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="697a34496f47f39d31ff8bde" start="20260615210314 +0000" stop="20260616000000 +0000">
         <title>Si près de chez vous</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/697a34496f47f39d31ff8bde/featuredImage_1771926209987.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31681,7 +32133,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
         <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8eb99ff17815000784a3b0" start="20260615201000 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260615201000 +0000" stop="20260615204000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260615204000 +0000" stop="20260615211000 +0000">
+        <title>Pluto TV Teen</title>
+        <desc>Pluto TV Teen vous offre le meilleur du contenu pour adolescents de Nickelodeon ! Plongez dans le plaisir avec iCarly, Henry Danger, The Thundermans, Big Time Rush, et plus encore. Profitez d'aventures hilarantes, d'action de super-héros et de moments mus</desc>
+        <icon src="https://images.pluto.tv/series/68246ed29eed174f7fb955aa/tile_1747218131226.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8eb99ff17815000784a3b0" start="20260615211000 +0000" stop="20260616000000 +0000">
         <title>Pluto TV  Teen</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8eb99ff17815000784a3b0/featuredImage_1750752089122.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31691,7 +32153,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Lorsque les tortues quittent le repaire contre l'avis de Splinter, elles font la rencontre de Baxter Stockman, un inventeur dérangé vêtu d'une armure de combat.</desc>
         <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc1b37867f00071469e9" start="20260615201100 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260615201100 +0000" stop="20260615203600 +0000">
+        <title>Les Tortues Ninja: Tête d'Acier</title>
+        <desc>Las d'utiliser son bô contre la technologie extraterrestre des Krangs, Donatello crée Tête d'Acier, un robot télécommandé, pour se battre à sa place.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260615203600 +0000" stop="20260615210100 +0000">
+        <title>Les Tortues Ninja: Malin comme un singe</title>
+        <desc>En enquêtant sur la disparition d'un scientifique, Donatello et April croisent la route d'un singe au comportement bizarre et découvrent un complot.</desc>
+        <icon src="https://images.pluto.tv/series/5fdb0e4d636004001a7839de/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc1b37867f00071469e9" start="20260615210100 +0000" stop="20260616000000 +0000">
         <title>Tortues Ninja TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc1b37867f00071469e9/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31701,7 +32173,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Madame Ackerman, le professeur du groupe, est en pleine rupture avec son petit-ami, ce qui la rend aigrie avec ses étudiants. Une visite de Spencer pour arranger les choses se transforme en rendez-vous.</desc>
         <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260615202500 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260615202500 +0000" stop="20260615205000 +0000">
+        <title>iCarly: ICarly va au Japon - Première partie</title>
+        <desc>Carly, Sam, Spencer et Freddie se rendent au Japon pour les iWeb Awards. Après un vol qui a failli mal tourné, nos quatre amis se retrouvent dans un hôtel de Tokyo.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260615205000 +0000" stop="20260615211500 +0000">
+        <title>iCarly: ICarly va au Japon - Deuxième partie</title>
+        <desc>Carly, Sam, Spencer et Freddie se rendent au Japon pour les iWeb Awards. Après un vol qui a failli mal tourné, nos quatre amis se retrouvent dans un hôtel de Tokyo.</desc>
+        <icon src="https://images.pluto.tv/series/5fe1c9d60dddaf0013b90848/tile_1781024401758.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ecc7aa44d9c00081fca29" start="20260615211500 +0000" stop="20260616000000 +0000">
         <title>iCarly TV</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ecc7aa44d9c00081fca29/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31711,7 +32193,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Un documentaire inédit sur le Studio 54, le club new-yorkais le plus mythique des années 1970, fréquenté par les plus grandes stars de l’époque (David Bowie, Andy Warhol, Mick Jagger, Michael Jackson, Stevie Wonder, Calvin Klein, Liza Minnelli…)</desc>
         <icon src="https://images.pluto.tv/series/67ea7b521af0e5f3d5a8b2d6/tile_1768422981596.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260615205309 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260615205309 +0000" stop="20260615215409 +0000">
+        <title>Taxi Drivers : New York</title>
+        <desc>A bord de taxis jaunes, pédicabs, calèches, limousines, "gypsy cabs", Water taxis, la caméra de Pierre Brouwers nous emmène de découverte en découverte dans la ville du mouvement perpétuel.</desc>
+        <icon src="https://images.pluto.tv/series/609be326d9b0ce0014e609b2/tile_1768414688692.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed3892ed7bb000741a1d2" start="20260615215409 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Inside</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed3892ed7bb000741a1d2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31721,7 +32208,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Explorez la gastronomie française à travers ses régions, savourez des plats authentiques et découvrez les traditions culinaires qui font la richesse de chaque terroir.</desc>
         <icon src="https://images.pluto.tv/series/67d3e4d3917edb2422d234c4/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f8ed48146ba9e00078424b6" start="20260615201944 +0000" stop="20260616000000 +0000">
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260615201944 +0000" stop="20260615204244 +0000">
+        <title>Sucre en folie: Cupcakes - Extraterrestre</title>
+        <desc>Trois pâtissiers doivent impressionner le jury en utilisant de la mayonnaise comme ingrédient mystère durant la première ronde. Les deux finalistes s'affrontent dans un défi 'cupcake' qui a pour thème 'les extraterrestres'.</desc>
+        <icon src="https://images.pluto.tv/series/61443bdd72d3a200132a3c96/tile_1768254708647.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260615204244 +0000" stop="20260615210544 +0000">
+        <title>Sucre en folie: Tartes - Parc d'attractions</title>
+        <desc>Trois pâtissiers internationaux montrent l'étendue de leur savoir-faire lors d'une première ronde éliminatoire avec un ingrédient mystère : la lavande.</desc>
+        <icon src="https://images.pluto.tv/series/61443bdd72d3a200132a3c96/tile_1768254708647.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f8ed48146ba9e00078424b6" start="20260615210544 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Cuisine</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f8ed48146ba9e00078424b6/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31731,7 +32228,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>East Village vs. Upper West Side : Après avoir fait mordre la poussière à leurs adversaires, James 'Trakstar' Greene II et Craig Todaro s'affrontent en face à face pour avoir l'opportunité de représenter leur quartier contre Upper West Side.</desc>
         <icon src="https://images.pluto.tv/series/63c174c686acfd00136c07e0/tile_1781029801612.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5f92b56a367e170007cd43f4" start="20260615200403 +0000" stop="20260616000000 +0000">
+    <programme channel="5f92b56a367e170007cd43f4" start="20260615200403 +0000" stop="20260615202803 +0000">
+        <title>Yo Momma FR: Tribeca vs. Times Square</title>
+        <desc>Après avoir fait mordre la poussière à leurs adversaires, Te'DeVan Kurzweil et Jonathan Maldonaldo s'affrontent en face à face pour avoir l'opportunité de représenter leur quartier contre Times Square.</desc>
+        <icon src="https://images.pluto.tv/series/63c174c686acfd00136c07e0/tile_1781029801612.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260615202803 +0000" stop="20260615205003 +0000">
+        <title>Rencard d'enfer: Lizzie, Tanner et Robert</title>
+        <desc>Lizzie rencontre un abruti sarcastique, Tanner reçoit une demande en mariage par correspondance et le rencard de Robert veut à tout prix devenir policière et agresse les serveurs du restaurant au taser.</desc>
+        <icon src="https://images.pluto.tv/series/600a8559b2c9b7001a3e308f/tile_1768001377423.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260615205003 +0000" stop="20260615211303 +0000">
+        <title>Rencard d'enfer: Dionne, Jordan et Nicole</title>
+        <desc>Le rencard de Dionne se déshabille, Jordan fait du golf avec un psychopathe de la discipline et Nicole rencontre un culturiste qui ne pense qu'à sa prochaine compétition.</desc>
+        <icon src="https://images.pluto.tv/series/600a8559b2c9b7001a3e308f/tile_1768001377423.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5f92b56a367e170007cd43f4" start="20260615211303 +0000" stop="20260616000000 +0000">
         <title>MTV CLASSICS</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5f92b56a367e170007cd43f4/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31741,7 +32253,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
         <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="5ffc8c345822750007e167de" start="20260615202314 +0000" stop="20260616000000 +0000">
+    <programme channel="5ffc8c345822750007e167de" start="20260615202314 +0000" stop="20260615205314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260615205314 +0000" stop="20260615212314 +0000">
+        <title>Bob l'éponge</title>
+        <desc>Qui vit dans un ananas sous la mer ? Bob l'éponge ! Plongez dans Bikini Bottom et suivez les aventures hilarantes de Bob l'éponge, Patrick et Carlo.</desc>
+        <icon src="https://images.pluto.tv/series/66914606fe11e500082fb64f/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="5ffc8c345822750007e167de" start="20260615212314 +0000" stop="20260616000000 +0000">
         <title>Bob l'éponge</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/5ffc8c345822750007e167de/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31751,7 +32273,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>L'évolution a confié à cet insecte vital et fascinant une tâche ingrate.</desc>
         <icon src="https://images.pluto.tv/series/636e3b55576be6001373ab12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60925a44f0350600075a1fdc" start="20260615201337 +0000" stop="20260616000000 +0000">
+    <programme channel="60925a44f0350600075a1fdc" start="20260615201337 +0000" stop="20260615210437 +0000">
+        <title>Icônes de la vie sauvage: Les suricates</title>
+        <desc>Les fauves africains ont évolué en développant des stratégies pour coexister.</desc>
+        <icon src="https://images.pluto.tv/series/636e3b55576be6001373ab12/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60925a44f0350600075a1fdc" start="20260615210437 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Animaux</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60925a44f0350600075a1fdc/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31761,7 +32288,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
         <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="60dc6937b450ad0007377e48" start="20260615201400 +0000" stop="20260616000000 +0000">
+    <programme channel="60dc6937b450ad0007377e48" start="20260615201400 +0000" stop="20260615203900 +0000">
+        <title>Charlotte aux Fraises: C'est petit à petit qu'on grandit, pt. 2</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260615203900 +0000" stop="20260615210400 +0000">
+        <title>Charlotte aux Fraises: Les petits bonheurs de la campagne, pt. 1</title>
+        <desc>Bienvenue dans l'univers de Charlotte aux Fraises : Un monde sucré où tout n'est que joie et bonheur pour les tout petits!</desc>
+        <icon src="https://images.pluto.tv/series/62df835080410e0013da773b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="60dc6937b450ad0007377e48" start="20260615210400 +0000" stop="20260616000000 +0000">
         <title>Charlotte aux Fraises</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/60dc6937b450ad0007377e48/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31771,7 +32308,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Denis, qui est à la campagne avec M. Martin pour une démonstration de pigeons voyageurs, enferme accidentellement les clés de la voiture à l’intérieur. // La dernière invention de Bibi a créé quatre Denis, au désespoir de Marguerite et des autres.</desc>
         <icon src="https://images.pluto.tv/series/619215beb7c957001ac54f0c/tile_1768194721205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260615201911 +0000" stop="20260616000000 +0000">
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260615201911 +0000" stop="20260615204311 +0000">
+        <title>Denis la Malice: L’hôpital // Un cheval nommé horace // Henri le toreador</title>
+        <desc>Enveloppé de bandelettes de la tête aux pieds alors qu’il joue au jeu de l’hôpital, Joël est ramassé par une ambulance et emmené à l’hôpital. // Denis se lie d’amitié avec un vieux cheval nommé Horace.</desc>
+        <icon src="https://images.pluto.tv/series/619215beb7c957001ac54f0c/tile_1768194721205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260615204311 +0000" stop="20260615210711 +0000">
+        <title>Denis la Malice: Denis le devin // Denis et les kangourous // Les spaghettis de denis</title>
+        <desc>Touché par un ballon à la tête, Denis devient tout à coup capable de prédire l’avenir. // Les Mitchell et les Martin sont à Sydney quand des kangourous sauvages envahissent la ville.</desc>
+        <icon src="https://images.pluto.tv/series/619215beb7c957001ac54f0c/tile_1768194721205.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e6ddc7fcd580007d1eb5f" start="20260615210711 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Kids Club</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e6ddc7fcd580007d1eb5f/featuredImage_1748852014629.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31781,7 +32328,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Paul Shull recherche le meilleur fusil de précision de la Seconde Guerre mondiale.</desc>
         <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e771e2f5f180007002224" start="20260615204327 +0000" stop="20260616000000 +0000">
+    <programme channel="611e771e2f5f180007002224" start="20260615204327 +0000" stop="20260615213747 +0000">
+        <title>Aux Armes!</title>
+        <desc>Paul se dirige en direction sud à la recherche de l'artillerie de la guerre de Sécession.</desc>
+        <icon src="https://images.pluto.tv/series/6825ae781426f2773e33b44a/tile_1768266361788.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e771e2f5f180007002224" start="20260615213747 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Histoire</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e771e2f5f180007002224/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31791,7 +32343,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Au nord du Cercle polaire arctique, l'archipel des Lofoten figure dans le palmarès des plus belles îles du monde. Il fait partie de ces lieux restés authentiques, préservés du tourisme de masse</desc>
         <icon src="https://images.pluto.tv/series/5ff6fe46ac600d00143a48da/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="611e7811eb9daf000764cbfd" start="20260615203313 +0000" stop="20260616000000 +0000">
+    <programme channel="611e7811eb9daf000764cbfd" start="20260615203313 +0000" stop="20260615213413 +0000">
+        <title>Découvertes du monde</title>
+        <desc>Tantôt surnommé le Jardin Flottant, tantôt la Perle de l’Atlantique, l'archipel de Madère, doté d’un climat subtropical d’une douceur incomparable, de paysages à couper le souffle.</desc>
+        <icon src="https://images.pluto.tv/series/5ff6fe46ac600d00143a48da/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="611e7811eb9daf000764cbfd" start="20260615213413 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Aventure</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/611e7811eb9daf000764cbfd/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31801,7 +32358,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
         <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="61fc0df14159c40007250432" start="20260615200423 +0000" stop="20260616000000 +0000">
+    <programme channel="61fc0df14159c40007250432" start="20260615200423 +0000" stop="20260615203423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260615203423 +0000" stop="20260615210423 +0000">
+        <title>Nature Time</title>
+        <desc>NatureTime est une chaîne gratuite proposant des récits sur la nature, la faune et la flore du monde entier. Appréciés à tout âge et à tout moment, nos contenus présentent aux utilisateurs la beauté et la complexité de notre monde.</desc>
+        <icon src="https://images.pluto.tv/series/62345340871742000737f940/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="61fc0df14159c40007250432" start="20260615210423 +0000" stop="20260616000000 +0000">
         <title>Nature Time</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/61fc0df14159c40007250432/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31811,7 +32378,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Charlotte et Scotty T reçoivent un binôme bien connu qui vient tester son amitié. Suivi d'un couple au passé mouvementé et de meilleures amies au sens de l'humour pour le moins étrange.</desc>
         <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6304f20c941c5d00089634e7" start="20260615202200 +0000" stop="20260616000000 +0000">
+    <programme channel="6304f20c941c5d00089634e7" start="20260615202200 +0000" stop="20260615211000 +0000">
+        <title>Just Tattoo of Us FR: Épisode 1</title>
+        <desc>Pour ce premier épisode, les parents de Charlotte ouvrent le bal ! Puis ce sera au tour de Scott et Stefan qui ont monté une boîte ensemble et de Michelle et Paula qui sont amies d'enfance.</desc>
+        <icon src="https://images.pluto.tv/series/641423ac6c78eb001a3f85f2/tile_1768259883919.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6304f20c941c5d00089634e7" start="20260615211000 +0000" stop="20260616000000 +0000">
         <title>Just Tattoo of Us</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6304f20c941c5d00089634e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31831,7 +32403,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
         <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="63b578b524f0cf00072f2a52" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="63b578b524f0cf00072f2a52" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Échappées Belles</title>
+        <desc>Echappées belles &amp; co: la chaîne de référence du voyage, de la découverte et de l'évasion. 100 heures de programmes sur toutes les destinations en france et dans le monde.</desc>
+        <icon src="https://images.pluto.tv/series/648c2c0c66e4850008441b81/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="63b578b524f0cf00072f2a52" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Echappées Belles &amp; Co</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/63b578b524f0cf00072f2a52/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31841,7 +32423,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
         <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="64bab8ba5dc1660008969b5a" start="20260615200500 +0000" stop="20260616000000 +0000">
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260615200500 +0000" stop="20260615202900 +0000">
+        <title>Auction Hunters: La journée de gloire d'Allen</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260615202900 +0000" stop="20260615205300 +0000">
+        <title>Auction Hunters: Choo-Choo, Cha-Ching</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260615205300 +0000" stop="20260615211700 +0000">
+        <title>Auction Hunters: Les roues chaudes</title>
+        <desc>Aux États-Unis, plus de 10 000 unités de stockage sont mises aux enchères chaque jour. Clinton 'Ton' Jones et Allen Haff essaient de gagner des enchères, d'acquérir des trésors et de les vendre à profit.</desc>
+        <icon src="https://images.pluto.tv/series/64f02c60cecd3f0013eab748/tile_1780400521458.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="64bab8ba5dc1660008969b5a" start="20260615211700 +0000" stop="20260616000000 +0000">
         <title>Adjugé, vendu !</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64bab8ba5dc1660008969b5a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31851,7 +32448,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
         <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="652557d93fd33c000802f995" start="20260615202741 +0000" stop="20260616000000 +0000">
+    <programme channel="652557d93fd33c000802f995" start="20260615202741 +0000" stop="20260615205624 +0000">
+        <title>Corneil et Bernie: Régime forcé / Le Ballon de Barge</title>
+        <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
+        <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260615205624 +0000" stop="20260615212507 +0000">
+        <title>Corneil et Bernie: Tatie Bingo / Tu seras un homme Bernie</title>
+        <desc>Corneil est un petit chien surdoué. Tout bascule le jour où ses riches propriétaires décident d'engager Bernie, un adolescent drôle et excentrique, comme ' dogsitter ', qui ne va pas tarder à découvrir le don de Corneil...</desc>
+        <icon src="https://images.pluto.tv/series/64d48820445a8a0013e7925c/tile_1776242881167.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="652557d93fd33c000802f995" start="20260615212507 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Super Kids</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/652557d93fd33c000802f995/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31861,7 +32468,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
         <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="654a58dbf9cc82000868f0fb" start="20260615201721 +0000" stop="20260616000000 +0000">
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260615201721 +0000" stop="20260615204721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260615204721 +0000" stop="20260615211721 +0000">
+        <title>Pluto TV Kids Classics</title>
+        <desc>Remontez le temps avec Pluto TV Kids Classics ! Plongez dans des aventures nostalgiques avec Hey Arnold, Rocket Power, Angry Beavers et Jimmy Neutron. Revivez le plaisir, les rires et les moments inoubliables.</desc>
+        <icon src="https://images.pluto.tv/series/682483cb5c6467519567cb67/tile_1747223499970.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="654a58dbf9cc82000868f0fb" start="20260615211721 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Kids Classics</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/654a58dbf9cc82000868f0fb/featuredImage_1750151456845.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31871,7 +32488,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
         <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="6618e3037bcd8600089b62a8" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="6618e3037bcd8600089b62a8" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Allociné</title>
+        <desc>Sur AlloCiné, la chaîne de référence du cinéma et des séries, retrouvez des programmes cultes comme "Faux Raccord", le top des bandes annonces ainsi que l'actualité ciné et série du moment.</desc>
+        <icon src="https://images.pluto.tv/series/66acce56d2d50d00082edcfe/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="6618e3037bcd8600089b62a8" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Allociné</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/6618e3037bcd8600089b62a8/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31881,7 +32508,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
         <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55cf2483d460008f68746" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66f55cf2483d460008f68746" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Zone Interdite</title>
+        <desc>Zone Interdite est depuis trente ans le magazine qui documente et décrypte les bouleversements de la société française. Réalisées sur la durée, les enquêtes diffusées révèlent les tabous, les passions et les combats des Français au cœur de l'actualité.</desc>
+        <icon src="https://images.pluto.tv/series/67404a61daad7f0008b9fdd9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55cf2483d460008f68746" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Zone Interdite</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55cf2483d460008f68746/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31891,7 +32528,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
         <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66f55d205e4a6e0008c2b92b" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Incroyables Transformations</title>
+        <desc>Des experts de la mode ont créé une agence pas comme les autres pour venir en aide à des clients qui se plaignent du look de l'un de leurs proches, qu'il est urgent de changer ! Mais pour nos experts, pas de soucis, car aucun look ne les arrête…</desc>
+        <icon src="https://images.pluto.tv/series/6740983bcf55710008804c5c/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="66f55d205e4a6e0008c2b92b" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Incroyables Transformations</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/66f55d205e4a6e0008c2b92b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31901,7 +32548,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Alors que le capitaine Dave Carraro, champion en titre, peine à capturer un poisson, le reste de la flotte en profite pour prendre de l'avance.</desc>
         <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="678f894ef5c74bff95c20a7f" start="20260615204402 +0000" stop="20260616000000 +0000">
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260615204402 +0000" stop="20260615213904 +0000">
+        <title>Wicked Tuna</title>
+        <desc>Le Hard Merchandise est le seul bateau qui n'a pas encore rapporté de poisson, et le capitaine Dave Marciano ressent la pression.</desc>
+        <icon src="https://images.pluto.tv/series/6810a8c012cab50db67f68cd/tile_1776243961318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="678f894ef5c74bff95c20a7f" start="20260615213904 +0000" stop="20260616000000 +0000">
         <title>Pêche à haut risque</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/678f894ef5c74bff95c20a7f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31911,7 +32563,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Gers, Béarn et Landes : des guides passionnés par leur région présentent leurs coups de cœur, qu'il s'agisse d'une ferme, d'une cathédrale ou de hauts plateaux.</desc>
         <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1780524946427.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="680291e38e1ff89c2427aefd" start="20260615201400 +0000" stop="20260616000000 +0000">
+    <programme channel="680291e38e1ff89c2427aefd" start="20260615201400 +0000" stop="20260615211500 +0000">
+        <title>Les 100 lieux qu'il faut voir</title>
+        <desc>Ce département du sud-ouest, à seulement deux heures de Bordeaux, possède un patrimoine qui réserve une multitude de lieux étonnants.</desc>
+        <icon src="https://images.pluto.tv/series/683482d20f8298da5690757c/tile_1780524946427.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="680291e38e1ff89c2427aefd" start="20260615211500 +0000" stop="20260616000000 +0000">
         <title>Voyages &amp; Saveurs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/680291e38e1ff89c2427aefd/featuredImage_1749650211199.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31921,7 +32578,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
         <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="682318568e6c0f2f6c6e0038" start="20260615203000 +0000" stop="20260616000000 +0000">
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260615203000 +0000" stop="20260615210000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260615210000 +0000" stop="20260615213000 +0000">
+        <title>Pluto TV Dating</title>
+        <desc>Bienvenue sur la chaîne Rencontres, la destination ultime pour des émissions de rencontres qui vous plongent dans la passion, le drame et des rencontres touchantes !</desc>
+        <icon src="https://images.pluto.tv/series/68517e37f7d8b74b620adaa4/tile_1750667774479.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="682318568e6c0f2f6c6e0038" start="20260615213000 +0000" stop="20260616000000 +0000">
         <title>Pluto TV Dating</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/682318568e6c0f2f6c6e0038/featuredImage_1750772750994.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31931,7 +32598,12 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Une touche d’or et d’argent, les fours , l’ancienne ferme, la déco pour les frileux</desc>
         <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="685a999bd33909bdd7d2fb1e" start="20260615201738 +0000" stop="20260616000000 +0000">
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260615201738 +0000" stop="20260615212635 +0000">
+        <title>La Maison France 5</title>
+        <desc>Le retour des rééditions design, transformation d’une maison en région parisienne,  la moquette fait son grand retour et Sylvie Maréchal, designer lumière</desc>
+        <icon src="https://images.pluto.tv/series/6890b8a89017101f0505054d/tile_1754314921722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="685a999bd33909bdd7d2fb1e" start="20260615212635 +0000" stop="20260616000000 +0000">
         <title>La maison France 5</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/685a999bd33909bdd7d2fb1e/featuredImage_1751876561893.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31941,7 +32613,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Monster High: MH6 webisodes plonge les élèves de Monster High dans de nouvelles aventures fantastiques où se mêlent humour, magie et amitié. Chaque épisode célèbre la diversité et la confiance en soi avec une touche de style monstrueux.</desc>
         <icon src="https://images.pluto.tv/series/694331c10c94b06078fb1043/tile_1766011330528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260615201115 +0000" stop="20260616000000 +0000">
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260615201115 +0000" stop="20260615203715 +0000">
+        <title>Monster High: MH6 webisodes</title>
+        <desc>Monster High: MH6 webisodes plonge les élèves de Monster High dans de nouvelles aventures fantastiques où se mêlent humour, magie et amitié. Chaque épisode célèbre la diversité et la confiance en soi avec une touche de style monstrueux.</desc>
+        <icon src="https://images.pluto.tv/series/694331c10c94b06078fb1043/tile_1766011330528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260615203715 +0000" stop="20260615210321 +0000">
+        <title>Monster High: MH6 webisodes</title>
+        <desc>Monster High: MH6 webisodes plonge les élèves de Monster High dans de nouvelles aventures fantastiques où se mêlent humour, magie et amitié. Chaque épisode célèbre la diversité et la confiance en soi avec une touche de style monstrueux.</desc>
+        <icon src="https://images.pluto.tv/series/694331c10c94b06078fb1043/tile_1766011330528.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e7499e0ecf0e0cc25dbe3" start="20260615210321 +0000" stop="20260616000000 +0000">
         <title>Barbie &amp; Friends</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e7499e0ecf0e0cc25dbe3/featuredImage_1765805978819.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31951,7 +32633,22 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Suis Pingu, un petit pingouin curieux et malicieux qui découvre le monde glacé du pôle Sud ! Entre bêtises, fous rires et tendresse, il apprend la vie aux côtés de sa famille et de ses amis dans une série drôle, universelle et pleine de charme.</desc>
         <icon src="https://images.pluto.tv/series/691ae8486fe1b6a13dba3f85/tile_1763371083473.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="686e74b0e48af72bc266e798" start="20260615200812 +0000" stop="20260616000000 +0000">
+    <programme channel="686e74b0e48af72bc266e798" start="20260615200812 +0000" stop="20260615203205 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>C’est le dernier train avant Noël. Malgré la neige et les retards, les amis s’unissent pour ramener tout le monde à la maison.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260615203205 +0000" stop="20260615205558 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>En creusant, Marion heurte un gros tuyau et sème le désordre. Avec l’aide des amis, tout est réparé.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260615205558 +0000" stop="20260615211951 +0000">
+        <title>Thomas &amp; Friends</title>
+        <desc>La pénurie de charbon menace. Bill et Ben ignorent l’alerte de Timothy, tombent en panne et comprennent l’importance d’économiser.</desc>
+        <icon src="https://images.pluto.tv/series/69281ce88e21e6575a259f2a/tile_1764246923434.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="686e74b0e48af72bc266e798" start="20260615211951 +0000" stop="20260616000000 +0000">
         <title>Mattel Junior</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/686e74b0e48af72bc266e798/featuredImage_1765806081318.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31961,7 +32658,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le puant / Les schtroumpfs pompiers</desc>
         <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b16d2282862c1f067dc763" start="20260615202415 +0000" stop="20260616000000 +0000">
+    <programme channel="68b16d2282862c1f067dc763" start="20260615202415 +0000" stop="20260615204957 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Le tableau merveilleux</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260615204957 +0000" stop="20260615211712 +0000">
+        <title>Les Schtroumpfs</title>
+        <desc>Gargamel vole / Le premier coup de téléschtroumpf</desc>
+        <icon src="https://images.pluto.tv/series/68e3e1e0fa0f5ccff5c96e42/tile_1776241801722.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="68b16d2282862c1f067dc763" start="20260615211712 +0000" stop="20260616000000 +0000">
         <title>Les Schtroumpfs</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/68b16d2282862c1f067dc763/featuredImage_1760383269925.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
@@ -31971,7 +32678,17 @@ LES PRODIGES DU NOUVEAU MONDE !</title>
         <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
         <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="69b3db536c0414a7ecf564fb" start="20260615201834 +0000" stop="20260616000000 +0000">
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260615201834 +0000" stop="20260615204834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260615204834 +0000" stop="20260615211834 +0000">
+        <title>Space Live</title>
+        <desc>Le monde vu depuis l'espace, en temps réel. Connectée directement aux caméras de la Station Spatiale Internationale, cette chaîne propose le premier livestream continu de la Terre. L'expérience spatiale ultime, accessible à tous.</desc>
+        <icon src="https://images.pluto.tv/series/69e202574b6ab63ae845e815/tile_1776419448429.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="69b3db536c0414a7ecf564fb" start="20260615211834 +0000" stop="20260616000000 +0000">
         <title>Space Live</title>
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/69b3db536c0414a7ecf564fb/featuredImage_1775061732639.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
