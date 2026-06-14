@@ -10290,8 +10290,8 @@ Nobita en a assez que tout le monde soit en colère contre lui. Doraemon lui don
     </programme>
     <programme channel="5f8ecb336537e8000764a17f" start="20260614045851 +0000" stop="20260614050000 +0000">
         <title>Pluto TV Junior</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/5f8ecb336537e8000764a17f/featuredImage_1748328453416.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+        <desc>Bienvenue sur Pluto TV Junior, où vous trouverez les amis préférés de votre enfant ! Retrouvez des classiques tels que Bubulle Guppies, Les Wonder Choux, Wallykazam et bien d’autres séries préscolaires à succès sur Pluto TV Junior !</desc>
+        <icon src="https://images.pluto.tv/series/6a04e44af4a627f3b0d06017/tile_1778705483381.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="5f8ecb336537e8000764a17f" start="20260614050000 +0000" stop="20260614052345 +0000">
         <title>Dora l'exploratrice</title>
@@ -25534,6 +25534,11 @@ Bruno et Rémi nous entrainent sur les traces du passé de leur région avec la 
     <programme channel="660c2a2d2433010008df7e92" start="20260614175300 +0000" stop="20260614202700 +0000">
         <title>2014 FIFA World Cup</title>
         <desc>Soccer action from the 2014 FIFA World Cup from Brazil.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7c96446070bd3ce0b9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c2a2d2433010008df7e92" start="20260614202700 +0000" stop="20260614204500 +0000">
+        <title>2014 FIFA World Cup</title>
+        <desc>After surviving a tense semifinal decided by penalty kicks, Argentina must face Germany, fresh off its rout of Brazil, to determine which team will lift the World Cup trophy. From Maracanã Stadium in Rio de Janeiro, Brazil.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7c96446070bd3ce0b9/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66c45b36a72e7b0008a2b291" start="20260614150000 +0000" stop="20260614160000 +0000">

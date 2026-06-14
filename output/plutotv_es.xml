@@ -4436,6 +4436,11 @@
         <desc>Los recién casados Kate y Dave están ansiosos por comprar la primera casa juntos. Quieren un inmueble aireado, con una cocina moderna, con garaje y personalidad.</desc>
         <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="690dd10a37b131228d76d5b1" start="20260613235100 +0000" stop="20260614004400 +0000">
+        <title>La casa de mis sueños</title>
+        <desc>Los recién casados Kate y Dave están ansiosos por comprar la primera casa juntos. Quieren un inmueble aireado, con una cocina moderna, con garaje y personalidad.</desc>
+        <icon src="https://images.pluto.tv/series/6985aee371e7de966edf1845/tile_1770368740253.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="690dd10a37b131228d76d5b1" start="20260614004400 +0000" stop="20260614013600 +0000">
         <title>Flipping Virgins</title>
         <desc>La experta Egypt Sherrod guía a novatos que arriesgan todo al renovar casas con decisiones bajo presión.</desc>
@@ -20755,6 +20760,11 @@ Alejarse de los abusones / Rutina de meditación / Experimento con cupcakes / Co
     <programme channel="660c29f80cd4630008f1547c" start="20260614175300 +0000" stop="20260614202700 +0000">
         <title>2014 FIFA World Cup</title>
         <desc>Soccer action from the 2014 FIFA World Cup from Brazil.</desc>
+        <icon src="https://images.pluto.tv/series/67b36b7996446070bd3cdd22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
+    <programme channel="660c29f80cd4630008f1547c" start="20260614202700 +0000" stop="20260614204500 +0000">
+        <title>2014 FIFA World Cup</title>
+        <desc>After surviving a tense semifinal decided by penalty kicks, Argentina must face Germany, fresh off its rout of Brazil, to determine which team will lift the World Cup trophy. From Maracanã Stadium in Rio de Janeiro, Brazil.</desc>
         <icon src="https://images.pluto.tv/series/67b36b7996446070bd3cdd22/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="664c76d68ea5560008c6c7a4" start="20260614134920 +0000" stop="20260614153525 +0000">
