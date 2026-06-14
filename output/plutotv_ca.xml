@@ -1326,6 +1326,11 @@
         <desc>A scientist becomes obsessed with bringing back his family members who died in a traffic accident.</desc>
         <icon src="https://images.pluto.tv/series/645d0a0991275e001a82808e/tile_1764996917425.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="62ea3c2e4823db00072788ed" start="20260614203330 +0000" stop="20260614230030 +0000">
+        <title>A Most Violent Year</title>
+        <desc>A MOST VIOLENT YEAR follows Abel (Oscar Isaac) and his wife (Jessica Chastain) during a crucial moment of their lives as they attempt to pursue the American Dream, while rampant violence, decay, and corruption threaten to destroy their burgeoning empire.</desc>
+        <icon src="https://images.pluto.tv/series/652febea4827fc001a52cc6c/tile_1765400827365.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="62ea3d24b8e02600071fa296" start="20260614154430 +0000" stop="20260614172730 +0000">
         <title>Hot Pursuit (2015)</title>
         <desc>In this riotous spin on the mismatched buddy movie, an uptight and by-the-book cop (Reese Witherspoon) tries to protect the gregarious widow (Sofía Vergara) of a drug boss as they race through Texas pursued by crooked cops and murderous gunmen!</desc>
@@ -9746,6 +9751,11 @@
         <desc>When an ancient Egyptian artifact is discovered, two men unlock its secret power as a portal through time and space.</desc>
         <icon src="https://images.pluto.tv/series/690e16336e0067f40daa226b/tile_1762530876714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
+    <programme channel="69a9ae4d3bd16a4ed04240d7" start="20260615012100 +0000" stop="20260615034400 +0000">
+        <title>Stargate</title>
+        <desc>When an ancient Egyptian artifact is discovered, two men unlock its secret power as a portal through time and space.</desc>
+        <icon src="https://images.pluto.tv/series/690e16336e0067f40daa226b/tile_1762530876714.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    </programme>
     <programme channel="69b83e4169056557a9252f61" start="20260614194527 +0000" stop="20260614201324 +0000">
         <title>Growing Pains</title>
         <desc>Jason learns Maggie may be having another baby and becomes ecstatic.</desc>
@@ -11088,7 +11098,12 @@
     </programme>
     <programme channel="62e92447ea1e2a000735ed33" start="20260614235100 +0000" stop="20260615013500 +0000">
         <title>Midsomer Murders</title>
-        <desc>When star cricketer Leo Henderson dies during a tournament, the investigation draws Barnaby into a dangerous game with a surprise visitor from his past.</desc>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/62e92447ea1e2a000735ed33/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    </programme>
+    <programme channel="62e92447ea1e2a000735ed33" start="20260615013500 +0000" stop="20260615032000 +0000">
+        <title>Midsomer Murders</title>
+        <desc>The discovery of a body covered in live rabbits reveals a sinister side to the local pet show. Is this a rivalry taken too far or is the killer driven by something darker?</desc>
         <icon src="https://images.pluto.tv/series/630f2da64156680014b48a8e/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="62e924f2be69bc0007b7d53d" start="20260614193300 +0000" stop="20260614202400 +0000">
@@ -11171,15 +11186,10 @@
         <desc>Don's old flame Robin Brooks returns to California to prosecute an incarcerated criminal, but when three witnesses involved in the case are murdered, Don and his team realize that the next victim may be Robin and must work to keep her safe.</desc>
         <icon src="https://images.pluto.tv/series/62d1c3fad7fb2b001381498d/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="62e92708a7ce600007b2676a" start="20260614224800 +0000" stop="20260614233900 +0000">
-        <title>So Help Me Todd</title>
-        <desc>While Margaret makes every employee at Crest, Folding &amp; Wright work over the weekend on Gus' fairness hearing for a class action settlement, Todd begins investigating a secret case with the FBI where everyone at the firm is a potential suspect.</desc>
-        <icon src="https://images.pluto.tv/series/6928578c6d8434d421ef7986/tile_1764251533853.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="62e92708a7ce600007b2676a" start="20260614233900 +0000" stop="20260615003000 +0000">
-        <title>So Help Me Todd</title>
-        <desc>While Margaret tries to save her struggling law firm by taking on a case involving a large cosmetics company with deep pockets, Todd is determined to crack an important FBI investigation that will seal the fate of Crest, Folding &amp; Wright, one way or</desc>
-        <icon src="https://images.pluto.tv/series/6928578c6d8434d421ef7986/tile_1764251533853.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="62e92708a7ce600007b2676a" start="20260614224800 +0000" stop="20260615000000 +0000">
+        <title>Pluto TV Crime Drama</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/62e92708a7ce600007b2676a/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="62e9289f8d467f0007fbc701" start="20260614193500 +0000" stop="20260614202600 +0000">
         <title>Homicide: Hours To Kill</title>
@@ -11401,15 +11411,10 @@
         <desc>A dead mime leads to an investigation of a crooked auto dealer. Randy Wolfe, a woman who's apparently an expert at everything, leads the investigation while continually annoying Steve.</desc>
         <icon src="https://images.pluto.tv/series/62d70b1dbe1ffb001405ca45/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65fd548f29adfd00089c662c" start="20260614212700 +0000" stop="20260614222300 +0000">
+    <programme channel="65fd548f29adfd00089c662c" start="20260614212700 +0000" stop="20260614231900 +0000">
         <title>Diagnosis Murder</title>
-        <desc>Community General is already under increased security, with a high-profile criminal hospitalized, when an important businesswoman is brought in. Mark suspects her security guard has deadly intentions.</desc>
-        <icon src="https://images.pluto.tv/series/62d70b1dbe1ffb001405ca45/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="65fd548f29adfd00089c662c" start="20260614222300 +0000" stop="20260614231900 +0000">
-        <title>Diagnosis Murder</title>
-        <desc>Jesse's new part-time job as a trainer of the pro basketball Mustangs turns deadly when he's accused of murdering a star player.</desc>
-        <icon src="https://images.pluto.tv/series/62d70b1dbe1ffb001405ca45/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65fd548f29adfd00089c662c/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65fd548f29adfd00089c662c" start="20260614231900 +0000" stop="20260615001500 +0000">
         <title>Diagnosis Murder</title>
@@ -11526,19 +11531,14 @@
         <desc>A Marine faces a charge of dereliction after becoming lost in Iraq in a sandstorm; Sturgis prosecutes, and Mac defends. Harm flies again for the CIA, aboard a spy plane for a training hop, which turns into a real mission over North Korea.</desc>
         <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="66a105f4a79dea0008aa5e0f" start="20260614213000 +0000" stop="20260614222200 +0000">
+    <programme channel="66a105f4a79dea0008aa5e0f" start="20260614213000 +0000" stop="20260615005700 +0000">
         <title>JAG</title>
-        <desc>A Marine helo gunship intervenes during a standoff at a ranch; Mac prosecutes the pilot, and Harm defends. Bud investigates a Naval Reserve physician who, a conscientious objector, has received his medical education at Navy expense.</desc>
-        <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/66a105f4a79dea0008aa5e0f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="66a105f4a79dea0008aa5e0f" start="20260614222200 +0000" stop="20260614231400 +0000">
+    <programme channel="66a105f4a79dea0008aa5e0f" start="20260615005700 +0000" stop="20260615014900 +0000">
         <title>JAG</title>
-        <desc>Mac must defend a petty officer accused of murdering a female officer, but the man has no memory of the night in question, while a Navy SEAL who purchased nerve gas needs Bud's help to avoid prison.</desc>
-        <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="66a105f4a79dea0008aa5e0f" start="20260614231400 +0000" stop="20260615000500 +0000">
-        <title>JAG</title>
-        <desc>MGen. Creswell has taken charge. An official of the DoD has died in Iraq; a Marine staff sergeant goes on trial for involuntary manslaughter by culpable negligence; Harm prosecutes, and Mac defends. Officers take partial responsibility.</desc>
+        <desc>A sailor dies during a fight aboard a ship at sea; Bud discovers the explanation. Mattie wakes up and talks. The general announces a reorganization, orders, and a promotion.</desc>
         <icon src="https://images.pluto.tv/series/62d6fb157abcdc00139bd0af/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="66a106c8a79dea0008aa5ef3" start="20260614194600 +0000" stop="20260614203700 +0000">
@@ -11691,40 +11691,15 @@
         <desc>Shawn learns the the intricacies of the annual buffalo roundup at Tsuut'ina Nation.</desc>
         <icon src="https://images.pluto.tv/series/68f7f7365089b887d49eed2a/tile_1781444785057.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614210457 +0000" stop="20260614213101 +0000">
-        <title>Spirit Talker</title>
-        <desc>In the Stoney Nakoda Nations, Shawn encounters spirit messages and hunts deer.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7365089b887d49eed2a/tile_1781444785057.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68b9afd66985e192657a2b7f" start="20260614210457 +0000" stop="20260615000728 +0000">
+        <title>APTN Beyond</title>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/68b9afd66985e192657a2b7f/featuredImage_1760948547440.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614213101 +0000" stop="20260614215706 +0000">
-        <title>Red Earth Uncovered</title>
-        <desc>Hayley investigates sightings of merfolk in Kamloops and visits the Banff Trading Post.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7355a234f10e038ce16/tile_1781444783545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614215706 +0000" stop="20260614222310 +0000">
-        <title>Red Earth Uncovered</title>
-        <desc>Hayley visits Fernie to document the legend of Ghostrider, a shadow of a horse and rider.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7355a234f10e038ce16/tile_1781444783545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614222310 +0000" stop="20260614224915 +0000">
-        <title>Red Earth Uncovered</title>
-        <desc>Hayley explores West Central Saskatchewan to find out more about the creature of Turtle Lake.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7355a234f10e038ce16/tile_1781444783545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614224915 +0000" stop="20260614231520 +0000">
-        <title>Red Earth Uncovered</title>
-        <desc>Hayley examines the folklore surrounding mystical dragons.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7355a234f10e038ce16/tile_1781444783545.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614231520 +0000" stop="20260614234124 +0000">
-        <title>Indians and Aliens</title>
-        <desc>Lost time, burned eyes and an alien abduction. Joan Morningstar shares her mysterious stories.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f736a1646a6c5517e59d/tile_1781444784039.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
-    </programme>
-    <programme channel="68b9afd66985e192657a2b7f" start="20260614234124 +0000" stop="20260615000728 +0000">
-        <title>Lands Enchanted</title>
-        <desc>Visit Iniskim Umaapi, a medicine wheel in Siksika First Nation.</desc>
-        <icon src="https://images.pluto.tv/series/68f7f7385a234f10e038ce68/tile_1781444784677.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+    <programme channel="68b9afd66985e192657a2b7f" start="20260615000728 +0000" stop="20260615003332 +0000">
+        <title>Ghost Hunters of the Grand River</title>
+        <desc>The ghost hunters investigate strange happenings at the Sharon Temple.</desc>
+        <icon src="https://images.pluto.tv/series/68f7f735b2633ae3e90679fa/tile_1781444783748.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="68d25b620a0f3829b116bb6f" start="20260614194500 +0000" stop="20260614201500 +0000">
         <title>Sailor Moon Crystal</title>
@@ -39582,10 +39557,10 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>The family oversleeps on the day Lindsey is scheduled to sing the national anthem at a baseball game. Meanwhile, Kevin gets sick.</desc>
         <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
-    <programme channel="65cf8b9328730900087c5324" start="20260615154200 +0000" stop="20260615160700 +0000">
+    <programme channel="65cf8b9328730900087c5324" start="20260615154200 +0000" stop="20260615160000 +0000">
         <title>Are We There Yet?</title>
-        <desc>Nick and Suzanne go head to head in the kitchen when Nick says cooking is \\"easy\\" and Suzanne challenges him to a family cooking competition.</desc>
-        <icon src="https://images.pluto.tv/series/660db2cc46b9c60013817218/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/65cf8b9328730900087c5324/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="65cf8bdaa25d5e00081e1e5d" start="20260615114800 +0000" stop="20260615121300 +0000">
         <title>Anger Management</title>
@@ -39914,8 +39889,8 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
     </programme>
     <programme channel="6874ad2f3484d60732267ba8" start="20260615132700 +0000" stop="20260615135300 +0000">
         <title>Scare Tactics</title>
-        <desc>Toxic chemicals bubble up and overtake a science lab, trapping everyone inside.</desc>
-        <icon src="https://images.pluto.tv/series/68824eabdf1220b535b6dd12/tile_1765567846186.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
+        <desc>no info available</desc>
+        <icon src="https://images.pluto.tv/channels/6874ad2f3484d60732267ba8/featuredImage_1756936025284.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
     <programme channel="6874ad2f3484d60732267ba8" start="20260615135300 +0000" stop="20260615142100 +0000">
         <title>Scare Tactics</title>
@@ -48802,10 +48777,10 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/638e0f4832494900074481e7/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64c2201a2a7f2200089a0af2" start="20260615160000 +0000" stop="20260615170000 +0000">
-        <title>Let's Make a deal</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64c2201a2a7f2200089a0af2/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64c2201a2a7f2200089a0af2" start="20260615155900 +0000" stop="20260615170000 +0000">
+        <title>Let's Make a Deal</title>
+        <desc>Costumed contestants compete for cash and prizes.</desc>
+        <icon src="https://images.pluto.tv/series/64e4954d445a8a00133b422b/tile.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c2201a2a7f2200089a0af2" start="20260615170000 +0000" stop="20260615175900 +0000">
         <title>Let's Make a Deal</title>
@@ -48847,10 +48822,10 @@ In the end, Inferno sacrifices himself in the sun to defeat the Decepticons.</de
         <desc>no info available</desc>
         <icon src="https://images.pluto.tv/channels/64c2214c2a7f2200089a0c4b/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
     </programme>
-    <programme channel="64c2222fb0cf5c0008288c4f" start="20260615160000 +0000" stop="20260615160400 +0000">
-        <title>Family Feud Classic</title>
-        <desc>no info available</desc>
-        <icon src="https://images.pluto.tv/channels/64c2222fb0cf5c0008288c4f/featuredImage.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=900&amp;q=75&amp;w=1600"/>
+    <programme channel="64c2222fb0cf5c0008288c4f" start="20260615153500 +0000" stop="20260615160400 +0000">
+        <title>Family Feud</title>
+        <desc>Family Feud is an American television game show where two families compete to name the responses to survey questions in order to win cash and prizes.</desc>
+        <icon src="https://images.pluto.tv/series/654ac1a8e2a2d8001a572783/tile_1772060815853.jpg?fill=blur&amp;fit=fill&amp;fm=jpg&amp;h=660&amp;q=75&amp;w=660"/>
     </programme>
     <programme channel="64c2222fb0cf5c0008288c4f" start="20260615160400 +0000" stop="20260615163200 +0000">
         <title>Family Feud</title>
