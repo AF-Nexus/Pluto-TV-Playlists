@@ -9,7 +9,7 @@ jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
-      contents: write        # ← Add this
+      contents: write
 
     steps:
       - name: Checkout repo
@@ -33,3 +33,11 @@ jobs:
           git add .
           git commit -m "Auto update playlist" || echo "No changes"
           git push --force
+
+      - name: Sync to Channelzz
+        if: ${{ secrets.RENDER_URL != '' }}
+        run: |
+          curl -s -X POST \
+            -H "x-sync-secret: ${{ secrets.SYNC_SECRET }}" \
+            "${{ secrets.RENDER_URL }}/api/webhooks/pluto?githubUser=${{ github.repository_owner }}" \
+            || true
